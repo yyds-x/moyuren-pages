@@ -1,7 +1,7 @@
 {
   "date": "2026-04-09",
-  "updated": "2026/04/09 02:09:49",
-  "updated_at": 1775671789912,
+  "updated": "2026/04/09 03:46:24",
+  "updated_at": 1775677584937,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "煎蛋要给荷包蛋表白应该唱什么歌？这是一首煎蛋（简单）的小情歌。"
+    "text": "鹿只有公的没有母的，为什么？因为只有公路，没有母路。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "我本是官位世家的陈塘关公主，却被诡计多端的奸人所害！家人弃我！师门逐我！甚至断我灵脉！重来一生，今天肯德基疯狂星期四！谁请我吃？",
+  "kfc_content": "正在循环播放《妈的群主不请我吃肯德基疯狂星期四》\n[图片]\n━━━━━━━●──4:44\n  ①       ◁      ❚❚      ▷        ↻",
   "date_info": {
     "year_month": "2026.04",
     "day": "9",
@@ -167,7 +167,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "我本是官位世家的陈塘关公主，却被诡计多端的奸人所害！家人弃我！师门逐我！甚至断我灵脉！重来一生，今天肯德基疯狂星期四！谁请我吃？"
+    "content": "正在循环播放《妈的群主不请我吃肯德基疯狂星期四》\n[图片]\n━━━━━━━●──4:44\n  ①       ◁      ❚❚      ▷        ↻"
   },
   "stock_indices": {
     "items": [
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 47897.49,
-        "change": 1313.03,
-        "change_pct": 2.82,
+        "price": 47821.86,
+        "change": 1237.4,
+        "change_pct": 2.66,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/09 02:09:45",
-    "updated_at": 1775671785295,
+    "updated": "2026/04/09 03:46:20",
+    "updated_at": 1775677580649,
     "trading_day": {
       "A": true,
       "HK": true,
