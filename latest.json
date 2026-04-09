@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
-  "updated": "2026/04/10 06:04:20",
-  "updated_at": 1775772260740,
+  "updated": "2026/04/10 07:07:37",
+  "updated_at": 1775776057339,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "如果婚姻是爱情的坟墓，一年一次的结婚周年庆祝，便是在“扫墓” 了。"
+    "text": "朋友说借二十块钱回头给你，借完钱之后我才知道，有些人一转身就是一辈子。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/10 06:04:14",
-    "updated_at": 1775772254814,
+    "updated": "2026/04/10 07:07:30",
+    "updated_at": 1775776050934,
     "trading_day": {
       "A": true,
       "HK": true,
