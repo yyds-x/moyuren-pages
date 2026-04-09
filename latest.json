@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
-  "updated": "2026/04/10 05:08:08",
-  "updated_at": 1775768888325,
+  "updated": "2026/04/10 06:04:20",
+  "updated_at": 1775772260740,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "念念不忘，可有回响？"
+    "text": "如果婚姻是爱情的坟墓，一年一次的结婚周年庆祝，便是在“扫墓” 了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/10 05:08:02",
-    "updated_at": 1775768882883,
+    "updated": "2026/04/10 06:04:14",
+    "updated_at": 1775772254814,
     "trading_day": {
       "A": true,
       "HK": true,
