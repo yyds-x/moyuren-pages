@@ -1,7 +1,7 @@
 {
   "date": "2026-04-09",
-  "updated": "2026/04/09 21:21:09",
-  "updated_at": 1775740869282,
+  "updated": "2026/04/09 23:06:26",
+  "updated_at": 1775747186722,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "你知道什么动物最没有方向感吗？麋鹿（迷路）。"
+    "text": "你知道海底什么生物最搞笑吗？海鳗，因为海鳗（还蛮）搞笑的。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "接金铲铲代打 188💰上大师 如果没上退 138 块 留 50 辛苦费 有需要的直接给 50 块就可以了 号也不用给我 反正我又打不上去 省得退钱了 麻烦要打的快点 要吃肯德基了",
+  "kfc_content": "刚给对象洗完衣服，手搓的，平时洗之前手都要消 5 遍毒。今天因为漏了一遍被对象打了两巴掌，现在心里有点委屈。今天疯狂星期四，谁请我吃 KFC，我边吃边跟你说她平时都怎么骂我的。",
   "date_info": {
     "year_month": "2026.04",
     "day": "9",
@@ -167,68 +167,17 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "接金铲铲代打 188💰上大师 如果没上退 138 块 留 50 辛苦费 有需要的直接给 50 块就可以了 号也不用给我 反正我又打不上去 省得退钱了 麻烦要打的快点 要吃肯德基了"
+    "content": "刚给对象洗完衣服，手搓的，平时洗之前手都要消 5 遍毒。今天因为漏了一遍被对象打了两巴掌，现在心里有点委屈。今天疯狂星期四，谁请我吃 KFC，我边吃边跟你说她平时都怎么骂我的。"
   },
   "stock_indices": {
-    "items": [
-      {
-        "code": "000001",
-        "name": "上证指数",
-        "price": 3966.17,
-        "change": -28.83,
-        "change_pct": -0.72,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399001",
-        "name": "深证成指",
-        "price": 13996.27,
-        "change": -46.23,
-        "change_pct": -0.33,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399006",
-        "name": "创业板指",
-        "price": 3323.3,
-        "change": -24.31,
-        "change_pct": -0.73,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "HSI",
-        "name": "恒生指数",
-        "price": 25752.4,
-        "change": -140.62,
-        "change_pct": -0.54,
-        "trend": "down",
-        "market": "HK",
-        "is_trading_day": true
-      },
-      {
-        "code": "DJIA",
-        "name": "道琼斯",
-        "price": 47909.92,
-        "change": 1325.46,
-        "change_pct": 2.85,
-        "trend": "up",
-        "market": "US",
-        "is_trading_day": true
-      }
-    ],
-    "updated": "2026/04/09 21:21:02",
-    "updated_at": 1775740862347,
+    "items": [],
+    "updated": "2026/04/09 23:06:17",
+    "updated_at": 1775747177932,
     "trading_day": {
-      "A": true,
-      "HK": true,
-      "US": true
+      "A": false,
+      "HK": false,
+      "US": false
     },
-    "is_stale": false
+    "is_stale": true
   }
 }
