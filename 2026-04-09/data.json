@@ -1,7 +1,7 @@
 {
   "date": "2026-04-09",
-  "updated": "2026/04/09 07:35:37",
-  "updated_at": 1775691337815,
+  "updated": "2026/04/09 09:58:31",
+  "updated_at": 1775699911183,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "平行线最受不了什么水果？香蕉。"
+    "text": "皮卡丘站起来会变成什么？皮卡兵。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "新婚那夜，你却和兄弟在床上，\n我默默蹲在门外，听着喘息，我知道我只是选项 E，是 plan B，\n一年后，你不顾一切离开，只留下一封信和孩子的哭泣，\n昨天，你用着最新的 iPhone13 发来消息，说他对你不好，\n还质问我，怎么不像从前那样立刻回你的消息，安慰你\n但是，你不知道，你不知道，今天是什么日子，\n今天，是我最忙的日子，\nV 我 50，等我下班了，我请孩子吃疯狂星期四！",
+  "kfc_content": "感冒了好难受，不想吃饭，今天是疯狂星期四，有心的话请我吃 KFC 吧",
   "date_info": {
     "year_month": "2026.04",
     "day": "9",
@@ -167,68 +167,17 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "新婚那夜，你却和兄弟在床上，\n我默默蹲在门外，听着喘息，我知道我只是选项 E，是 plan B，\n一年后，你不顾一切离开，只留下一封信和孩子的哭泣，\n昨天，你用着最新的 iPhone13 发来消息，说他对你不好，\n还质问我，怎么不像从前那样立刻回你的消息，安慰你\n但是，你不知道，你不知道，今天是什么日子，\n今天，是我最忙的日子，\nV 我 50，等我下班了，我请孩子吃疯狂星期四！"
+    "content": "感冒了好难受，不想吃饭，今天是疯狂星期四，有心的话请我吃 KFC 吧"
   },
   "stock_indices": {
-    "items": [
-      {
-        "code": "000001",
-        "name": "上证指数",
-        "price": 3995.0,
-        "change": 104.84,
-        "change_pct": 2.7,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399001",
-        "name": "深证成指",
-        "price": 14042.5,
-        "change": 642.09,
-        "change_pct": 4.79,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399006",
-        "name": "创业板指",
-        "price": 3347.61,
-        "change": 186.79,
-        "change_pct": 5.91,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "HSI",
-        "name": "恒生指数",
-        "price": 25893.02,
-        "change": 776.49,
-        "change_pct": 3.09,
-        "trend": "up",
-        "market": "HK",
-        "is_trading_day": true
-      },
-      {
-        "code": "DJIA",
-        "name": "道琼斯",
-        "price": 47909.92,
-        "change": 1325.46,
-        "change_pct": 2.85,
-        "trend": "up",
-        "market": "US",
-        "is_trading_day": true
-      }
-    ],
-    "updated": "2026/04/09 07:35:32",
-    "updated_at": 1775691332381,
+    "items": [],
+    "updated": "2026/04/09 09:58:22",
+    "updated_at": 1775699902126,
     "trading_day": {
-      "A": true,
-      "HK": true,
-      "US": true
+      "A": false,
+      "HK": false,
+      "US": false
     },
-    "is_stale": false
+    "is_stale": true
   }
 }
