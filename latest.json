@@ -1,7 +1,7 @@
 {
   "date": "2026-04-09",
-  "updated": "2026/04/09 12:38:13",
-  "updated_at": 1775709493036,
+  "updated": "2026/04/09 14:20:11",
+  "updated_at": 1775715611958,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小明理了个新发型，同学说像风筝，他委屈地哭了，哭着哭着就飞起来了。"
+    "text": "什么花一边开一边掉？烟花。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "我是社会你虎哥，v 我 50，给我提供 19.9 的热辣香骨鸡作为军粮，让我打败杀马特团长。事成之后，我送你我的李宁鞋",
+  "kfc_content": "对不起我投降了 我超级粘人也超级喜欢你 你不理我 我就没有办法好好做事 忘记说晚安我就睡不着偶尔故意冷淡是想看你的反应 我也不喜欢别人 我只对你这样 但我忍不住了 今天是肯德基疯狂星期四可以请我吃吗",
   "date_info": {
     "year_month": "2026.04",
     "day": "9",
@@ -167,16 +167,16 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "我是社会你虎哥，v 我 50，给我提供 19.9 的热辣香骨鸡作为军粮，让我打败杀马特团长。事成之后，我送你我的李宁鞋"
+    "content": "对不起我投降了 我超级粘人也超级喜欢你 你不理我 我就没有办法好好做事 忘记说晚安我就睡不着偶尔故意冷淡是想看你的反应 我也不喜欢别人 我只对你这样 但我忍不住了 今天是肯德基疯狂星期四可以请我吃吗"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3965.7,
-        "change": -29.3,
-        "change_pct": -0.73,
+        "price": 3965.34,
+        "change": -29.66,
+        "change_pct": -0.74,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -184,9 +184,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 13999.55,
-        "change": -42.95,
-        "change_pct": -0.31,
+        "price": 14007.38,
+        "change": -35.12,
+        "change_pct": -0.25,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3325.29,
-        "change": -22.32,
-        "change_pct": -0.67,
+        "price": 3326.15,
+        "change": -21.46,
+        "change_pct": -0.64,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25801.87,
-        "change": -91.15,
-        "change_pct": -0.35,
+        "price": 25806.92,
+        "change": -86.1,
+        "change_pct": -0.33,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/09 12:38:08",
-    "updated_at": 1775709488067,
+    "updated": "2026/04/09 14:20:03",
+    "updated_at": 1775715603387,
     "trading_day": {
       "A": true,
       "HK": true,
