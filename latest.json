@@ -1,7 +1,7 @@
 {
   "date": "2026-04-09",
-  "updated": "2026/04/09 09:58:31",
-  "updated_at": 1775699911183,
+  "updated": "2026/04/09 12:38:13",
+  "updated_at": 1775709493036,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "皮卡丘站起来会变成什么？皮卡兵。"
+    "text": "小明理了个新发型，同学说像风筝，他委屈地哭了，哭着哭着就飞起来了。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "感冒了好难受，不想吃饭，今天是疯狂星期四，有心的话请我吃 KFC 吧",
+  "kfc_content": "我是社会你虎哥，v 我 50，给我提供 19.9 的热辣香骨鸡作为军粮，让我打败杀马特团长。事成之后，我送你我的李宁鞋",
   "date_info": {
     "year_month": "2026.04",
     "day": "9",
@@ -167,17 +167,68 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "感冒了好难受，不想吃饭，今天是疯狂星期四，有心的话请我吃 KFC 吧"
+    "content": "我是社会你虎哥，v 我 50，给我提供 19.9 的热辣香骨鸡作为军粮，让我打败杀马特团长。事成之后，我送你我的李宁鞋"
   },
   "stock_indices": {
-    "items": [],
-    "updated": "2026/04/09 09:58:22",
-    "updated_at": 1775699902126,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 3965.7,
+        "change": -29.3,
+        "change_pct": -0.73,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 13999.55,
+        "change": -42.95,
+        "change_pct": -0.31,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 3325.29,
+        "change": -22.32,
+        "change_pct": -0.67,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 25801.87,
+        "change": -91.15,
+        "change_pct": -0.35,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": true
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 47909.92,
+        "change": 1325.46,
+        "change_pct": 2.85,
+        "trend": "up",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/04/09 12:38:08",
+    "updated_at": 1775709488067,
     "trading_day": {
-      "A": false,
-      "HK": false,
-      "US": false
+      "A": true,
+      "HK": true,
+      "US": true
     },
-    "is_stale": true
+    "is_stale": false
   }
 }
