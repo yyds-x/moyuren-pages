@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
-  "updated": "2026/04/10 01:57:11",
-  "updated_at": 1775757431519,
+  "updated": "2026/04/10 03:08:58",
+  "updated_at": 1775761738531,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你若帮了一急需用钱的朋友，他一定会记得你，在他下次急需用钱的时候。"
+    "text": "自古情深留不住，总是套路得人心。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48287.72,
-        "change": 377.8,
-        "change_pct": 0.79,
+        "price": 48214.65,
+        "change": 304.73,
+        "change_pct": 0.64,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/10 01:57:05",
-    "updated_at": 1775757425559,
+    "updated": "2026/04/10 03:08:52",
+    "updated_at": 1775761732922,
     "trading_day": {
       "A": true,
       "HK": true,
