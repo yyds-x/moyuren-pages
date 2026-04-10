@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
-  "updated": "2026/04/10 22:45:09",
-  "updated_at": 1775832309480,
+  "updated": "2026/04/10 23:50:25",
+  "updated_at": 1775836225445,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你的臭脚被毒蛇咬了，抢救了6个小时，毒蛇终于救了过来。"
+    "text": "经过十年不断的努力和奋斗，我终于从懵懂无知的少年，变成了懵懂无知的青年。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48060.67,
-        "change": -125.13,
-        "change_pct": -0.26,
+        "price": 48001.86,
+        "change": -183.94,
+        "change_pct": -0.38,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/10 22:45:04",
-    "updated_at": 1775832304216,
+    "updated": "2026/04/10 23:50:17",
+    "updated_at": 1775836217890,
     "trading_day": {
       "A": true,
       "HK": true,
