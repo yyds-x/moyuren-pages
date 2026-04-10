@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
-  "updated": "2026/04/10 20:05:58",
-  "updated_at": 1775822758313,
+  "updated": "2026/04/10 21:54:59",
+  "updated_at": 1775829299219,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "到不了的都叫做远方，回不去的名字叫家乡。"
+    "text": "你可以像只猪一样懒，却无法像只猪一样，懒得心安理得。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48185.8,
-        "change": 275.88,
-        "change_pct": 0.58,
-        "trend": "up",
+        "price": 47975.8,
+        "change": -210.0,
+        "change_pct": -0.44,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/10 20:05:52",
-    "updated_at": 1775822752312,
+    "updated": "2026/04/10 21:54:52",
+    "updated_at": 1775829292685,
     "trading_day": {
       "A": true,
       "HK": true,
