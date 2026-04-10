@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
-  "updated": "2026/04/10 07:07:37",
-  "updated_at": 1775776057339,
+  "updated": "2026/04/10 08:00:20",
+  "updated_at": 1775779220175,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "朋友说借二十块钱回头给你，借完钱之后我才知道，有些人一转身就是一辈子。"
+    "text": "老板用你的时候你就是人才，不用你的时候就变成裁人！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/10 07:07:30",
-    "updated_at": 1775776050934,
+    "updated": "2026/04/10 08:00:15",
+    "updated_at": 1775779215517,
     "trading_day": {
       "A": true,
       "HK": true,
