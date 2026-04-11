@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "updated": "2026/04/12 05:01:24",
-  "updated_at": 1775941284771,
+  "updated": "2026/04/12 05:56:22",
+  "updated_at": 1775944582233,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "见到长辈时，不是我们不想叫他，而是压根就不知道叫他什么。"
+    "text": "月老麻烦下次为我牵红线，能换成钢丝吗？红线老TM断。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/12 05:01:19",
-    "updated_at": 1775941279351,
+    "updated": "2026/04/12 05:56:15",
+    "updated_at": 1775944575136,
     "trading_day": {
       "A": false,
       "HK": false,
