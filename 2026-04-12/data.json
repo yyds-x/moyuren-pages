@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "updated": "2026/04/12 04:29:29",
-  "updated_at": 1775939369074,
+  "updated": "2026/04/12 05:01:24",
+  "updated_at": 1775941284771,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "如果过年你看到我脸色不好，别想太多，就是你忘给红包了。"
+    "text": "见到长辈时，不是我们不想叫他，而是压根就不知道叫他什么。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/12 04:29:23",
-    "updated_at": 1775939363667,
+    "updated": "2026/04/12 05:01:19",
+    "updated_at": 1775941279351,
     "trading_day": {
       "A": false,
       "HK": false,
