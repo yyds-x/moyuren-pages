@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "updated": "2026/04/12 01:59:24",
-  "updated_at": 1775930364517,
+  "updated": "2026/04/12 02:57:42",
+  "updated_at": 1775933862281,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "“你妹”是个好姑娘，替“你妈”分担了很多。"
+    "text": "失败也是成功的一部分，在哪里跌倒，就在哪里讹人。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/12 01:59:20",
-    "updated_at": 1775930360418,
+    "updated": "2026/04/12 02:57:35",
+    "updated_at": 1775933855795,
     "trading_day": {
       "A": false,
       "HK": false,
