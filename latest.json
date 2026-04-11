@@ -1,7 +1,7 @@
 {
   "date": "2026-04-11",
-  "updated": "2026/04/11 21:54:29",
-  "updated_at": 1775915669839,
+  "updated": "2026/04/11 22:34:38",
+  "updated_at": 1775918078199,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -170,65 +170,14 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [
-      {
-        "code": "000001",
-        "name": "上证指数",
-        "price": 3986.22,
-        "change": 20.05,
-        "change_pct": 0.51,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": false
-      },
-      {
-        "code": "399001",
-        "name": "深证成指",
-        "price": 14309.47,
-        "change": 313.2,
-        "change_pct": 2.24,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": false
-      },
-      {
-        "code": "399006",
-        "name": "创业板指",
-        "price": 3448.79,
-        "change": 125.49,
-        "change_pct": 3.78,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": false
-      },
-      {
-        "code": "HSI",
-        "name": "恒生指数",
-        "price": 25893.54,
-        "change": 141.14,
-        "change_pct": 0.55,
-        "trend": "up",
-        "market": "HK",
-        "is_trading_day": false
-      },
-      {
-        "code": "DJIA",
-        "name": "道琼斯",
-        "price": 47916.57,
-        "change": -269.23,
-        "change_pct": -0.56,
-        "trend": "down",
-        "market": "US",
-        "is_trading_day": false
-      }
-    ],
-    "updated": "2026/04/11 21:54:20",
-    "updated_at": 1775915660943,
+    "items": [],
+    "updated": "2026/04/11 22:34:28",
+    "updated_at": 1775918068268,
     "trading_day": {
       "A": false,
       "HK": false,
       "US": false
     },
-    "is_stale": false
+    "is_stale": true
   }
 }
