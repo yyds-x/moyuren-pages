@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "updated": "2026/04/12 03:37:03",
-  "updated_at": 1775936223870,
+  "updated": "2026/04/12 04:29:29",
+  "updated_at": 1775939369074,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "考试真是so easy，哪里不会考哪里！"
+    "text": "如果过年你看到我脸色不好，别想太多，就是你忘给红包了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/12 03:36:58",
-    "updated_at": 1775936218497,
+    "updated": "2026/04/12 04:29:23",
+    "updated_at": 1775939363667,
     "trading_day": {
       "A": false,
       "HK": false,
