@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "updated": "2026/04/12 19:55:46",
-  "updated_at": 1775994946435,
+  "updated": "2026/04/12 20:56:37",
+  "updated_at": 1775998597437,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "18岁什么化妆品都不用，28岁什么化妆品都没用。"
+    "text": "经过大家的耐心劝导，我终于接受了，自己是傻逼这个事实。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/12 19:55:40",
-    "updated_at": 1775994940429,
+    "updated": "2026/04/12 20:56:31",
+    "updated_at": 1775998591450,
     "trading_day": {
       "A": false,
       "HK": false,
