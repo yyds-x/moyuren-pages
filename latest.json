@@ -1,7 +1,7 @@
 {
   "date": "2026-04-13",
-  "updated": "2026/04/13 02:42:50",
-  "updated_at": 1776019370522,
+  "updated": "2026/04/13 03:37:36",
+  "updated_at": 1776022656314,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "路易十六是不能用来开玩笑的，为什么？因为开玩笑总要有个头。"
+    "text": "晏子使楚，被人羞辱后离开，有大臣急忙去追：“晏子！晏子！你带我一起走吧！没有你我怎么活呀！”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/13 02:42:45",
-    "updated_at": 1776019365073,
+    "updated": "2026/04/13 03:37:31",
+    "updated_at": 1776022651504,
     "trading_day": {
       "A": true,
       "HK": true,
