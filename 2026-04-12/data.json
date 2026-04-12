@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "updated": "2026/04/12 15:10:35",
-  "updated_at": 1775977835727,
+  "updated": "2026/04/12 16:11:21",
+  "updated_at": 1775981481509,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "曾经是梦想家，现在没了梦，只剩下想家。"
+    "text": "恋爱时会觉得像吸毒一样，分手了又会像戒毒一样。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/12 15:10:28",
-    "updated_at": 1775977828654,
+    "updated": "2026/04/12 16:11:15",
+    "updated_at": 1775981475078,
     "trading_day": {
       "A": false,
       "HK": false,
