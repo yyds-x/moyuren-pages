@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "updated": "2026/04/12 08:01:35",
-  "updated_at": 1775952095025,
+  "updated": "2026/04/12 11:50:55",
+  "updated_at": 1775965855297,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你坐过最挤的公交车是什么？只是路过，却被挤上了车。"
+    "text": "世人笑我太疯癫，我笑世人这么快就看出来了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/12 08:01:30",
-    "updated_at": 1775952090381,
+    "updated": "2026/04/12 11:50:48",
+    "updated_at": 1775965848743,
     "trading_day": {
       "A": false,
       "HK": false,
