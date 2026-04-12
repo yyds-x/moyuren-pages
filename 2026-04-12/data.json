@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "updated": "2026/04/12 21:59:57",
-  "updated_at": 1776002397670,
+  "updated": "2026/04/12 22:50:52",
+  "updated_at": 1776005452385,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "今天天气很好，在房间里宅久了，准备去客厅散散心。"
+    "text": "如果全世界都不要你了，记得要来找我，我认识好几个人贩子。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/12 21:59:50",
-    "updated_at": 1776002390985,
+    "updated": "2026/04/12 22:50:45",
+    "updated_at": 1776005445382,
     "trading_day": {
       "A": false,
       "HK": false,
