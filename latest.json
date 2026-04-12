@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "updated": "2026/04/12 20:56:37",
-  "updated_at": 1775998597437,
+  "updated": "2026/04/12 21:59:57",
+  "updated_at": 1776002397670,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "经过大家的耐心劝导，我终于接受了，自己是傻逼这个事实。"
+    "text": "今天天气很好，在房间里宅久了，准备去客厅散散心。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/12 20:56:31",
-    "updated_at": 1775998591450,
+    "updated": "2026/04/12 21:59:50",
+    "updated_at": 1776002390985,
     "trading_day": {
       "A": false,
       "HK": false,
