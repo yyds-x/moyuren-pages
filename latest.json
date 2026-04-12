@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "updated": "2026/04/12 19:05:53",
-  "updated_at": 1775991953664,
+  "updated": "2026/04/12 19:55:46",
+  "updated_at": 1775994946435,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "还没有对象？要不要给你介绍，一款不错的狗粮。"
+    "text": "18岁什么化妆品都不用，28岁什么化妆品都没用。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/12 19:05:42",
-    "updated_at": 1775991942949,
+    "updated": "2026/04/12 19:55:40",
+    "updated_at": 1775994940429,
     "trading_day": {
       "A": false,
       "HK": false,
