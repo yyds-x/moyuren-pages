@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "updated": "2026/04/12 11:50:55",
-  "updated_at": 1775965855297,
+  "updated": "2026/04/12 13:52:28",
+  "updated_at": 1775973148446,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "世人笑我太疯癫，我笑世人这么快就看出来了。"
+    "text": "只要努力的时间足够长，搞不好，你还可以失败的更彻底。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/12 11:50:48",
-    "updated_at": 1775965848743,
+    "updated": "2026/04/12 13:52:24",
+    "updated_at": 1775973144513,
     "trading_day": {
       "A": false,
       "HK": false,
