@@ -1,7 +1,7 @@
 {
   "date": "2026-04-13",
-  "updated": "2026/04/13 06:30:42",
-  "updated_at": 1776033042951,
+  "updated": "2026/04/13 07:32:03",
+  "updated_at": 1776036723392,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "麒麟飞到北极会变成什么？冰淇淋（冰麒麟）。"
+    "text": "我有6个朋友，分别是012345，其中有三个人互相喜欢，你猜是谁？是520。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/13 06:30:36",
-    "updated_at": 1776033036907,
+    "updated": "2026/04/13 07:31:57",
+    "updated_at": 1776036717797,
     "trading_day": {
       "A": true,
       "HK": true,
