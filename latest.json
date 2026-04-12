@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "updated": "2026/04/12 07:30:31",
-  "updated_at": 1775950231090,
+  "updated": "2026/04/12 08:01:35",
+  "updated_at": 1775952095025,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "忍无可忍，就重新再忍。"
+    "text": "你坐过最挤的公交车是什么？只是路过，却被挤上了车。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/12 07:30:26",
-    "updated_at": 1775950226124,
+    "updated": "2026/04/12 08:01:30",
+    "updated_at": 1775952090381,
     "trading_day": {
       "A": false,
       "HK": false,
