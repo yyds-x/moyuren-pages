@@ -1,7 +1,7 @@
 {
   "date": "2026-04-14",
-  "updated": "2026/04/14 02:45:07",
-  "updated_at": 1776105907257,
+  "updated": "2026/04/14 04:04:15",
+  "updated_at": 1776110655452,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "暗恋就是你在心里，为他盖了一座城堡，他却连门都不想进。"
+    "text": "你若帮了一急需用钱的朋友，他一定会记得你，在他下次急需用钱的时候。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 47988.55,
-        "change": 71.98,
-        "change_pct": 0.15,
+        "price": 48218.25,
+        "change": 301.68,
+        "change_pct": 0.63,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/14 02:45:01",
-    "updated_at": 1776105901570,
+    "updated": "2026/04/14 04:04:09",
+    "updated_at": 1776110649822,
     "trading_day": {
       "A": true,
       "HK": true,
