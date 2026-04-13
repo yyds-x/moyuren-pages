@@ -1,7 +1,7 @@
 {
   "date": "2026-04-13",
-  "updated": "2026/04/13 19:01:03",
-  "updated_at": 1776078063974,
+  "updated": "2026/04/13 20:14:31",
+  "updated_at": 1776082471444,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一山不容二虎，二山会怎样？二三得六。"
+    "text": "什么花一边开一边掉？烟花。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/13 19:00:57",
-    "updated_at": 1776078057527,
+    "updated": "2026/04/13 20:14:26",
+    "updated_at": 1776082466440,
     "trading_day": {
       "A": true,
       "HK": true,
