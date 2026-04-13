@@ -1,7 +1,7 @@
 {
   "date": "2026-04-13",
-  "updated": "2026/04/13 20:14:31",
-  "updated_at": 1776082471444,
+  "updated": "2026/04/13 22:14:19",
+  "updated_at": 1776089659154,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "什么花一边开一边掉？烟花。"
+    "text": "手机没电了去咖啡店问有没有电源，工作人员会说什么？我就是店员（电源）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 47916.57,
-        "change": -269.23,
-        "change_pct": -0.56,
+        "price": 47664.41,
+        "change": -252.16,
+        "change_pct": -0.53,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/13 20:14:26",
-    "updated_at": 1776082466440,
+    "updated": "2026/04/13 22:14:10",
+    "updated_at": 1776089650509,
     "trading_day": {
       "A": true,
       "HK": true,
