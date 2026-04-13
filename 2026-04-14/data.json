@@ -1,7 +1,7 @@
 {
   "date": "2026-04-14",
-  "updated": "2026/04/14 04:04:15",
-  "updated_at": 1776110655452,
+  "updated": "2026/04/14 05:13:04",
+  "updated_at": 1776114784150,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你若帮了一急需用钱的朋友，他一定会记得你，在他下次急需用钱的时候。"
+    "text": "总是在凌晨想通很多事情，又在天亮之后，忘得一干二净。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/14 04:04:09",
-    "updated_at": 1776110649822,
+    "updated": "2026/04/14 05:12:58",
+    "updated_at": 1776114778415,
     "trading_day": {
       "A": true,
       "HK": true,
