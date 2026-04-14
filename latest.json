@@ -1,7 +1,7 @@
 {
   "date": "2026-04-14",
-  "updated": "2026/04/14 13:59:15",
-  "updated_at": 1776146355284,
+  "updated": "2026/04/14 15:58:09",
+  "updated_at": 1776153489374,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "投对了简历找到一份好工作，投对了胎，可以不用找工作。"
+    "text": "双十一过后，我从一个光棍，变成了一个负债累累的光棍。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3999.27,
-        "change": 10.71,
-        "change_pct": 0.27,
+        "price": 4026.63,
+        "change": 38.07,
+        "change_pct": 0.95,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -184,9 +184,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14510.01,
-        "change": 102.15,
-        "change_pct": 0.71,
+        "price": 14639.95,
+        "change": 232.09,
+        "change_pct": 1.61,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3523.13,
-        "change": 46.69,
-        "change_pct": 1.34,
+        "price": 3558.53,
+        "change": 82.09,
+        "change_pct": 2.36,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25739.33,
-        "change": 78.48,
-        "change_pct": 0.31,
+        "price": 25883.56,
+        "change": 222.71,
+        "change_pct": 0.87,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/14 13:59:08",
-    "updated_at": 1776146348672,
+    "updated": "2026/04/14 15:58:02",
+    "updated_at": 1776153482570,
     "trading_day": {
       "A": true,
       "HK": true,
