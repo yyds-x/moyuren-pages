@@ -1,7 +1,7 @@
 {
   "date": "2026-04-14",
-  "updated": "2026/04/14 17:23:39",
-  "updated_at": 1776158619933,
+  "updated": "2026/04/14 18:44:27",
+  "updated_at": 1776163467810,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "既没有让人一见钟情的颜，还缺少让人日久生情的钱。"
+    "text": "装逼只是瞬间，不要脸那才是永恒。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/14 17:23:36",
-    "updated_at": 1776158616021,
+    "updated": "2026/04/14 18:44:21",
+    "updated_at": 1776163461970,
     "trading_day": {
       "A": true,
       "HK": true,
