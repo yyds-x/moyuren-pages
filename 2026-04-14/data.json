@@ -1,7 +1,7 @@
 {
   "date": "2026-04-14",
-  "updated": "2026/04/14 18:44:27",
-  "updated_at": 1776163467810,
+  "updated": "2026/04/14 19:55:55",
+  "updated_at": 1776167755864,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "装逼只是瞬间，不要脸那才是永恒。"
+    "text": "就算是Believe，中间也藏着一个lie。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/14 18:44:21",
-    "updated_at": 1776163461970,
+    "updated": "2026/04/14 19:55:49",
+    "updated_at": 1776167749653,
     "trading_day": {
       "A": true,
       "HK": true,
