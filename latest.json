@@ -1,7 +1,7 @@
 {
   "date": "2026-04-14",
-  "updated": "2026/04/14 15:58:09",
-  "updated_at": 1776153489374,
+  "updated": "2026/04/14 17:23:39",
+  "updated_at": 1776158619933,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "双十一过后，我从一个光棍，变成了一个负债累累的光棍。"
+    "text": "既没有让人一见钟情的颜，还缺少让人日久生情的钱。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25883.56,
-        "change": 222.71,
-        "change_pct": 0.87,
+        "price": 25872.32,
+        "change": 211.47,
+        "change_pct": 0.82,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/14 15:58:02",
-    "updated_at": 1776153482570,
+    "updated": "2026/04/14 17:23:36",
+    "updated_at": 1776158616021,
     "trading_day": {
       "A": true,
       "HK": true,
