@@ -1,7 +1,7 @@
 {
   "date": "2026-04-15",
-  "updated": "2026/04/15 15:58:18",
-  "updated_at": 1776239898992,
+  "updated": "2026/04/15 17:25:31",
+  "updated_at": 1776245131902,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -203,9 +203,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25962.91,
-        "change": 90.59,
-        "change_pct": 0.35,
+        "price": 25947.32,
+        "change": 75.0,
+        "change_pct": 0.29,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/15 15:58:11",
-    "updated_at": 1776239891396,
+    "updated": "2026/04/15 17:25:26",
+    "updated_at": 1776245126603,
     "trading_day": {
       "A": true,
       "HK": true,
