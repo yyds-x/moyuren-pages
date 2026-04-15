@@ -1,7 +1,7 @@
 {
   "date": "2026-04-16",
-  "updated": "2026/04/16 00:03:07",
-  "updated_at": 1776268987291,
+  "updated": "2026/04/16 01:38:33",
+  "updated_at": 1776274713674,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "我有6个朋友，分别是012345，其中有三个人互相喜欢，你猜是谁？是520。"
+    "text": "当你越久不洗澡，你就会越南文（越难闻）。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "一周有 7 天：MON，TUE，WED，KFC，FRI，SAT，SUN",
+  "kfc_content": "🤧如果你突然打了个喷嚏 🥰那一定就是我在想你 🎵如果星期四被手机吵醒 🍟啊那是因为我想吃肯德基 🍗常常想起 肯德基的黄金脆皮鸡 🐣明明很想吃鸡 却又忍不住怀疑 🖕在你的心里 我是否就是唯一 ❤️爱就是请我吃肯德基",
   "date_info": {
     "year_month": "2026.04",
     "day": "16",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "一周有 7 天：MON，TUE，WED，KFC，FRI，SAT，SUN"
+    "content": "🤧如果你突然打了个喷嚏 🥰那一定就是我在想你 🎵如果星期四被手机吵醒 🍟啊那是因为我想吃肯德基 🍗常常想起 肯德基的黄金脆皮鸡 🐣明明很想吃鸡 却又忍不住怀疑 🖕在你的心里 我是否就是唯一 ❤️爱就是请我吃肯德基"
   },
   "stock_indices": {
     "items": [
@@ -218,16 +218,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48292.93,
-        "change": -243.06,
-        "change_pct": -0.5,
+        "price": 48390.44,
+        "change": -145.55,
+        "change_pct": -0.3,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/16 00:03:00",
-    "updated_at": 1776268980856,
+    "updated": "2026/04/16 01:38:26",
+    "updated_at": 1776274706160,
     "trading_day": {
       "A": true,
       "HK": true,
