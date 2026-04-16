@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "updated": "2026/04/17 06:05:54",
-  "updated_at": 1776377154875,
+  "updated": "2026/04/17 07:08:33",
+  "updated_at": 1776380913731,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "喜欢一个人是藏不住的，就算躲在衣柜里，还是会被她老公发现。"
+    "text": "你和学霸的区别就是，你所有的灵光一闪，都是他的基本题型。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/17 06:05:49",
-    "updated_at": 1776377149277,
+    "updated": "2026/04/17 07:08:27",
+    "updated_at": 1776380907790,
     "trading_day": {
       "A": true,
       "HK": true,
