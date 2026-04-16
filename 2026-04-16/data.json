@@ -1,7 +1,7 @@
 {
   "date": "2026-04-16",
-  "updated": "2026/04/16 11:53:06",
-  "updated_at": 1776311586233,
+  "updated": "2026/04/16 13:59:55",
+  "updated_at": 1776319195673,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一只北极熊闲着无聊拔自己的毛，拔光后，它说：“我好冷啊！”"
+    "text": "吃饺子时饺子馅冷了应该怎么办？播打热线（馅）电话。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "插播一条广告：\nApex 双锤上大师\n清空赛季通行证\n免费帮上分\n身法教学\now80 胜率上 4300\n三位置意识教学\n彩虹六号生涯 kd3.0\n包上冠军\nCSGO 上全球精英\n这些都不接\n接肯德基疯狂星期四代吃",
+  "kfc_content": "你好，金色的那菈，我是兰德基，我听兰阿帕斯、兰萨卡、兰茶荼、兰非拉他们说，你愿意为无忧节做准备，我现在正在进行「烹饪修行」，肯德基，疯狂星期四，是开心的味道，​V 我 5​0，让新的梦想永远不被无留陀侵蚀，旧的故事与无留陀一同被忘却，森林会记住好那菈的善举",
   "date_info": {
     "year_month": "2026.04",
     "day": "16",
@@ -171,68 +171,17 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "插播一条广告：\nApex 双锤上大师\n清空赛季通行证\n免费帮上分\n身法教学\now80 胜率上 4300\n三位置意识教学\n彩虹六号生涯 kd3.0\n包上冠军\nCSGO 上全球精英\n这些都不接\n接肯德基疯狂星期四代吃"
+    "content": "你好，金色的那菈，我是兰德基，我听兰阿帕斯、兰萨卡、兰茶荼、兰非拉他们说，你愿意为无忧节做准备，我现在正在进行「烹饪修行」，肯德基，疯狂星期四，是开心的味道，​V 我 5​0，让新的梦想永远不被无留陀侵蚀，旧的故事与无留陀一同被忘却，森林会记住好那菈的善举"
   },
   "stock_indices": {
-    "items": [
-      {
-        "code": "000001",
-        "name": "上证指数",
-        "price": 4048.64,
-        "change": 21.43,
-        "change_pct": 0.53,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399001",
-        "name": "深证成指",
-        "price": 14743.22,
-        "change": 244.77,
-        "change_pct": 1.69,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399006",
-        "name": "创业板指",
-        "price": 3608.52,
-        "change": 93.56,
-        "change_pct": 2.66,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "HSI",
-        "name": "恒生指数",
-        "price": 26316.51,
-        "change": 369.19,
-        "change_pct": 1.42,
-        "trend": "up",
-        "market": "HK",
-        "is_trading_day": true
-      },
-      {
-        "code": "DJIA",
-        "name": "道琼斯",
-        "price": 48463.72,
-        "change": -72.27,
-        "change_pct": -0.15,
-        "trend": "down",
-        "market": "US",
-        "is_trading_day": true
-      }
-    ],
-    "updated": "2026/04/16 11:53:01",
-    "updated_at": 1776311581908,
+    "items": [],
+    "updated": "2026/04/16 13:59:46",
+    "updated_at": 1776319186049,
     "trading_day": {
-      "A": true,
-      "HK": true,
-      "US": true
+      "A": false,
+      "HK": false,
+      "US": false
     },
-    "is_stale": false
+    "is_stale": true
   }
 }
