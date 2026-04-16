@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "updated": "2026/04/17 04:09:48",
-  "updated_at": 1776370188245,
+  "updated": "2026/04/17 05:09:19",
+  "updated_at": 1776373759528,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "我知道岁月会磨平我的棱角，但没想到，是把我按在地上摩擦。"
+    "text": "美貌会消逝，但蠢是永恒的~"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/17 04:09:40",
-    "updated_at": 1776370180667,
+    "updated": "2026/04/17 05:09:13",
+    "updated_at": 1776373753883,
     "trading_day": {
       "A": true,
       "HK": true,
