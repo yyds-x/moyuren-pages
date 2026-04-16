@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "updated": "2026/04/17 05:09:19",
-  "updated_at": 1776373759528,
+  "updated": "2026/04/17 06:05:54",
+  "updated_at": 1776377154875,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "美貌会消逝，但蠢是永恒的~"
+    "text": "喜欢一个人是藏不住的，就算躲在衣柜里，还是会被她老公发现。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/17 05:09:13",
-    "updated_at": 1776373753883,
+    "updated": "2026/04/17 06:05:49",
+    "updated_at": 1776377149277,
     "trading_day": {
       "A": true,
       "HK": true,
