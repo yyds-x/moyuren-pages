@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "updated": "2026/04/17 01:50:48",
-  "updated_at": 1776361848178,
+  "updated": "2026/04/17 03:08:06",
+  "updated_at": 1776366486692,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "手机的寿命是人类的1/20，请放下身边的杂事，好好陪陪它！"
+    "text": "女为悦己者容，男为悦己者穷!"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48529.41,
-        "change": 65.69,
-        "change_pct": 0.14,
+        "price": 48550.86,
+        "change": 87.14,
+        "change_pct": 0.18,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/17 01:50:41",
-    "updated_at": 1776361841928,
+    "updated": "2026/04/17 03:08:01",
+    "updated_at": 1776366481979,
     "trading_day": {
       "A": true,
       "HK": true,
