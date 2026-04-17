@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "updated": "2026/04/17 07:08:33",
-  "updated_at": 1776380913731,
+  "updated": "2026/04/17 08:04:10",
+  "updated_at": 1776384250293,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你和学霸的区别就是，你所有的灵光一闪，都是他的基本题型。"
+    "text": "有些事情还是要坚持的，比如睡觉，特别是闹钟响起的那一刻。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/17 07:08:27",
-    "updated_at": 1776380907790,
+    "updated": "2026/04/17 08:04:04",
+    "updated_at": 1776384244466,
     "trading_day": {
       "A": true,
       "HK": true,
