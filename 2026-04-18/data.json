@@ -1,7 +1,7 @@
 {
   "date": "2026-04-18",
-  "updated": "2026/04/18 04:52:29",
-  "updated_at": 1776459149402,
+  "updated": "2026/04/18 05:39:09",
+  "updated_at": 1776461949710,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "要学蜜蜂采百花，问遍百家成行家"
+    "text": "人类很容易受到诱惑，当被迫身处如地狱般绝望的深渊时，眼前要是出现了逃生的蜘蛛丝，一定会紧紧抓住不放的，无论是怎样的人。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/18 04:52:23",
-    "updated_at": 1776459143959,
+    "updated": "2026/04/18 05:39:04",
+    "updated_at": 1776461944560,
     "trading_day": {
       "A": false,
       "HK": false,
