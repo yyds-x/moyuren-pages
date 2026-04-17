@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "updated": "2026/04/17 18:52:33",
-  "updated_at": 1776423153923,
+  "updated": "2026/04/17 19:49:55",
+  "updated_at": 1776426595013,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你复杂的五官，掩饰不了，你朴素的智商。"
+    "text": "当你觉得自己不行的时候，就走马路上走走，这样你就是一个行人了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/17 18:52:29",
-    "updated_at": 1776423149198,
+    "updated": "2026/04/17 19:49:48",
+    "updated_at": 1776426588944,
     "trading_day": {
       "A": true,
       "HK": true,
