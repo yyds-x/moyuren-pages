@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "updated": "2026/04/17 21:12:24",
-  "updated_at": 1776431544706,
+  "updated": "2026/04/17 22:39:57",
+  "updated_at": 1776436797239,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "熟练地运用，关我屁事和关你屁事，可以节省人生80%的时间。"
+    "text": "如果你愿意，一层一层一层地剥开我的心，你会发现我缺心眼。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48578.72,
-        "change": 115.0,
-        "change_pct": 0.24,
+        "price": 49556.74,
+        "change": 978.02,
+        "change_pct": 2.01,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/17 21:12:17",
-    "updated_at": 1776431537968,
+    "updated": "2026/04/17 22:39:47",
+    "updated_at": 1776436787121,
     "trading_day": {
       "A": true,
       "HK": true,
