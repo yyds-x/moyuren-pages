@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "updated": "2026/04/17 17:53:32",
-  "updated_at": 1776419612815,
+  "updated": "2026/04/17 18:52:33",
+  "updated_at": 1776423153923,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "世上99%的事情，都能用钱解决，剩下的1%则需要更多的钱。"
+    "text": "你复杂的五官，掩饰不了，你朴素的智商。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/17 17:53:26",
-    "updated_at": 1776419606934,
+    "updated": "2026/04/17 18:52:29",
+    "updated_at": 1776423149198,
     "trading_day": {
       "A": true,
       "HK": true,
