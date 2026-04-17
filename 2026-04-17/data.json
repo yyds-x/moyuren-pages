@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "updated": "2026/04/17 22:39:57",
-  "updated_at": 1776436797239,
+  "updated": "2026/04/17 23:58:04",
+  "updated_at": 1776441484848,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "如果你愿意，一层一层一层地剥开我的心，你会发现我缺心眼。"
+    "text": "想做你的太阳，高兴的时候温暖你，不高兴的时候晒死你。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49556.74,
-        "change": 978.02,
-        "change_pct": 2.01,
+        "price": 49661.92,
+        "change": 1083.2,
+        "change_pct": 2.23,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/17 22:39:47",
-    "updated_at": 1776436787121,
+    "updated": "2026/04/17 23:57:58",
+    "updated_at": 1776441478539,
     "trading_day": {
       "A": true,
       "HK": true,
