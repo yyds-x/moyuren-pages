@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "updated": "2026/04/17 19:49:55",
-  "updated_at": 1776426595013,
+  "updated": "2026/04/17 21:12:24",
+  "updated_at": 1776431544706,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "当你觉得自己不行的时候，就走马路上走走，这样你就是一个行人了。"
+    "text": "熟练地运用，关我屁事和关你屁事，可以节省人生80%的时间。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/17 19:49:48",
-    "updated_at": 1776426588944,
+    "updated": "2026/04/17 21:12:17",
+    "updated_at": 1776431537968,
     "trading_day": {
       "A": true,
       "HK": true,
