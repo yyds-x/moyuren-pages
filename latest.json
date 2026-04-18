@@ -1,31 +1,31 @@
 {
   "date": "2026-04-19",
-  "updated": "2026/04/19 00:00:00",
-  "updated_at": 1776528000720,
+  "updated": "2026/04/19 00:53:43",
+  "updated_at": 1776531223411,
   "images": {
     "moyuren": "moyuren.jpg"
   },
-  "weekday": "星期六",
-  "lunar_date": "三月初二",
+  "weekday": "星期日",
+  "lunar_date": "三月初三",
   "fun_content": {
-    "type": "hitokoto",
-    "title": "💬 一言",
-    "text": "人是一种只要想做就一定成功的生物，人只有在说放弃的时候才无论怎么做都不行。"
+    "type": "dad_joke",
+    "title": "🤣 冷笑话",
+    "text": "手机没电了去咖啡店问有没有电源，工作人员会说什么？我就是店员（电源）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
   "date_info": {
     "year_month": "2026.04",
-    "day": "18",
-    "week_cn": "星期六",
-    "week_en": "Sat",
+    "day": "19",
+    "week_cn": "星期日",
+    "week_en": "Sun",
     "lunar_year": "丙午年",
-    "lunar_date": "三月初二",
+    "lunar_date": "三月初三",
     "zodiac": "马",
     "constellation": "白羊座",
     "moon_phase": "残月",
     "festival_solar": null,
-    "festival_lunar": null,
+    "festival_lunar": "农历丙午年三月初三 上巳节",
     "legal_holiday": null,
     "is_holiday": false
   },
@@ -36,20 +36,20 @@
   "solar_term": {
     "name": "谷雨",
     "name_en": "Grain Rain",
-    "days_left": 2,
+    "days_left": 1,
     "date": "2026-04-20",
     "is_today": false
   },
   "guide": {
     "yi": [
-      "祭祀",
       "沐浴",
-      "解除",
-      "破屋"
+      "塞穴",
+      "畋猎",
+      "结网"
     ],
     "ji": [
-      "嫁娶",
-      "开市"
+      "祈福",
+      "安葬"
     ]
   },
   "news_list": [
@@ -80,7 +80,7 @@
       "start_date": "2026-04-19",
       "end_date": "2026-04-19",
       "duration": 1,
-      "days_left": 1,
+      "days_left": 0,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -89,7 +89,7 @@
       "start_date": "2026-05-01",
       "end_date": "2026-05-05",
       "duration": 5,
-      "days_left": 13,
+      "days_left": 12,
       "is_legal_holiday": true,
       "is_off_day": true
     },
@@ -98,7 +98,7 @@
       "start_date": "2026-05-04",
       "end_date": "2026-05-04",
       "duration": 1,
-      "days_left": 16,
+      "days_left": 15,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -107,7 +107,7 @@
       "start_date": "2026-06-01",
       "end_date": "2026-06-01",
       "duration": 1,
-      "days_left": 44,
+      "days_left": 43,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -116,7 +116,7 @@
       "start_date": "2026-06-19",
       "end_date": "2026-06-21",
       "duration": 3,
-      "days_left": 62,
+      "days_left": 61,
       "is_legal_holiday": true,
       "is_off_day": true
     },
@@ -125,7 +125,7 @@
       "start_date": "2026-07-01",
       "end_date": "2026-07-01",
       "duration": 1,
-      "days_left": 74,
+      "days_left": 73,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -134,7 +134,7 @@
       "start_date": "2026-08-01",
       "end_date": "2026-08-01",
       "duration": 1,
-      "days_left": 105,
+      "days_left": 104,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -143,7 +143,7 @@
       "start_date": "2026-08-19",
       "end_date": "2026-08-19",
       "duration": 1,
-      "days_left": 123,
+      "days_left": 122,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -152,7 +152,7 @@
       "start_date": "2026-08-27",
       "end_date": "2026-08-27",
       "duration": 1,
-      "days_left": 131,
+      "days_left": 130,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -161,7 +161,7 @@
       "start_date": "2026-09-10",
       "end_date": "2026-09-10",
       "duration": 1,
-      "days_left": 145,
+      "days_left": 144,
       "is_legal_holiday": false,
       "is_off_day": true
     }
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/18 23:59:52",
-    "updated_at": 1776527992831,
+    "updated": "2026/04/19 00:53:38",
+    "updated_at": 1776531218521,
     "trading_day": {
       "A": false,
       "HK": false,
