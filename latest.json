@@ -1,7 +1,7 @@
 {
   "date": "2026-04-19",
-  "updated": "2026/04/19 03:39:23",
-  "updated_at": 1776541163503,
+  "updated": "2026/04/19 04:33:11",
+  "updated_at": 1776544391811,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一只北极熊闲着无聊拔自己的毛，拔光后，它说：“我好冷啊！”"
+    "text": "蒜兄弟家有三个儿子：大蒜、中蒜、小蒜，你猜谁最先谈恋爱？中蒜，因为“后来，我中蒜学会了如何去爱”。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/19 03:39:16",
-    "updated_at": 1776541156243,
+    "updated": "2026/04/19 04:33:07",
+    "updated_at": 1776544387859,
     "trading_day": {
       "A": false,
       "HK": false,
