@@ -1,7 +1,7 @@
 {
   "date": "2026-04-18",
-  "updated": "2026/04/18 14:12:04",
-  "updated_at": 1776492724642,
+  "updated": "2026/04/18 15:40:53",
+  "updated_at": 1776498053403,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "剑是凶器，剑技是杀人的伎俩，无论用多么美丽的语言去掩饰，那始终是事实."
+    "text": "梦总是会醒的，不会醒的梦，总有一天会变成悲伤"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/18 14:11:58",
-    "updated_at": 1776492718826,
+    "updated": "2026/04/18 15:40:47",
+    "updated_at": 1776498047962,
     "trading_day": {
       "A": false,
       "HK": false,
