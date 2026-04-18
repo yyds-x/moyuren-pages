@@ -1,7 +1,7 @@
 {
   "date": "2026-04-19",
-  "updated": "2026/04/19 02:43:35",
-  "updated_at": 1776537815340,
+  "updated": "2026/04/19 03:39:23",
+  "updated_at": 1776541163503,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "知了掉进泉水淹死，也算泉下有知了。"
+    "text": "一只北极熊闲着无聊拔自己的毛，拔光后，它说：“我好冷啊！”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/19 02:43:30",
-    "updated_at": 1776537810105,
+    "updated": "2026/04/19 03:39:16",
+    "updated_at": 1776541156243,
     "trading_day": {
       "A": false,
       "HK": false,
