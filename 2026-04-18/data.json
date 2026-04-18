@@ -1,7 +1,7 @@
 {
   "date": "2026-04-18",
-  "updated": "2026/04/18 10:03:50",
-  "updated_at": 1776477830703,
+  "updated": "2026/04/18 12:44:23",
+  "updated_at": 1776487463182,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "世界上也许有人喜欢孤独，但却没有人能承受孤独。"
+    "text": "胸不平何以平天下，乳不巨何以聚人心。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -217,15 +217,15 @@
         "change_pct": 1.79,
         "trend": "up",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/04/18 10:03:40",
-    "updated_at": 1776477820930,
+    "updated": "2026/04/18 12:44:12",
+    "updated_at": 1776487452421,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }
