@@ -1,7 +1,7 @@
 {
   "date": "2026-04-19",
-  "updated": "2026/04/19 00:53:43",
-  "updated_at": 1776531223411,
+  "updated": "2026/04/19 01:34:24",
+  "updated_at": 1776533664847,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "手机没电了去咖啡店问有没有电源，工作人员会说什么？我就是店员（电源）。"
+    "text": "刚刚被邻居举报扰民了，因为我穷的叮当响。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/19 00:53:38",
-    "updated_at": 1776531218521,
+    "updated": "2026/04/19 01:34:18",
+    "updated_at": 1776533658678,
     "trading_day": {
       "A": false,
       "HK": false,
