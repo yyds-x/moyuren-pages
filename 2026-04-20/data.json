@@ -1,7 +1,7 @@
 {
   "date": "2026-04-20",
-  "updated": "2026/04/20 03:39:35",
-  "updated_at": 1776627575231,
+  "updated": "2026/04/20 04:34:35",
+  "updated_at": 1776630875621,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "姓铁的为什么没有头发？因为老铁没毛病。"
+    "text": "小明理了个新发型，同学说像风筝，他委屈地哭了，哭着哭着就飞起来了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/20 03:39:30",
-    "updated_at": 1776627570824,
+    "updated": "2026/04/20 04:34:31",
+    "updated_at": 1776630871497,
     "trading_day": {
       "A": true,
       "HK": true,
