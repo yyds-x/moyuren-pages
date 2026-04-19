@@ -1,7 +1,7 @@
 {
   "date": "2026-04-19",
-  "updated": "2026/04/19 14:57:13",
-  "updated_at": 1776581833457,
+  "updated": "2026/04/19 16:06:43",
+  "updated_at": 1776586003393,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有一天，巧克力和番茄酱打架，巧克力赢了，为什么？因为巧克力棒。"
+    "text": "富士山在哪？在负12和负14之间。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -168,14 +168,65 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [],
-    "updated": "2026/04/19 14:57:03",
-    "updated_at": 1776581823536,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 4051.43,
+        "change": -4.12,
+        "change_pct": -0.1,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 14885.42,
+        "change": 89.09,
+        "change_pct": 0.6,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 3678.29,
+        "change": 52.02,
+        "change_pct": 1.43,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 26160.33,
+        "change": -233.93,
+        "change_pct": -0.89,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": false
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 49447.43,
+        "change": 868.71,
+        "change_pct": 1.79,
+        "trend": "up",
+        "market": "US",
+        "is_trading_day": false
+      }
+    ],
+    "updated": "2026/04/19 16:06:38",
+    "updated_at": 1776585998647,
     "trading_day": {
       "A": false,
       "HK": false,
       "US": false
     },
-    "is_stale": true
+    "is_stale": false
   }
 }
