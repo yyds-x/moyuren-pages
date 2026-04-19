@@ -1,7 +1,7 @@
 {
   "date": "2026-04-20",
-  "updated": "2026/04/20 00:54:30",
-  "updated_at": 1776617670775,
+  "updated": "2026/04/20 01:33:24",
+  "updated_at": 1776620004112,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "好人和坏人一起坐车，请问谁先下车？坏人，因为好人坐到底。"
+    "text": "凉了的热水为什么叫白开水？因为凉了就白开了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/20 00:54:24",
-    "updated_at": 1776617664918,
+    "updated": "2026/04/20 01:33:20",
+    "updated_at": 1776620000085,
     "trading_day": {
       "A": true,
       "HK": true,
