@@ -1,7 +1,7 @@
 {
   "date": "2026-04-20",
-  "updated": "2026/04/20 06:31:58",
-  "updated_at": 1776637918534,
+  "updated": "2026/04/20 07:33:17",
+  "updated_at": 1776641597575,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "凉了的热水为什么叫白开水？因为凉了就白开了。"
+    "text": "星星是实心的还是空心的？空心的，因为star（四大）皆空。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/20 06:31:53",
-    "updated_at": 1776637913136,
+    "updated": "2026/04/20 07:33:11",
+    "updated_at": 1776641591566,
     "trading_day": {
       "A": true,
       "HK": true,
