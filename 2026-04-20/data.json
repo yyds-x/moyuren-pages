@@ -1,7 +1,7 @@
 {
   "date": "2026-04-20",
-  "updated": "2026/04/20 00:00:40",
-  "updated_at": 1776614440689,
+  "updated": "2026/04/20 00:54:30",
+  "updated_at": 1776617670775,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "吃饺子时饺子馅冷了应该怎么办？播打热线（馅）电话。"
+    "text": "好人和坏人一起坐车，请问谁先下车？坏人，因为好人坐到底。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/20 00:00:33",
-    "updated_at": 1776614433858,
+    "updated": "2026/04/20 00:54:24",
+    "updated_at": 1776617664918,
     "trading_day": {
       "A": true,
       "HK": true,
