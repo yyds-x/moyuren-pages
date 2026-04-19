@@ -1,7 +1,7 @@
 {
   "date": "2026-04-19",
-  "updated": "2026/04/19 16:06:43",
-  "updated_at": 1776586003393,
+  "updated": "2026/04/19 17:12:49",
+  "updated_at": 1776589969427,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "富士山在哪？在负12和负14之间。"
+    "text": "两个i人谈恋爱就会有一个e人暴富，为什么？因为i²=-1。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/19 16:06:38",
-    "updated_at": 1776585998647,
+    "updated": "2026/04/19 17:12:42",
+    "updated_at": 1776589962988,
     "trading_day": {
       "A": false,
       "HK": false,
