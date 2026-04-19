@@ -1,7 +1,7 @@
 {
   "date": "2026-04-19",
-  "updated": "2026/04/19 10:25:27",
-  "updated_at": 1776565527013,
+  "updated": "2026/04/19 13:15:23",
+  "updated_at": 1776575723643,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "你听过第一个3D环绕音乐是什么？是丢手绢。"
+    "text": "在good、super、great里，谁行动最缓慢？super，因为Superman。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/19 10:25:20",
-    "updated_at": 1776565520538,
+    "updated": "2026/04/19 13:15:19",
+    "updated_at": 1776575719755,
     "trading_day": {
       "A": false,
       "HK": false,
