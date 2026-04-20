@@ -1,7 +1,7 @@
 {
   "date": "2026-04-20",
-  "updated": "2026/04/20 17:26:13",
-  "updated_at": 1776677173283,
+  "updated": "2026/04/20 19:03:38",
+  "updated_at": 1776683018194,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有一个人叫小明。小明没听见。"
+    "text": "一个男生问女生：“你喜欢什么样的男生呀？” 女生说：“投缘的。” 男生说：“那头扁的行不行！”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/20 17:26:07",
-    "updated_at": 1776677167987,
+    "updated": "2026/04/20 19:03:32",
+    "updated_at": 1776683012526,
     "trading_day": {
       "A": true,
       "HK": true,
