@@ -1,7 +1,7 @@
 {
   "date": "2026-04-20",
-  "updated": "2026/04/20 20:46:11",
-  "updated_at": 1776689171171,
+  "updated": "2026/04/20 22:46:53",
+  "updated_at": 1776696413143,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "狗急了会跳墙，那人急了呢？人急了上厕所。"
+    "text": "什么是规定？乌龟的屁股。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49447.43,
-        "change": 868.71,
-        "change_pct": 1.79,
-        "trend": "up",
+        "price": 49327.04,
+        "change": -120.39,
+        "change_pct": -0.24,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/20 20:46:03",
-    "updated_at": 1776689163798,
+    "updated": "2026/04/20 22:46:46",
+    "updated_at": 1776696406334,
     "trading_day": {
       "A": true,
       "HK": true,
