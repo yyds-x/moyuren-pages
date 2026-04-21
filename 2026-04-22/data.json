@@ -1,7 +1,7 @@
 {
   "date": "2026-04-22",
-  "updated": "2026/04/22 00:57:37",
-  "updated_at": 1776790657777,
+  "updated": "2026/04/22 02:00:09",
+  "updated_at": 1776794409797,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "渐渐知道了洸的事情，洸讨厌芹菜，喜欢猫，只是嘴不饶人，其实很温柔。"
+    "text": "小时候，天空分明触手可及，于是喜欢上雨，因它带来天空的气味.经常在下雨的早晨，不再换乘地铁，转身走出车站"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49311.37,
-        "change": -131.19,
-        "change_pct": -0.27,
+        "price": 49301.21,
+        "change": -141.35,
+        "change_pct": -0.29,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/22 00:57:29",
-    "updated_at": 1776790649756,
+    "updated": "2026/04/22 02:00:01",
+    "updated_at": 1776794401565,
     "trading_day": {
       "A": true,
       "HK": true,
