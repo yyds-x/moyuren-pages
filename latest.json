@@ -1,7 +1,7 @@
 {
   "date": "2026-04-22",
-  "updated": "2026/04/22 04:27:15",
-  "updated_at": 1776803235081,
+  "updated": "2026/04/22 05:12:04",
+  "updated_at": 1776805924964,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "羞耻心是所有品德的源泉"
+    "text": "不管有怎样的烦恼，现在也不过化为了点点无痕。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/22 04:27:04",
-    "updated_at": 1776803224916,
+    "updated": "2026/04/22 05:11:59",
+    "updated_at": 1776805919375,
     "trading_day": {
       "A": true,
       "HK": true,
