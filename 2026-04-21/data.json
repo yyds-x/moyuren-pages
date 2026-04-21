@@ -1,7 +1,7 @@
 {
   "date": "2026-04-21",
-  "updated": "2026/04/21 20:13:09",
-  "updated_at": 1776773589859,
+  "updated": "2026/04/21 22:14:41",
+  "updated_at": 1776780881554,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "孤零零三原则——不抱有希望、不创造心灵的空隙、不接受甜言蜜语。"
+    "text": "因心怀珍宝，生活应该日渐月染。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49442.56,
-        "change": -4.87,
-        "change_pct": -0.01,
-        "trend": "down",
+        "price": 49789.23,
+        "change": 346.67,
+        "change_pct": 0.7,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/21 20:13:06",
-    "updated_at": 1776773586280,
+    "updated": "2026/04/21 22:14:37",
+    "updated_at": 1776780877570,
     "trading_day": {
       "A": true,
       "HK": true,
