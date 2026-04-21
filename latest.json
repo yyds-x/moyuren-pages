@@ -1,7 +1,7 @@
 {
   "date": "2026-04-21",
-  "updated": "2026/04/21 17:58:09",
-  "updated_at": 1776765489527,
+  "updated": "2026/04/21 19:13:19",
+  "updated_at": 1776769999903,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "翼，唯有飞翔才能成长；拳，唯有战斗才能坚强；心，经历了抉择，忘却了迷茫"
+    "text": "纵然越过死谷，亦不惧怕其祸，因及与我同在。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/21 17:58:04",
-    "updated_at": 1776765484633,
+    "updated": "2026/04/21 19:13:14",
+    "updated_at": 1776769994999,
     "trading_day": {
       "A": true,
       "HK": true,
