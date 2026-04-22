@@ -1,7 +1,7 @@
 {
   "date": "2026-04-23",
-  "updated": "2026/04/23 05:29:26",
-  "updated_at": 1776893366481,
+  "updated": "2026/04/23 06:24:17",
+  "updated_at": 1776896657408,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "学会忘记，懂得放弃。"
+    "text": "我是一个性格坏到极点，恬不知耻桀骜不驯，骄傲自大，厚脸皮，虚假，可怜，凄惨，并且最喜欢你的女孩子"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "你们也是真赚到钱了，连疯狂星期四的文案也不发了，你们不吃可以请我吃，快 v 我 50",
+  "kfc_content": "你跟你女朋友开房，裤子一脱你女朋友花容失色的质问你：你不是说你有 18cm 吗？怎么这么小？你说：因为今天是肯德基疯狂星期四活动满 18 减 15",
   "date_info": {
     "year_month": "2026.04",
     "day": "23",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "你们也是真赚到钱了，连疯狂星期四的文案也不发了，你们不吃可以请我吃，快 v 我 50"
+    "content": "你跟你女朋友开房，裤子一脱你女朋友花容失色的质问你：你不是说你有 18cm 吗？怎么这么小？你说：因为今天是肯德基疯狂星期四活动满 18 减 15"
   },
   "stock_indices": {
     "items": [
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/23 05:29:21",
-    "updated_at": 1776893361435,
+    "updated": "2026/04/23 06:24:13",
+    "updated_at": 1776896653366,
     "trading_day": {
       "A": true,
       "HK": true,
