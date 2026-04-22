@@ -1,7 +1,7 @@
 {
   "date": "2026-04-23",
-  "updated": "2026/04/23 00:37:32",
-  "updated_at": 1776875852834,
+  "updated": "2026/04/23 01:59:22",
+  "updated_at": 1776880762488,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "你的名字那么普通也就我听到会心头一怔。"
+    "text": "如果我说我来自未来，你会笑我吗？"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "对于我们这帮人来说 KFC 疯狂星期四，与其说是占便宜，更像是一个心脏起搏器\n每当我们被生活压的喘不过气，机械的上班加班吃外卖，感觉自己就行一句行尸走肉时\n疯四出现，提醒着我们今天原味鸡两块 9.9\n加上通俗的段子，亦或是地摊文学，仍然能搏众一笑\n并不是我多想吃开封菜，只是开心\n开心什么\n活着\n我想证明自己活着，哪怕是须臾一瞬\n这并不需要多么高雅的话语词藻\n仅仅是最简单的，最低贱的\n便能满足我的希望\n这不 V 我 50？",
+  "kfc_content": "假如你是李华，你的英国笔友 Peter 给你写了一封信，向你询问你周四的安排，请你写一封回信。\n写作要点:\n1. 你要去肯德基参加 \"疯狂星期四\" 活动。\n2. 向他介绍 \"疯狂星期四\" 的活动。\n3. 要求他 V 你 50。\n注意事项:\n1. 行文流畅，包含所有要点，无语法错误，可适当自由发挥，80 词左右\n2. 不出现真实的人名地名。\n3. 请将 Peter 的 50 V 给我，否则不给分。\n\nDear Peter\nI will introduce my plan in this Thursday for you，I will go to KFC and have__________________________________________________________________________________________________________________________________________________________________________________________\nI'm looking forward to your reply and the V 50 from you.\nYours\nLiHua",
   "date_info": {
     "year_month": "2026.04",
     "day": "23",
@@ -171,17 +171,68 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "对于我们这帮人来说 KFC 疯狂星期四，与其说是占便宜，更像是一个心脏起搏器\n每当我们被生活压的喘不过气，机械的上班加班吃外卖，感觉自己就行一句行尸走肉时\n疯四出现，提醒着我们今天原味鸡两块 9.9\n加上通俗的段子，亦或是地摊文学，仍然能搏众一笑\n并不是我多想吃开封菜，只是开心\n开心什么\n活着\n我想证明自己活着，哪怕是须臾一瞬\n这并不需要多么高雅的话语词藻\n仅仅是最简单的，最低贱的\n便能满足我的希望\n这不 V 我 50？"
+    "content": "假如你是李华，你的英国笔友 Peter 给你写了一封信，向你询问你周四的安排，请你写一封回信。\n写作要点:\n1. 你要去肯德基参加 \"疯狂星期四\" 活动。\n2. 向他介绍 \"疯狂星期四\" 的活动。\n3. 要求他 V 你 50。\n注意事项:\n1. 行文流畅，包含所有要点，无语法错误，可适当自由发挥，80 词左右\n2. 不出现真实的人名地名。\n3. 请将 Peter 的 50 V 给我，否则不给分。\n\nDear Peter\nI will introduce my plan in this Thursday for you，I will go to KFC and have__________________________________________________________________________________________________________________________________________________________________________________________\nI'm looking forward to your reply and the V 50 from you.\nYours\nLiHua"
   },
   "stock_indices": {
-    "items": [],
-    "updated": "2026/04/23 00:37:21",
-    "updated_at": 1776875841593,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 4106.26,
+        "change": 21.18,
+        "change_pct": 0.52,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 15177.29,
+        "change": 195.15,
+        "change_pct": 1.3,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 3752.76,
+        "change": 63.82,
+        "change_pct": 1.73,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 26163.24,
+        "change": -324.24,
+        "change_pct": -1.22,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": true
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 49411.52,
+        "change": 262.14,
+        "change_pct": 0.53,
+        "trend": "up",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/04/23 01:59:16",
+    "updated_at": 1776880756694,
     "trading_day": {
-      "A": false,
-      "HK": false,
-      "US": false
+      "A": true,
+      "HK": true,
+      "US": true
     },
-    "is_stale": true
+    "is_stale": false
   }
 }
