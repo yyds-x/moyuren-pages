@@ -1,7 +1,7 @@
 {
   "date": "2026-04-23",
-  "updated": "2026/04/23 03:24:22",
-  "updated_at": 1776885862305,
+  "updated": "2026/04/23 04:30:10",
+  "updated_at": 1776889810800,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "好的定理必然有美妙自然又简单的证明。"
+    "text": "真正的危机不是机器人像人一样思考，而是人像机器一样思考。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "Hello, I'm Donald Trump. Glad to share with you guys that I won the 2024 Election, I'll give 100 dollars to everyone who supported me, just V me 50, to prove you're a supporter of mine and I'll transfer 100 dollars to your credit card immediately.",
+  "kfc_content": "今天是高启强被抓的第一天，我强 哥辛辛苦苦奋斗二十年，最后亲人 离世，老婆也被人谋害了，辛辛苦 苦一手养大的儿子女儿还都是逆 子。越想越心痛，越想越难过，今 天是肯德基疯狂星期四，v 我 25.8， 我不吃肯德基，我吃两份麦当劳 12.9 随心选",
   "date_info": {
     "year_month": "2026.04",
     "day": "23",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "Hello, I'm Donald Trump. Glad to share with you guys that I won the 2024 Election, I'll give 100 dollars to everyone who supported me, just V me 50, to prove you're a supporter of mine and I'll transfer 100 dollars to your credit card immediately."
+    "content": "今天是高启强被抓的第一天，我强 哥辛辛苦苦奋斗二十年，最后亲人 离世，老婆也被人谋害了，辛辛苦 苦一手养大的儿子女儿还都是逆 子。越想越心痛，越想越难过，今 天是肯德基疯狂星期四，v 我 25.8， 我不吃肯德基，我吃两份麦当劳 12.9 随心选"
   },
   "stock_indices": {
     "items": [
@@ -218,16 +218,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49399.11,
-        "change": 249.73,
-        "change_pct": 0.51,
+        "price": 49490.03,
+        "change": 340.65,
+        "change_pct": 0.69,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/23 03:24:16",
-    "updated_at": 1776885856473,
+    "updated": "2026/04/23 04:30:06",
+    "updated_at": 1776889806791,
     "trading_day": {
       "A": true,
       "HK": true,
