@@ -1,7 +1,7 @@
 {
   "date": "2026-04-22",
-  "updated": "2026/04/22 15:59:02",
-  "updated_at": 1776844742008,
+  "updated": "2026/04/22 17:26:52",
+  "updated_at": 1776850012722,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "一个不能为自己挺身而出的孩子，长大之后只能是个懦夫"
+    "text": "是不是就算解散已经近在眼前，一起演出时还是能找回过去的感觉呢？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 26190.4,
-        "change": -297.08,
-        "change_pct": -1.12,
+        "price": 26163.24,
+        "change": -324.24,
+        "change_pct": -1.22,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/22 15:58:57",
-    "updated_at": 1776844737034,
+    "updated": "2026/04/22 17:26:47",
+    "updated_at": 1776850007599,
     "trading_day": {
       "A": true,
       "HK": true,
