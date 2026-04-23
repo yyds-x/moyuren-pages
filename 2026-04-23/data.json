@@ -1,7 +1,7 @@
 {
   "date": "2026-04-23",
-  "updated": "2026/04/23 19:38:40",
-  "updated_at": 1776944320266,
+  "updated": "2026/04/23 21:21:36",
+  "updated_at": 1776950496067,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "如果你能看到我的世界里那些渐渐消逝的美好，你就能体会到现在所拥有的幸福。"
+    "text": "学问渊博的人，懂了还要问；学问浅薄的人，不懂也不问"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "焦虑的人需要引导型人民币\n回避的人需要主动型人民币\n缺爱的人需要依恋型人民币\n暴躁的人需要讨好型人民币\n孤独的人需要陪伴型人民币\n迷茫的人需要指引型人民币\n脆弱的人需要守护型人民币\n今天周四我需要五十人民币",
+  "kfc_content": "我有朋友去 OpenAi 上班了。\n\n他告诉我，其实 GPT-5 已经内测了。\n\n真的非常强大。\n用了以后 98% 的人类工作将被替代。\n输入内测编码就可以免费用正版 chatGPT-5.\n\n我把 key 分享给你们： KFC - CRAZY - THURSDAY - VME50",
   "date_info": {
     "year_month": "2026.04",
     "day": "23",
@@ -171,17 +171,68 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "焦虑的人需要引导型人民币\n回避的人需要主动型人民币\n缺爱的人需要依恋型人民币\n暴躁的人需要讨好型人民币\n孤独的人需要陪伴型人民币\n迷茫的人需要指引型人民币\n脆弱的人需要守护型人民币\n今天周四我需要五十人民币"
+    "content": "我有朋友去 OpenAi 上班了。\n\n他告诉我，其实 GPT-5 已经内测了。\n\n真的非常强大。\n用了以后 98% 的人类工作将被替代。\n输入内测编码就可以免费用正版 chatGPT-5.\n\n我把 key 分享给你们： KFC - CRAZY - THURSDAY - VME50"
   },
   "stock_indices": {
-    "items": [],
-    "updated": "2026/04/23 19:38:28",
-    "updated_at": 1776944308994,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 4093.25,
+        "change": -13.01,
+        "change_pct": -0.32,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 15043.45,
+        "change": -133.84,
+        "change_pct": -0.88,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 3720.25,
+        "change": -32.51,
+        "change_pct": -0.87,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 25915.2,
+        "change": -248.04,
+        "change_pct": -0.95,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": true
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 49490.03,
+        "change": 340.65,
+        "change_pct": 0.69,
+        "trend": "up",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/04/23 21:21:30",
+    "updated_at": 1776950490949,
     "trading_day": {
-      "A": false,
-      "HK": false,
-      "US": false
+      "A": true,
+      "HK": true,
+      "US": true
     },
-    "is_stale": true
+    "is_stale": false
   }
 }
