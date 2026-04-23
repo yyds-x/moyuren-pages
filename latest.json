@@ -1,7 +1,7 @@
 {
   "date": "2026-04-24",
-  "updated": "2026/04/24 05:42:49",
-  "updated_at": 1776980569477,
+  "updated": "2026/04/24 06:40:50",
+  "updated_at": 1776984050434,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "身旁的体温 既温暖又悲伤的安全感"
+    "text": "不过算了，你爱怎样就怎样吧。照你自己的意思去做，然后使劲后悔吧。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/24 05:42:43",
-    "updated_at": 1776980563968,
+    "updated": "2026/04/24 06:40:44",
+    "updated_at": 1776984044354,
     "trading_day": {
       "A": true,
       "HK": true,
