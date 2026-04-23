@@ -1,7 +1,7 @@
 {
   "date": "2026-04-23",
-  "updated": "2026/04/23 11:53:27",
-  "updated_at": 1776916407806,
+  "updated": "2026/04/23 14:03:54",
+  "updated_at": 1776924234113,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "假如我们拥有的东西只能给我们造成烦恼，那么我们拥有它的意义就值得怀疑。"
+    "text": "“你没车没房没卡,拿什么和我谈恋爱？”“......我有高达......”"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "世界上现在 77 亿人，有 253 亿只（养殖的）鸡，是人的数量的三倍。也就是说，每个人平均可以得到三只鸡。请记住，不管你有多么孤独，这世界上的某个角落里有三只鸡是为你而生的，就算它们死了，立刻又会有同类补上，就算你一个朋友都没有，你还有三只鸡。今天是肯德基疯狂星期四，V 我 50，我帮你去谢谢鸡",
+  "kfc_content": "生了孩子以后一直瘦不下去 老公像变了一个人似的 对我又打又骂 我好恨他 正当我打开手机想报警的时候 不小心打开了肯德基 想起来今天原来是疯狂星期四 所以说谁请我肯德基？吃完我继续讲",
   "date_info": {
     "year_month": "2026.04",
     "day": "23",
@@ -171,68 +171,17 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "世界上现在 77 亿人，有 253 亿只（养殖的）鸡，是人的数量的三倍。也就是说，每个人平均可以得到三只鸡。请记住，不管你有多么孤独，这世界上的某个角落里有三只鸡是为你而生的，就算它们死了，立刻又会有同类补上，就算你一个朋友都没有，你还有三只鸡。今天是肯德基疯狂星期四，V 我 50，我帮你去谢谢鸡"
+    "content": "生了孩子以后一直瘦不下去 老公像变了一个人似的 对我又打又骂 我好恨他 正当我打开手机想报警的时候 不小心打开了肯德基 想起来今天原来是疯狂星期四 所以说谁请我肯德基？吃完我继续讲"
   },
   "stock_indices": {
-    "items": [
-      {
-        "code": "000001",
-        "name": "上证指数",
-        "price": 4073.71,
-        "change": -32.55,
-        "change_pct": -0.79,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399001",
-        "name": "深证成指",
-        "price": 14945.2,
-        "change": -232.09,
-        "change_pct": -1.53,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399006",
-        "name": "创业板指",
-        "price": 3684.12,
-        "change": -68.64,
-        "change_pct": -1.83,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "HSI",
-        "name": "恒生指数",
-        "price": 25884.37,
-        "change": -278.87,
-        "change_pct": -1.07,
-        "trend": "down",
-        "market": "HK",
-        "is_trading_day": true
-      },
-      {
-        "code": "DJIA",
-        "name": "道琼斯",
-        "price": 49490.03,
-        "change": 340.65,
-        "change_pct": 0.69,
-        "trend": "up",
-        "market": "US",
-        "is_trading_day": true
-      }
-    ],
-    "updated": "2026/04/23 11:53:22",
-    "updated_at": 1776916402407,
+    "items": [],
+    "updated": "2026/04/23 14:03:44",
+    "updated_at": 1776924224053,
     "trading_day": {
-      "A": true,
-      "HK": true,
-      "US": true
+      "A": false,
+      "HK": false,
+      "US": false
     },
-    "is_stale": false
+    "is_stale": true
   }
 }
