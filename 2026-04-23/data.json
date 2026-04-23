@@ -1,7 +1,7 @@
 {
   "date": "2026-04-23",
-  "updated": "2026/04/23 18:04:35",
-  "updated_at": 1776938675066,
+  "updated": "2026/04/23 19:38:40",
+  "updated_at": 1776944320266,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "总是留恋失去的东西，只是向着死胡同奔跑而已。"
+    "text": "如果你能看到我的世界里那些渐渐消逝的美好，你就能体会到现在所拥有的幸福。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "有些事你不了解，不能乱说。确有此事，我通过我家族世代流传的石碑上看到的，此阵法是用来打开连接现世和混沌之间的大门，现在他们要在 2035 年发生日全食的时候解除封印让魔王德古拉复活毁灭现实世界。\n\n我说的都是真的，因为我姓贝尔蒙特，v 我 50 助我重铸吸血鬼杀手，通关致谢名单就有你的名字。 ​​​",
+  "kfc_content": "焦虑的人需要引导型人民币\n回避的人需要主动型人民币\n缺爱的人需要依恋型人民币\n暴躁的人需要讨好型人民币\n孤独的人需要陪伴型人民币\n迷茫的人需要指引型人民币\n脆弱的人需要守护型人民币\n今天周四我需要五十人民币",
   "date_info": {
     "year_month": "2026.04",
     "day": "23",
@@ -171,68 +171,17 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "有些事你不了解，不能乱说。确有此事，我通过我家族世代流传的石碑上看到的，此阵法是用来打开连接现世和混沌之间的大门，现在他们要在 2035 年发生日全食的时候解除封印让魔王德古拉复活毁灭现实世界。\n\n我说的都是真的，因为我姓贝尔蒙特，v 我 50 助我重铸吸血鬼杀手，通关致谢名单就有你的名字。 ​​​"
+    "content": "焦虑的人需要引导型人民币\n回避的人需要主动型人民币\n缺爱的人需要依恋型人民币\n暴躁的人需要讨好型人民币\n孤独的人需要陪伴型人民币\n迷茫的人需要指引型人民币\n脆弱的人需要守护型人民币\n今天周四我需要五十人民币"
   },
   "stock_indices": {
-    "items": [
-      {
-        "code": "000001",
-        "name": "上证指数",
-        "price": 4093.25,
-        "change": -13.01,
-        "change_pct": -0.32,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399001",
-        "name": "深证成指",
-        "price": 15043.45,
-        "change": -133.84,
-        "change_pct": -0.88,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399006",
-        "name": "创业板指",
-        "price": 3720.25,
-        "change": -32.51,
-        "change_pct": -0.87,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "HSI",
-        "name": "恒生指数",
-        "price": 25915.2,
-        "change": -248.04,
-        "change_pct": -0.95,
-        "trend": "down",
-        "market": "HK",
-        "is_trading_day": true
-      },
-      {
-        "code": "DJIA",
-        "name": "道琼斯",
-        "price": 49490.03,
-        "change": 340.65,
-        "change_pct": 0.69,
-        "trend": "up",
-        "market": "US",
-        "is_trading_day": true
-      }
-    ],
-    "updated": "2026/04/23 18:04:31",
-    "updated_at": 1776938671154,
+    "items": [],
+    "updated": "2026/04/23 19:38:28",
+    "updated_at": 1776944308994,
     "trading_day": {
-      "A": true,
-      "HK": true,
-      "US": true
+      "A": false,
+      "HK": false,
+      "US": false
     },
-    "is_stale": false
+    "is_stale": true
   }
 }
