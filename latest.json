@@ -1,7 +1,7 @@
 {
   "date": "2026-04-24",
-  "updated": "2026/04/24 15:17:24",
-  "updated_at": 1777015044101,
+  "updated": "2026/04/24 17:16:23",
+  "updated_at": 1777022183562,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我的世界能有你的笑容就足够了！"
+    "text": "被抓到的小鸟，只要够聪明，就会用自己的嘴打开鸟笼的门。因为它们还没有放弃，想要自由得翱翔在空中的希望。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -203,9 +203,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25959.9,
-        "change": 44.7,
-        "change_pct": 0.17,
+        "price": 25978.07,
+        "change": 62.87,
+        "change_pct": 0.24,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/24 15:17:18",
-    "updated_at": 1777015038168,
+    "updated": "2026/04/24 17:16:19",
+    "updated_at": 1777022179558,
     "trading_day": {
       "A": true,
       "HK": true,
