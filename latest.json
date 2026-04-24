@@ -1,7 +1,7 @@
 {
   "date": "2026-04-24",
-  "updated": "2026/04/24 18:50:45",
-  "updated_at": 1777027845431,
+  "updated": "2026/04/24 19:55:21",
+  "updated_at": 1777031721203,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "咱家是猫。名字嘛……还没有。"
+    "text": "因为总是回头，所以哪里也去不了……"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/24 18:50:37",
-    "updated_at": 1777027837073,
+    "updated": "2026/04/24 19:55:15",
+    "updated_at": 1777031715565,
     "trading_day": {
       "A": true,
       "HK": true,
