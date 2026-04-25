@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
-  "updated": "2026/04/26 06:00:16",
-  "updated_at": 1777154416561,
+  "updated": "2026/04/26 06:49:42",
+  "updated_at": 1777157382076,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "每个人都有跟别人有关、共有某种东西。所以无法自由，正因如此，所以才有趣、才悲伤……才令人怜爱。"
+    "text": "天下哪有真情在？只要够萌咱都爱！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/26 06:00:13",
-    "updated_at": 1777154413078,
+    "updated": "2026/04/26 06:49:37",
+    "updated_at": 1777157377812,
     "trading_day": {
       "A": false,
       "HK": false,
