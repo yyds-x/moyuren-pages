@@ -1,7 +1,7 @@
 {
   "date": "2026-04-25",
-  "updated": "2026/04/25 07:06:08",
-  "updated_at": 1777071968757,
+  "updated": "2026/04/25 08:03:15",
+  "updated_at": 1777075395444,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "moyu_quote",
     "title": "🐟 摸鱼语录",
-    "text": "老板喊你认真干活的时候，请记住：他是在为他自己的梦想买单，而不是你的。"
+    "text": "工作再累，一天也是24小时；摸鱼再爽，一天也是24小时。既然都是24小时，为什么不选择爽呢？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/25 07:06:04",
-    "updated_at": 1777071964639,
+    "updated": "2026/04/25 08:03:09",
+    "updated_at": 1777075389441,
     "trading_day": {
       "A": false,
       "HK": false,
