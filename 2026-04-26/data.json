@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
-  "updated": "2026/04/26 17:52:04",
-  "updated_at": 1777197124403,
+  "updated": "2026/04/26 18:42:32",
+  "updated_at": 1777200152709,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "追寻起源，追寻终焉，思考的同时，只是在一步步的行走，或许走再远都只能看到同样的风景，或许放弃行走也是个不错的选择 ，即使被宣告一切就此结束"
+    "text": "人是一种只要想做就一定成功的生物，人只有在说放弃的时候才无论怎么做都不行。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/26 17:51:56",
-    "updated_at": 1777197116138,
+    "updated": "2026/04/26 18:42:27",
+    "updated_at": 1777200147667,
     "trading_day": {
       "A": false,
       "HK": false,
