@@ -1,7 +1,7 @@
 {
   "date": "2026-04-27",
-  "updated": "2026/04/27 05:03:35",
-  "updated_at": 1777237415252,
+  "updated": "2026/04/27 06:02:26",
+  "updated_at": 1777240946895,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "今年是过去十年最差的一年，好消息是，今年是之后十年最好的一年。"
+    "text": "双十一过后，我从一个光棍，变成了一个负债累累的光棍。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/27 05:03:30",
-    "updated_at": 1777237410044,
+    "updated": "2026/04/27 06:02:21",
+    "updated_at": 1777240941959,
     "trading_day": {
       "A": true,
       "HK": true,
