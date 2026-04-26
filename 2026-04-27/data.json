@@ -1,7 +1,7 @@
 {
   "date": "2026-04-27",
-  "updated": "2026/04/27 03:27:06",
-  "updated_at": 1777231626717,
+  "updated": "2026/04/27 04:03:00",
+  "updated_at": 1777233780698,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "没钱了来找我，让我告诉你没钱的日子，怎么过。"
+    "text": "去看精神科时医生说，你没啥抑郁症，你是真的惨。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/27 03:27:01",
-    "updated_at": 1777231621516,
+    "updated": "2026/04/27 04:02:54",
+    "updated_at": 1777233774713,
     "trading_day": {
       "A": true,
       "HK": true,
