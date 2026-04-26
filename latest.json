@@ -1,7 +1,7 @@
 {
   "date": "2026-04-27",
-  "updated": "2026/04/27 04:03:00",
-  "updated_at": 1777233780698,
+  "updated": "2026/04/27 05:03:35",
+  "updated_at": 1777237415252,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "去看精神科时医生说，你没啥抑郁症，你是真的惨。"
+    "text": "今年是过去十年最差的一年，好消息是，今年是之后十年最好的一年。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/27 04:02:54",
-    "updated_at": 1777233774713,
+    "updated": "2026/04/27 05:03:30",
+    "updated_at": 1777237410044,
     "trading_day": {
       "A": true,
       "HK": true,
