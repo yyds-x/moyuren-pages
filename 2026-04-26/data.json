@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
-  "updated": "2026/04/26 13:24:52",
-  "updated_at": 1777181092987,
+  "updated": "2026/04/26 15:09:59",
+  "updated_at": 1777187399145,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "即使你已经习惯了受伤害，也有人看了会心疼的。"
+    "text": "不管那个宣言有多不可能，我希望有一天能再听到一次"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/26 13:24:47",
-    "updated_at": 1777181087438,
+    "updated": "2026/04/26 15:09:50",
+    "updated_at": 1777187390995,
     "trading_day": {
       "A": false,
       "HK": false,
