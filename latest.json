@@ -1,7 +1,7 @@
 {
   "date": "2026-04-27",
-  "updated": "2026/04/27 06:02:26",
-  "updated_at": 1777240946895,
+  "updated": "2026/04/27 07:05:30",
+  "updated_at": 1777244730435,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "双十一过后，我从一个光棍，变成了一个负债累累的光棍。"
+    "text": "命只有一条，但要命的事，可不止一件。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/27 06:02:21",
-    "updated_at": 1777240941959,
+    "updated": "2026/04/27 07:05:26",
+    "updated_at": 1777244726283,
     "trading_day": {
       "A": true,
       "HK": true,
