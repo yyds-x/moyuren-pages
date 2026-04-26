@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
-  "updated": "2026/04/26 18:42:32",
-  "updated_at": 1777200152709,
+  "updated": "2026/04/26 19:37:12",
+  "updated_at": 1777203432545,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "人是一种只要想做就一定成功的生物，人只有在说放弃的时候才无论怎么做都不行。"
+    "text": "我快要死了，但是，还能成为你的眼睛继续看到未来，你愿意成为我的眼睛，让我相信有未来吗？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/26 18:42:27",
-    "updated_at": 1777200147667,
+    "updated": "2026/04/26 19:37:07",
+    "updated_at": 1777203427386,
     "trading_day": {
       "A": false,
       "HK": false,
