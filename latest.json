@@ -1,7 +1,7 @@
 {
   "date": "2026-04-28",
-  "updated": "2026/04/28 04:06:44",
-  "updated_at": 1777320404581,
+  "updated": "2026/04/28 05:33:48",
+  "updated_at": 1777325628446,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "每次你离开，我都想拨开人海去见你。春天也想见你，秋天也想见你，冬天也想见你。有一天，我会在你不知道的地方死去。 和每一个循环往复却飞快终焉的夏天。"
+    "text": "所有受过的伤害，都证明曾经拥有过。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/28 04:06:39",
-    "updated_at": 1777320399110,
+    "updated": "2026/04/28 05:33:44",
+    "updated_at": 1777325624639,
     "trading_day": {
       "A": true,
       "HK": true,
