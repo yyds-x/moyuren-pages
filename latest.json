@@ -1,7 +1,7 @@
 {
   "date": "2026-04-28",
-  "updated": "2026/04/28 01:19:25",
-  "updated_at": 1777310365325,
+  "updated": "2026/04/28 02:48:41",
+  "updated_at": 1777315721327,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "毫无保护的地面，将会被风化，总有一天会被人遗忘的吧。"
+    "text": "因为他和自己重叠了，被明明不带感情却假意笑脸相迎，和我自己。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49129.77,
-        "change": -100.94,
-        "change_pct": -0.21,
+        "price": 49188.55,
+        "change": -42.16,
+        "change_pct": -0.09,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/28 01:19:20",
-    "updated_at": 1777310360823,
+    "updated": "2026/04/28 02:48:36",
+    "updated_at": 1777315716243,
     "trading_day": {
       "A": true,
       "HK": true,
