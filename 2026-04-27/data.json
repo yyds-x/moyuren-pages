@@ -1,7 +1,7 @@
 {
   "date": "2026-04-27",
-  "updated": "2026/04/27 19:42:40",
-  "updated_at": 1777290160547,
+  "updated": "2026/04/27 21:45:44",
+  "updated_at": 1777297544883,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "看见别人走在成功的路上，你问问自己难道不想成为，他成功路上的绊脚石吗？"
+    "text": "失败乃成功之母，但往往失败都是，不孕不育。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49230.71,
-        "change": -79.61,
-        "change_pct": -0.16,
-        "trend": "down",
+        "price": 49238.72,
+        "change": 8.01,
+        "change_pct": 0.02,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/27 19:42:33",
-    "updated_at": 1777290153377,
+    "updated": "2026/04/27 21:45:40",
+    "updated_at": 1777297540073,
     "trading_day": {
       "A": true,
       "HK": true,
