@@ -1,7 +1,7 @@
 {
   "date": "2026-04-28",
-  "updated": "2026/04/28 06:49:05",
-  "updated_at": 1777330145682,
+  "updated": "2026/04/28 07:51:19",
+  "updated_at": 1777333879831,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "总是留恋失去的东西，只是向着死胡同奔跑而已。"
+    "text": "有些事情我不看透，不是我笨，只是我太善良。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/28 06:49:01",
-    "updated_at": 1777330141231,
+    "updated": "2026/04/28 07:51:14",
+    "updated_at": 1777333874730,
     "trading_day": {
       "A": true,
       "HK": true,
