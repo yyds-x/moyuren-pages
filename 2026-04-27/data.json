@@ -1,7 +1,7 @@
 {
   "date": "2026-04-27",
-  "updated": "2026/04/27 17:36:54",
-  "updated_at": 1777282614104,
+  "updated": "2026/04/27 19:42:40",
+  "updated_at": 1777290160547,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "总是在凌晨想通很多事情，又在天亮之后，忘得一干二净。"
+    "text": "看见别人走在成功的路上，你问问自己难道不想成为，他成功路上的绊脚石吗？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/27 17:36:48",
-    "updated_at": 1777282608540,
+    "updated": "2026/04/27 19:42:33",
+    "updated_at": 1777290153377,
     "trading_day": {
       "A": true,
       "HK": true,
