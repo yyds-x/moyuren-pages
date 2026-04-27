@@ -1,7 +1,7 @@
 {
   "date": "2026-04-27",
-  "updated": "2026/04/27 21:45:44",
-  "updated_at": 1777297544883,
+  "updated": "2026/04/27 23:44:35",
+  "updated_at": 1777304675416,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "失败乃成功之母，但往往失败都是，不孕不育。"
+    "text": "男人单身叫单身狗，女的单身叫狗不理。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49238.72,
-        "change": 8.01,
-        "change_pct": 0.02,
-        "trend": "up",
+        "price": 49091.03,
+        "change": -139.68,
+        "change_pct": -0.28,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/27 21:45:40",
-    "updated_at": 1777297540073,
+    "updated": "2026/04/27 23:44:29",
+    "updated_at": 1777304669999,
     "trading_day": {
       "A": true,
       "HK": true,
