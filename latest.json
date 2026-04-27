@@ -1,7 +1,7 @@
 {
   "date": "2026-04-27",
-  "updated": "2026/04/27 15:13:21",
-  "updated_at": 1777274001378,
+  "updated": "2026/04/27 17:36:54",
+  "updated_at": 1777282614104,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "跟你谈钱的老板才是好人，跟你谈理想的，都TM不想给你钱！"
+    "text": "总是在凌晨想通很多事情，又在天亮之后，忘得一干二净。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25919.07,
-        "change": -59.0,
-        "change_pct": -0.23,
+        "price": 25925.65,
+        "change": -52.42,
+        "change_pct": -0.2,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/27 15:13:15",
-    "updated_at": 1777273995726,
+    "updated": "2026/04/27 17:36:48",
+    "updated_at": 1777282608540,
     "trading_day": {
       "A": true,
       "HK": true,
