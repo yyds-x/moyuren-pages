@@ -1,7 +1,7 @@
 {
   "date": "2026-04-28",
-  "updated": "2026/04/28 16:26:31",
-  "updated_at": 1777364791812,
+  "updated": "2026/04/28 18:31:20",
+  "updated_at": 1777372280722,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "城市犹如没有围墙的囚房，令人疲惫、窒息……"
+    "text": "即使有千万个哥哥，即便把他们所有的爱都汇集到一起，也比不上我一个人的爱。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/28 16:26:25",
-    "updated_at": 1777364785931,
+    "updated": "2026/04/28 18:31:15",
+    "updated_at": 1777372275046,
     "trading_day": {
       "A": true,
       "HK": true,
