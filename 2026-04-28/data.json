@@ -1,7 +1,7 @@
 {
   "date": "2026-04-28",
-  "updated": "2026/04/28 18:31:20",
-  "updated_at": 1777372280722,
+  "updated": "2026/04/28 20:23:23",
+  "updated_at": 1777379003406,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "即使有千万个哥哥，即便把他们所有的爱都汇集到一起，也比不上我一个人的爱。"
+    "text": "不是强者必胜，而是胜者必强，他们比我们强，仅此而已。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/28 18:31:15",
-    "updated_at": 1777372275046,
+    "updated": "2026/04/28 20:23:16",
+    "updated_at": 1777378996913,
     "trading_day": {
       "A": true,
       "HK": true,
