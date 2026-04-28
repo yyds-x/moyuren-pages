@@ -1,7 +1,7 @@
 {
   "date": "2026-04-28",
-  "updated": "2026/04/28 13:56:55",
-  "updated_at": 1777355815977,
+  "updated": "2026/04/28 16:26:31",
+  "updated_at": 1777364791812,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "因为欲望是任何人出生就有的，所以很好理解。"
+    "text": "城市犹如没有围墙的囚房，令人疲惫、窒息……"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4069.31,
-        "change": -17.03,
-        "change_pct": -0.42,
+        "price": 4078.64,
+        "change": -7.7,
+        "change_pct": -0.19,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -184,9 +184,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14829.94,
-        "change": -165.81,
-        "change_pct": -1.11,
+        "price": 14830.46,
+        "change": -165.29,
+        "change_pct": -1.1,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3602.29,
-        "change": -46.5,
-        "change_pct": -1.27,
+        "price": 3596.71,
+        "change": -52.08,
+        "change_pct": -1.43,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25658.31,
-        "change": -267.34,
-        "change_pct": -1.03,
+        "price": 25679.78,
+        "change": -245.87,
+        "change_pct": -0.95,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/28 13:56:49",
-    "updated_at": 1777355809475,
+    "updated": "2026/04/28 16:26:25",
+    "updated_at": 1777364785931,
     "trading_day": {
       "A": true,
       "HK": true,
