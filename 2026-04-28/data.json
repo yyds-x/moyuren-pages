@@ -1,7 +1,7 @@
 {
   "date": "2026-04-28",
-  "updated": "2026/04/28 20:23:23",
-  "updated_at": 1777379003406,
+  "updated": "2026/04/28 23:04:17",
+  "updated_at": 1777388657219,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "不是强者必胜，而是胜者必强，他们比我们强，仅此而已。"
+    "text": "我早就闭上了双眼，我的目的只在于黑暗之中。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49167.79,
-        "change": -62.92,
-        "change_pct": -0.13,
-        "trend": "down",
+        "price": 49209.54,
+        "change": 41.75,
+        "change_pct": 0.08,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/28 20:23:16",
-    "updated_at": 1777378996913,
+    "updated": "2026/04/28 23:04:04",
+    "updated_at": 1777388644537,
     "trading_day": {
       "A": true,
       "HK": true,
