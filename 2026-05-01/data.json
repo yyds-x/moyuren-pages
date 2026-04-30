@@ -1,7 +1,7 @@
 {
   "date": "2026-05-01",
-  "updated": "2026/05/01 06:51:50",
-  "updated_at": 1777589510930,
+  "updated": "2026/05/01 07:50:43",
+  "updated_at": 1777593043185,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "生命中充满了巧合，两条平行线也会有相交的一天。"
+    "text": "你知道吗？当一个话唠突然沉默的时候是最可怜的时候。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -170,14 +170,65 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [],
-    "updated": "2026/05/01 06:51:41",
-    "updated_at": 1777589501303,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 4112.16,
+        "change": 4.65,
+        "change_pct": 0.11,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 15107.55,
+        "change": -13.37,
+        "change_pct": -0.09,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 3677.15,
+        "change": -10.02,
+        "change_pct": -0.27,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 25776.53,
+        "change": -335.31,
+        "change_pct": -1.28,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": false
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 49652.14,
+        "change": 790.33,
+        "change_pct": 1.62,
+        "trend": "up",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/05/01 07:50:37",
+    "updated_at": 1777593037906,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": false
+      "US": true
     },
-    "is_stale": true
+    "is_stale": false
   }
 }
