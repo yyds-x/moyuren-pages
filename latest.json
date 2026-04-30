@@ -1,7 +1,7 @@
 {
   "date": "2026-04-30",
-  "updated": "2026/04/30 16:38:29",
-  "updated_at": 1777538309107,
+  "updated": "2026/04/30 18:52:18",
+  "updated_at": 1777546338050,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "富士山在哪？在负12和负14之间。"
+    "text": "你知道长沙发生了什么吗？生了短沙发。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "周期性蛋白脂肪缺乏症 (学名 Insanus lovis) 是一种广泛存在的慢性病，易感人群多为中国大陆年轻群体，目前暂无有效的治愈方法，只能通过使用美国公司 Kentucky Fried Chicken（简称 KFC）开发的生物制剂 Fried Animal Protein (FAP，中文译名飞普) 经由食道对胃与小肠中受体进行靶向治疗缓解症状。\n今天是该公司降低药物售价的日子，资助 50 帮我治疗该慢性病。",
+  "kfc_content": "今年这个形势，咱们群还算好的了，你看外面多少群都倒闭了，咱们群至少还在给大家聊天。所以从今天开始采取会员制，50 元每人，交我这里 [Shake]",
   "date_info": {
     "year_month": "2026.04",
     "day": "30",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "周期性蛋白脂肪缺乏症 (学名 Insanus lovis) 是一种广泛存在的慢性病，易感人群多为中国大陆年轻群体，目前暂无有效的治愈方法，只能通过使用美国公司 Kentucky Fried Chicken（简称 KFC）开发的生物制剂 Fried Animal Protein (FAP，中文译名飞普) 经由食道对胃与小肠中受体进行靶向治疗缓解症状。\n今天是该公司降低药物售价的日子，资助 50 帮我治疗该慢性病。"
+    "content": "今年这个形势，咱们群还算好的了，你看外面多少群都倒闭了，咱们群至少还在给大家聊天。所以从今天开始采取会员制，50 元每人，交我这里 [Shake]"
   },
   "stock_indices": {
     "items": [
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/30 16:38:24",
-    "updated_at": 1777538304898,
+    "updated": "2026/04/30 18:52:12",
+    "updated_at": 1777546332712,
     "trading_day": {
       "A": true,
       "HK": true,
