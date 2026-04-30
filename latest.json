@@ -1,7 +1,7 @@
 {
   "date": "2026-04-30",
-  "updated": "2026/04/30 11:36:00",
-  "updated_at": 1777520160518,
+  "updated": "2026/04/30 14:25:29",
+  "updated_at": 1777530329083,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "我在家闲得长出了蘑菇，煮了吃掉后中毒了，医生说我中的是好菇毒（好孤独）。"
+    "text": "两根香蕉一前一后逛街，前面的香蕉觉得热就把衣服脱了，结果后面的香蕉就跌倒了。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "讲真的，今年已经到十二月啦，我经常不敢相信自己已经快奔三了，身边的人都在往前走，恋爱，工作，谈婚论嫁，只有我好像还停留在十年前的时光里，喜怒哀乐仍然在我的脸上，时间让我长了年岁，却没有让我成为一个合格的大人。我以为我的 21 岁，会工作稳定，收入可观，和喜欢的人去看山河大海，落日余晖。没想到，到了谈婚论嫁的年龄，我却仍在找自己的路上。所以，今天肯德基疯狂星期四，谁请我吃？",
+  "kfc_content": "早上辛苦写了一早上代码，突然报错，找不到原因。java.lang.NoMoneyException: KFC_CRAZY_THURSDAY_VME50",
   "date_info": {
     "year_month": "2026.04",
     "day": "30",
@@ -171,16 +171,16 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "讲真的，今年已经到十二月啦，我经常不敢相信自己已经快奔三了，身边的人都在往前走，恋爱，工作，谈婚论嫁，只有我好像还停留在十年前的时光里，喜怒哀乐仍然在我的脸上，时间让我长了年岁，却没有让我成为一个合格的大人。我以为我的 21 岁，会工作稳定，收入可观，和喜欢的人去看山河大海，落日余晖。没想到，到了谈婚论嫁的年龄，我却仍在找自己的路上。所以，今天肯德基疯狂星期四，谁请我吃？"
+    "content": "早上辛苦写了一早上代码，突然报错，找不到原因。java.lang.NoMoneyException: KFC_CRAZY_THURSDAY_VME50"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4111.02,
-        "change": 3.51,
-        "change_pct": 0.09,
+        "price": 4112.25,
+        "change": 4.74,
+        "change_pct": 0.12,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -188,9 +188,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 15111.33,
-        "change": -9.59,
-        "change_pct": -0.06,
+        "price": 15108.93,
+        "change": -11.99,
+        "change_pct": -0.08,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -198,9 +198,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3682.49,
-        "change": -4.68,
-        "change_pct": -0.13,
+        "price": 3682.12,
+        "change": -5.05,
+        "change_pct": -0.14,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -208,9 +208,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25757.44,
-        "change": -354.4,
-        "change_pct": -1.36,
+        "price": 25781.48,
+        "change": -330.36,
+        "change_pct": -1.27,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/30 11:35:55",
-    "updated_at": 1777520155586,
+    "updated": "2026/04/30 14:25:22",
+    "updated_at": 1777530322715,
     "trading_day": {
       "A": true,
       "HK": true,
