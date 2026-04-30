@@ -1,7 +1,7 @@
 {
   "date": "2026-05-01",
-  "updated": "2026/05/01 01:50:09",
-  "updated_at": 1777571409574,
+  "updated": "2026/05/01 03:15:57",
+  "updated_at": 1777576557157,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "不抵抗就不会死，为什么就是不明白！？"
+    "text": "没有任何回忆，即使遗忘也好的。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49606.67,
-        "change": 744.86,
-        "change_pct": 1.52,
+        "price": 49719.3,
+        "change": 857.49,
+        "change_pct": 1.75,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/01 01:49:59",
-    "updated_at": 1777571399993,
+    "updated": "2026/05/01 03:15:51",
+    "updated_at": 1777576551687,
     "trading_day": {
       "A": false,
       "HK": false,
