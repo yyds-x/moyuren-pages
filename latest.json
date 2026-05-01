@@ -1,7 +1,7 @@
 {
   "date": "2026-05-02",
-  "updated": "2026/05/02 03:15:55",
-  "updated_at": 1777662955735,
+  "updated": "2026/05/02 04:14:59",
+  "updated_at": 1777666499588,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "男人相亲要带什么？蚊香，因为蚊香识女人（闻香识女人）。"
+    "text": "老虎叫什么名字？眈眈，因为虎视（是）眈眈。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -169,14 +169,65 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [],
-    "updated": "2026/05/02 03:15:46",
-    "updated_at": 1777662946037,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 4112.16,
+        "change": 4.65,
+        "change_pct": 0.11,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 15107.55,
+        "change": -13.37,
+        "change_pct": -0.09,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 3677.15,
+        "change": -10.02,
+        "change_pct": -0.27,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 25776.53,
+        "change": -335.31,
+        "change_pct": -1.28,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": false
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 49499.27,
+        "change": -152.87,
+        "change_pct": -0.31,
+        "trend": "down",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/05/02 04:14:53",
+    "updated_at": 1777666493501,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": false
+      "US": true
     },
-    "is_stale": true
+    "is_stale": false
   }
 }
