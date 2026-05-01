@@ -1,7 +1,7 @@
 {
   "date": "2026-05-02",
-  "updated": "2026/05/02 00:55:01",
-  "updated_at": 1777654501716,
+  "updated": "2026/05/02 01:57:34",
+  "updated_at": 1777658254280,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "两个i人谈恋爱就会有一个e人暴富，为什么？因为i²=-1。"
+    "text": "“我肚子好痛。” “是例假（士力架），横扫饥饿，做回自己。”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -213,16 +213,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49600.34,
-        "change": -51.8,
-        "change_pct": -0.1,
-        "trend": "down",
+        "price": 49684.06,
+        "change": 31.92,
+        "change_pct": 0.06,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/02 00:54:55",
-    "updated_at": 1777654495427,
+    "updated": "2026/05/02 01:57:28",
+    "updated_at": 1777658248144,
     "trading_day": {
       "A": false,
       "HK": false,
