@@ -1,7 +1,7 @@
 {
   "date": "2026-05-02",
-  "updated": "2026/05/02 06:11:27",
-  "updated_at": 1777673487903,
+  "updated": "2026/05/02 07:25:45",
+  "updated_at": 1777677945794,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "打雷的时候为什么要装死？因为假死避雷。"
+    "text": "我是女的，这个饮料我不能喝，为什么？因为它难（男）喝。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/02 06:11:22",
-    "updated_at": 1777673482514,
+    "updated": "2026/05/02 07:25:39",
+    "updated_at": 1777677939923,
     "trading_day": {
       "A": false,
       "HK": false,
