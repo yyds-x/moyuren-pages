@@ -1,7 +1,7 @@
 {
   "date": "2026-05-02",
-  "updated": "2026/05/02 04:14:59",
-  "updated_at": 1777666499588,
+  "updated": "2026/05/02 05:13:54",
+  "updated_at": 1777670034200,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "老虎叫什么名字？眈眈，因为虎视（是）眈眈。"
+    "text": "研究发现整天戴AirPods会影响爱情，因为AirPods没有音源（姻缘）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/02 04:14:53",
-    "updated_at": 1777666493501,
+    "updated": "2026/05/02 05:13:47",
+    "updated_at": 1777670027657,
     "trading_day": {
       "A": false,
       "HK": false,
