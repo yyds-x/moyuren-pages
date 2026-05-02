@@ -1,7 +1,7 @@
 {
   "date": "2026-05-03",
-  "updated": "2026/05/03 01:13:41",
-  "updated_at": 1777742021614,
+  "updated": "2026/05/03 02:08:37",
+  "updated_at": 1777745317834,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "过年不吃胖，怎么对得起，死去的鸡鸭鱼猪？"
+    "text": "你不懂得安排自己的人生，会有很多人帮你安排，他们需要你做的事。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/03 01:13:32",
-    "updated_at": 1777742012605,
+    "updated": "2026/05/03 02:08:32",
+    "updated_at": 1777745312868,
     "trading_day": {
       "A": false,
       "HK": false,
