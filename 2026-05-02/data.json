@@ -1,7 +1,7 @@
 {
   "date": "2026-05-02",
-  "updated": "2026/05/02 11:58:54",
-  "updated_at": 1777694334308,
+  "updated": "2026/05/02 14:12:06",
+  "updated_at": 1777702326770,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "为什么蚕宝宝很有钱？因为它超会节俭（结茧）。"
+    "text": "甲乙丙丁一起去坐车，为什么丁上不去？因为坐的是卡丁车。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -218,15 +218,15 @@
         "change_pct": -0.31,
         "trend": "down",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/05/02 11:58:49",
-    "updated_at": 1777694329166,
+    "updated": "2026/05/02 14:12:00",
+    "updated_at": 1777702320764,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }
