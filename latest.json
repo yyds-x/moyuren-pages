@@ -1,7 +1,7 @@
 {
   "date": "2026-05-03",
-  "updated": "2026/05/03 02:08:37",
-  "updated_at": 1777745317834,
+  "updated": "2026/05/03 03:33:32",
+  "updated_at": 1777750412422,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你不懂得安排自己的人生，会有很多人帮你安排，他们需要你做的事。"
+    "text": "听说自从你得了神经病，整个人都精神多了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/03 02:08:32",
-    "updated_at": 1777745312868,
+    "updated": "2026/05/03 03:33:23",
+    "updated_at": 1777750403021,
     "trading_day": {
       "A": false,
       "HK": false,
