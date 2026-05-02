@@ -1,7 +1,7 @@
 {
   "date": "2026-05-02",
-  "updated": "2026/05/02 16:06:12",
-  "updated_at": 1777709172405,
+  "updated": "2026/05/02 17:40:17",
+  "updated_at": 1777714817800,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小明跟爸爸说：“爸爸，我好冷啊。” 爸爸说：“那你赶快去墙角蹲着，因为墙角有90度。”"
+    "text": "从前有个文盲在走路，他走着走着突然识字了，原来他走到了十字路口。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/02 16:06:06",
-    "updated_at": 1777709166498,
+    "updated": "2026/05/02 17:40:12",
+    "updated_at": 1777714812059,
     "trading_day": {
       "A": false,
       "HK": false,
