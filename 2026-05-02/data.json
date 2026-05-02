@@ -1,7 +1,7 @@
 {
   "date": "2026-05-02",
-  "updated": "2026/05/02 08:12:28",
-  "updated_at": 1777680748449,
+  "updated": "2026/05/02 11:58:54",
+  "updated_at": 1777694334308,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "星星是实心的还是空心的？空心的，因为star（四大）皆空。"
+    "text": "为什么蚕宝宝很有钱？因为它超会节俭（结茧）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/02 08:12:23",
-    "updated_at": 1777680743636,
+    "updated": "2026/05/02 11:58:49",
+    "updated_at": 1777694329166,
     "trading_day": {
       "A": false,
       "HK": false,
