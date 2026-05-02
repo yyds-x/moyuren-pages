@@ -1,7 +1,7 @@
 {
   "date": "2026-05-02",
-  "updated": "2026/05/02 22:29:05",
-  "updated_at": 1777732145962,
+  "updated": "2026/05/02 23:24:15",
+  "updated_at": 1777735455592,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "约e人出来玩为什么要给出场费？因为见e四千（见异思迁）。"
+    "text": "藕的生长周期是200天，而鸡只需要50多天就能从小鸡变成鸡腿、鸡排、鸡胸肉，短时间内鸡变藕不变。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/02 22:28:58",
-    "updated_at": 1777732138514,
+    "updated": "2026/05/02 23:24:07",
+    "updated_at": 1777735447051,
     "trading_day": {
       "A": false,
       "HK": false,
