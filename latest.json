@@ -1,7 +1,7 @@
 {
   "date": "2026-05-02",
-  "updated": "2026/05/02 14:12:06",
-  "updated_at": 1777702326770,
+  "updated": "2026/05/02 16:06:12",
+  "updated_at": 1777709172405,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "甲乙丙丁一起去坐车，为什么丁上不去？因为坐的是卡丁车。"
+    "text": "小明跟爸爸说：“爸爸，我好冷啊。” 爸爸说：“那你赶快去墙角蹲着，因为墙角有90度。”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/02 14:12:00",
-    "updated_at": 1777702320764,
+    "updated": "2026/05/02 16:06:06",
+    "updated_at": 1777709166498,
     "trading_day": {
       "A": false,
       "HK": false,
