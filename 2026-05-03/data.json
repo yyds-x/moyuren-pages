@@ -1,7 +1,7 @@
 {
   "date": "2026-05-03",
-  "updated": "2026/05/03 13:55:55",
-  "updated_at": 1777787755070,
+  "updated": "2026/05/03 15:59:32",
+  "updated_at": 1777795172173,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "没有钱的时候，听到别人说恭祝长命百岁，都觉得是一种诅咒。"
+    "text": "人不能低下高贵的头，但捡钱时例外。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/03 13:55:45",
-    "updated_at": 1777787745769,
+    "updated": "2026/05/03 15:59:25",
+    "updated_at": 1777795165319,
     "trading_day": {
       "A": false,
       "HK": false,
