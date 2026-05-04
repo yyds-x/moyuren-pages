@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
-  "updated": "2026/05/05 06:58:32",
-  "updated_at": 1777935512230,
+  "updated": "2026/05/05 07:58:33",
+  "updated_at": 1777939113907,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "为什么e人只要内卷就会变矮？因为e人做事e人down。"
+    "text": "一朵花为什么好笑？因为它有梗。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/05 06:58:26",
-    "updated_at": 1777935506652,
+    "updated": "2026/05/05 07:58:24",
+    "updated_at": 1777939104896,
     "trading_day": {
       "A": false,
       "HK": true,
