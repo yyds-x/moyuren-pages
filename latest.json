@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
-  "updated": "2026/05/05 01:13:39",
-  "updated_at": 1777914819752,
+  "updated": "2026/05/05 03:02:45",
+  "updated_at": 1777921365980,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "26个英文字母，哪个字母最酷？C，因为西装裤（C装酷）。"
+    "text": "老师：东汉末年分三国，哪三国？学生：烽火、连天和不休。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49008.44,
-        "change": -490.83,
-        "change_pct": -0.99,
+        "price": 48932.52,
+        "change": -566.75,
+        "change_pct": -1.14,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/05 01:13:30",
-    "updated_at": 1777914810814,
+    "updated": "2026/05/05 03:02:40",
+    "updated_at": 1777921360287,
     "trading_day": {
       "A": false,
       "HK": true,
