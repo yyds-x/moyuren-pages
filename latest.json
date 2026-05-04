@@ -1,7 +1,7 @@
 {
   "date": "2026-05-04",
-  "updated": "2026/05/04 07:41:04",
-  "updated_at": 1777851664564,
+  "updated": "2026/05/04 10:34:58",
+  "updated_at": 1777862098542,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "moyu_quote",
     "title": "🐟 摸鱼语录",
-    "text": "打工人，打工魂，打工都是人上人。摸鱼人，摸鱼魂，摸鱼才是人上人！"
+    "text": "你在认真工作的时候，有人在摸鱼。你在加班的时候，有人在钓鱼。人生苦短，及时摸鱼。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,10 +204,10 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25776.53,
-        "change": -335.31,
-        "change_pct": -1.28,
-        "trend": "down",
+        "price": 26192.66,
+        "change": 416.13,
+        "change_pct": 1.61,
+        "trend": "up",
         "market": "HK",
         "is_trading_day": true
       },
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/04 07:40:58",
-    "updated_at": 1777851658984,
+    "updated": "2026/05/04 10:34:55",
+    "updated_at": 1777862095106,
     "trading_day": {
       "A": false,
       "HK": true,
