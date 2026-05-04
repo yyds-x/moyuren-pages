@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
-  "updated": "2026/05/05 05:57:45",
-  "updated_at": 1777931865424,
+  "updated": "2026/05/05 06:58:32",
+  "updated_at": 1777935512230,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "A和C谁比较矮？是A，因为ABCD（A比C低）。"
+    "text": "为什么e人只要内卷就会变矮？因为e人做事e人down。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/05 05:57:39",
-    "updated_at": 1777931859997,
+    "updated": "2026/05/05 06:58:26",
+    "updated_at": 1777935506652,
     "trading_day": {
       "A": false,
       "HK": true,
