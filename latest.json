@@ -1,7 +1,7 @@
 {
   "date": "2026-05-06",
-  "updated": "2026/05/06 03:28:19",
-  "updated_at": 1778009299816,
+  "updated": "2026/05/06 04:41:53",
+  "updated_at": 1778013713493,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "如果吃亏是福的话，那我可能早就福如东海了。"
+    "text": "蠢萌的前提是萌，不是蠢。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -213,16 +213,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49335.06,
-        "change": 393.16,
-        "change_pct": 0.8,
+        "price": 49298.25,
+        "change": 356.35,
+        "change_pct": 0.73,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/06 03:28:15",
-    "updated_at": 1778009295490,
+    "updated": "2026/05/06 04:41:42",
+    "updated_at": 1778013702297,
     "trading_day": {
       "A": true,
       "HK": true,
