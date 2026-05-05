@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
-  "updated": "2026/05/05 11:26:14",
-  "updated_at": 1777951574878,
+  "updated": "2026/05/05 14:02:30",
+  "updated_at": 1777960950605,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "当你越久不洗澡，你就会越南文（越难闻）。"
+    "text": "1和2哪个数字最勤劳，哪个最懒惰？1懒惰，2勤劳，因为一不做二不休。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25815.39,
-        "change": -280.49,
-        "change_pct": -1.07,
+        "price": 25822.34,
+        "change": -273.54,
+        "change_pct": -1.05,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/05 11:26:09",
-    "updated_at": 1777951569410,
+    "updated": "2026/05/05 14:02:23",
+    "updated_at": 1777960943081,
     "trading_day": {
       "A": false,
       "HK": true,
