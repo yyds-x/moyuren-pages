@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
-  "updated": "2026/05/05 14:02:30",
-  "updated_at": 1777960950605,
+  "updated": "2026/05/05 16:31:47",
+  "updated_at": 1777969907829,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "1和2哪个数字最勤劳，哪个最懒惰？1懒惰，2勤劳，因为一不做二不休。"
+    "text": "有一个人叫小明。小明没听见。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25822.34,
-        "change": -273.54,
-        "change_pct": -1.05,
+        "price": 25898.61,
+        "change": -197.27,
+        "change_pct": -0.76,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/05 14:02:23",
-    "updated_at": 1777960943081,
+    "updated": "2026/05/05 16:31:44",
+    "updated_at": 1777969904044,
     "trading_day": {
       "A": false,
       "HK": true,
