@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
-  "updated": "2026/05/05 16:31:47",
-  "updated_at": 1777969907829,
+  "updated": "2026/05/05 18:43:50",
+  "updated_at": 1777977830086,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有一个人叫小明。小明没听见。"
+    "text": "孙悟空问土地公：“我的金箍棒在哪里？”土地公说：“你的金箍…棒就…棒在很配你的头型。”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/05 16:31:44",
-    "updated_at": 1777969904044,
+    "updated": "2026/05/05 18:43:44",
+    "updated_at": 1777977824473,
     "trading_day": {
       "A": false,
       "HK": true,
