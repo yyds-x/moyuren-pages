@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
-  "updated": "2026/05/05 18:43:50",
-  "updated_at": 1777977830086,
+  "updated": "2026/05/05 19:58:15",
+  "updated_at": 1777982295041,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "孙悟空问土地公：“我的金箍棒在哪里？”土地公说：“你的金箍…棒就…棒在很配你的头型。”"
+    "text": "你知道破除内卷的最好办法是什么嘛？是读书，因为读书破万卷。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/05 18:43:44",
-    "updated_at": 1777977824473,
+    "updated": "2026/05/05 19:58:10",
+    "updated_at": 1777982290741,
     "trading_day": {
       "A": false,
       "HK": true,
