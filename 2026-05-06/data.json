@@ -1,7 +1,7 @@
 {
   "date": "2026-05-06",
-  "updated": "2026/05/06 04:41:53",
-  "updated_at": 1778013713493,
+  "updated": "2026/05/06 05:58:54",
+  "updated_at": 1778018334848,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "蠢萌的前提是萌，不是蠢。"
+    "text": "发丝千万条 睡眠第一条，熬夜不休息 脱发两行泪。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/06 04:41:42",
-    "updated_at": 1778013702297,
+    "updated": "2026/05/06 05:58:49",
+    "updated_at": 1778018329476,
     "trading_day": {
       "A": true,
       "HK": true,
