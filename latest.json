@@ -1,7 +1,7 @@
 {
   "date": "2026-05-06",
-  "updated": "2026/05/06 07:00:06",
-  "updated_at": 1778022006458,
+  "updated": "2026/05/06 07:57:23",
+  "updated_at": 1778025443195,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "只要努力的时间足够长，搞不好，你还可以失败的更彻底。"
+    "text": "你可以像只猪一样懒，却无法像只猪一样，懒得心安理得。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/06 07:00:02",
-    "updated_at": 1778022002522,
+    "updated": "2026/05/06 07:57:18",
+    "updated_at": 1778025438146,
     "trading_day": {
       "A": true,
       "HK": true,
