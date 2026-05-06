@@ -1,7 +1,7 @@
 {
   "date": "2026-05-07",
-  "updated": "2026/05/07 06:48:49",
-  "updated_at": 1778107729220,
+  "updated": "2026/05/07 07:46:53",
+  "updated_at": 1778111213006,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -13,7 +13,7 @@
     "text": "别人上班赚工资，我上班只为摸鱼。我们不一样，不一样～"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "通知：今天周四，不允许发跟肯德基和疯狂星期四的段子，违令者给我也买一份",
+  "kfc_content": "请大家来拿肯德基疯狂星期四套餐：一人一份不要多拿！\n🍗🍗 🍗🍗 🍗🍗\n🍗🍗 🍗🍗 🍗🍗\n🍗🍗 🍗🍗 🍗🍗",
   "date_info": {
     "year_month": "2026.05",
     "day": "7",
@@ -167,7 +167,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "通知：今天周四，不允许发跟肯德基和疯狂星期四的段子，违令者给我也买一份"
+    "content": "请大家来拿肯德基疯狂星期四套餐：一人一份不要多拿！\n🍗🍗 🍗🍗 🍗🍗\n🍗🍗 🍗🍗 🍗🍗\n🍗🍗 🍗🍗 🍗🍗"
   },
   "stock_indices": {
     "items": [
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/07 06:48:42",
-    "updated_at": 1778107722525,
+    "updated": "2026/05/07 07:46:48",
+    "updated_at": 1778111208290,
     "trading_day": {
       "A": true,
       "HK": true,
