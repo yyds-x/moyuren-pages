@@ -1,7 +1,7 @@
 {
   "date": "2026-05-06",
-  "updated": "2026/05/06 21:11:37",
-  "updated_at": 1778073097999,
+  "updated": "2026/05/06 23:40:34",
+  "updated_at": 1778082034563,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "我知道虚度年华不对，但是这样，真的好过瘾啊。"
+    "text": "生活费就像大姨妈，一个月来一次，几天就没了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -213,16 +213,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49298.25,
-        "change": 356.35,
-        "change_pct": 0.73,
+        "price": 49848.75,
+        "change": 550.5,
+        "change_pct": 1.12,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/06 21:11:32",
-    "updated_at": 1778073092613,
+    "updated": "2026/05/06 23:40:28",
+    "updated_at": 1778082028991,
     "trading_day": {
       "A": true,
       "HK": true,
