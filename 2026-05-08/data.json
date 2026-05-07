@@ -1,7 +1,7 @@
 {
   "date": "2026-05-08",
-  "updated": "2026/05/08 05:02:13",
-  "updated_at": 1778187733675,
+  "updated": "2026/05/08 06:34:18",
+  "updated_at": 1778193258677,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "他喜欢她，无关爱情。她幸福了，于是他也幸福了。"
+    "text": "对与错，应该由历史来决定。我们能做的，就是相信自己认为是对的事，然后为此战斗……不过我认为那个强者生，弱者死的……弱肉强食时代，绝对是错的！绝对错！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/08 05:02:08",
-    "updated_at": 1778187728137,
+    "updated": "2026/05/08 06:34:13",
+    "updated_at": 1778193253682,
     "trading_day": {
       "A": true,
       "HK": true,
