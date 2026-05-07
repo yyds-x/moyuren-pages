@@ -1,7 +1,7 @@
 {
   "date": "2026-05-07",
-  "updated": "2026/05/07 13:59:17",
-  "updated_at": 1778133557552,
+  "updated": "2026/05/07 16:44:14",
+  "updated_at": 1778143454685,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -13,7 +13,7 @@
     "text": "有的人为了工作而活着，有的人为了摸鱼而工作。我显然属于后者。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "富翁找到我和另外两个年轻人，许诺只要有人用一样东西填满一整个房间，就会把财产全部赠与给那个人。\n第一个人找来六周年拉菲草铺在地板上，铺了半天说房子买大了，富翁摇了摇头。\n第二个人找来一根蜡烛点燃，屋子里充满了光，富翁还是摇了摇头，因为他的影子没有被照到。\n现在只剩下我还没有拿出东西，我已经想好了，只要我拿出肯德基疯狂星期四藤椒无骨大鸡柳，香味就可以充满整个房间！\n谁赞助我一份？拿到富翁财产之后我会分 TA 百分之十。",
+  "kfc_content": "大家好！我是 tiktok 的难民，第一次来到 Wechat 这个软件，希望能和大家做朋友。我来自美国的 肯塔基州  ，听说今天是中国的肯德基疯狂星期四，肯德基（KFC）就是 “Kentucky Fried Chicken” 的缩写，意为 “肯塔基州炸鸡”，如果你想要吃到正宗的肯德基，可以给我转账 50 刀，等我来到中国，我会给你带过来。",
   "date_info": {
     "year_month": "2026.05",
     "day": "7",
@@ -167,68 +167,17 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "富翁找到我和另外两个年轻人，许诺只要有人用一样东西填满一整个房间，就会把财产全部赠与给那个人。\n第一个人找来六周年拉菲草铺在地板上，铺了半天说房子买大了，富翁摇了摇头。\n第二个人找来一根蜡烛点燃，屋子里充满了光，富翁还是摇了摇头，因为他的影子没有被照到。\n现在只剩下我还没有拿出东西，我已经想好了，只要我拿出肯德基疯狂星期四藤椒无骨大鸡柳，香味就可以充满整个房间！\n谁赞助我一份？拿到富翁财产之后我会分 TA 百分之十。"
+    "content": "大家好！我是 tiktok 的难民，第一次来到 Wechat 这个软件，希望能和大家做朋友。我来自美国的 肯塔基州  ，听说今天是中国的肯德基疯狂星期四，肯德基（KFC）就是 “Kentucky Fried Chicken” 的缩写，意为 “肯塔基州炸鸡”，如果你想要吃到正宗的肯德基，可以给我转账 50 刀，等我来到中国，我会给你带过来。"
   },
   "stock_indices": {
-    "items": [
-      {
-        "code": "000001",
-        "name": "上证指数",
-        "price": 4173.78,
-        "change": 13.61,
-        "change_pct": 0.33,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399001",
-        "name": "深证成指",
-        "price": 15614.91,
-        "change": 155.29,
-        "change_pct": 1.0,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399006",
-        "name": "创业板指",
-        "price": 3826.22,
-        "change": 48.06,
-        "change_pct": 1.27,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "HSI",
-        "name": "恒生指数",
-        "price": 26568.26,
-        "change": 354.48,
-        "change_pct": 1.35,
-        "trend": "up",
-        "market": "HK",
-        "is_trading_day": true
-      },
-      {
-        "code": "DJIA",
-        "name": "道琼斯",
-        "price": 49910.59,
-        "change": 612.34,
-        "change_pct": 1.24,
-        "trend": "up",
-        "market": "US",
-        "is_trading_day": true
-      }
-    ],
-    "updated": "2026/05/07 13:59:12",
-    "updated_at": 1778133552268,
+    "items": [],
+    "updated": "2026/05/07 16:44:01",
+    "updated_at": 1778143441293,
     "trading_day": {
-      "A": true,
-      "HK": true,
-      "US": true
+      "A": false,
+      "HK": false,
+      "US": false
     },
-    "is_stale": false
+    "is_stale": true
   }
 }
