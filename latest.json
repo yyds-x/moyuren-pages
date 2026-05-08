@@ -1,7 +1,7 @@
 {
   "date": "2026-05-08",
-  "updated": "2026/05/08 15:07:17",
-  "updated_at": 1778224037759,
+  "updated": "2026/05/08 16:54:52",
+  "updated_at": 1778230492542,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "生命是买不到，给不了的。但是，却可以养育。"
+    "text": "后悔是一种耗费精神的情绪，后悔是比损失更大的损失，比错误更大的错误，所以不要后悔。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 26422.43,
-        "change": -203.85,
-        "change_pct": -0.77,
+        "price": 26393.71,
+        "change": -232.57,
+        "change_pct": -0.87,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/08 15:07:12",
-    "updated_at": 1778224032520,
+    "updated": "2026/05/08 16:54:46",
+    "updated_at": 1778230486873,
     "trading_day": {
       "A": true,
       "HK": true,
