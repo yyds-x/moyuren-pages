@@ -1,7 +1,7 @@
 {
   "date": "2026-05-08",
-  "updated": "2026/05/08 16:54:52",
-  "updated_at": 1778230492542,
+  "updated": "2026/05/08 18:22:22",
+  "updated_at": 1778235742236,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "后悔是一种耗费精神的情绪，后悔是比损失更大的损失，比错误更大的错误，所以不要后悔。"
+    "text": "与其说花开不如说花狂乱的散落一地，反正这世界本就是妄想与自私的培养皿。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/08 16:54:46",
-    "updated_at": 1778230486873,
+    "updated": "2026/05/08 18:22:18",
+    "updated_at": 1778235738222,
     "trading_day": {
       "A": true,
       "HK": true,
