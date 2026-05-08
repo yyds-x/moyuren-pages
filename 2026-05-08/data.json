@@ -1,7 +1,7 @@
 {
   "date": "2026-05-08",
-  "updated": "2026/05/08 13:28:40",
-  "updated_at": 1778218120710,
+  "updated": "2026/05/08 15:07:17",
+  "updated_at": 1778224037759,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "当有人从心底认同你的时候，那个人对你来说就是最重要的人。"
+    "text": "生命是买不到，给不了的。但是，却可以养育。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,19 +174,19 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4176.28,
-        "change": -3.81,
-        "change_pct": -0.09,
-        "trend": "down",
+        "price": 4179.95,
+        "change": -0.14,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 15579.0,
-        "change": -62.89,
-        "change_pct": -0.4,
+        "price": 15563.8,
+        "change": -78.09,
+        "change_pct": -0.5,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3818.96,
-        "change": -14.1,
-        "change_pct": -0.37,
+        "price": 3796.13,
+        "change": -36.93,
+        "change_pct": -0.96,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 26341.29,
-        "change": -284.99,
-        "change_pct": -1.07,
+        "price": 26422.43,
+        "change": -203.85,
+        "change_pct": -0.77,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/08 13:28:36",
-    "updated_at": 1778218116743,
+    "updated": "2026/05/08 15:07:12",
+    "updated_at": 1778224032520,
     "trading_day": {
       "A": true,
       "HK": true,
