@@ -1,7 +1,7 @@
 {
   "date": "2026-05-09",
-  "updated": "2026/05/09 07:01:47",
-  "updated_at": 1778281307759,
+  "updated": "2026/05/09 09:14:55",
+  "updated_at": 1778289295220,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "moyu_quote",
     "title": "🐟 摸鱼语录",
-    "text": "摸鱼使我快乐，加班令我痛苦。人生在世，当然要追求快乐啊！"
+    "text": "钱是老板的，命是自己的。工作做不完还有明天，命没了就真的没了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/09 07:01:43",
-    "updated_at": 1778281303922,
+    "updated": "2026/05/09 09:14:46",
+    "updated_at": 1778289286893,
     "trading_day": {
       "A": false,
       "HK": false,
