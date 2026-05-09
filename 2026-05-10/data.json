@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "updated": "2026/05/10 01:46:40",
-  "updated_at": 1778348800704,
+  "updated": "2026/05/10 02:56:29",
+  "updated_at": 1778352989990,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小明理了个新发型，同学说像风筝，他委屈地哭了，哭着哭着就飞起来了。"
+    "text": "狗急了会跳墙，那人急了呢？人急了上厕所。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -170,65 +170,14 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [
-      {
-        "code": "000001",
-        "name": "上证指数",
-        "price": 4179.95,
-        "change": -0.14,
-        "change_pct": 0.0,
-        "trend": "flat",
-        "market": "A",
-        "is_trading_day": false
-      },
-      {
-        "code": "399001",
-        "name": "深证成指",
-        "price": 15563.8,
-        "change": -78.09,
-        "change_pct": -0.5,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": false
-      },
-      {
-        "code": "399006",
-        "name": "创业板指",
-        "price": 3796.13,
-        "change": -36.93,
-        "change_pct": -0.96,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": false
-      },
-      {
-        "code": "HSI",
-        "name": "恒生指数",
-        "price": 26393.71,
-        "change": -232.57,
-        "change_pct": -0.87,
-        "trend": "down",
-        "market": "HK",
-        "is_trading_day": false
-      },
-      {
-        "code": "DJIA",
-        "name": "道琼斯",
-        "price": 49609.16,
-        "change": 12.19,
-        "change_pct": 0.02,
-        "trend": "up",
-        "market": "US",
-        "is_trading_day": false
-      }
-    ],
-    "updated": "2026/05/10 01:46:34",
-    "updated_at": 1778348794741,
+    "items": [],
+    "updated": "2026/05/10 02:56:21",
+    "updated_at": 1778352981799,
     "trading_day": {
       "A": false,
       "HK": false,
       "US": false
     },
-    "is_stale": false
+    "is_stale": true
   }
 }
