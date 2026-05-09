@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "updated": "2026/05/10 00:52:02",
-  "updated_at": 1778345522840,
+  "updated": "2026/05/10 01:46:40",
+  "updated_at": 1778348800704,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "平行线最受不了什么水果？香蕉。"
+    "text": "小明理了个新发型，同学说像风筝，他委屈地哭了，哭着哭着就飞起来了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/10 00:51:57",
-    "updated_at": 1778345517515,
+    "updated": "2026/05/10 01:46:34",
+    "updated_at": 1778348794741,
     "trading_day": {
       "A": false,
       "HK": false,
