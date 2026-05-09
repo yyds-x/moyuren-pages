@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "updated": "2026/05/10 05:40:05",
-  "updated_at": 1778362805484,
+  "updated": "2026/05/10 06:39:34",
+  "updated_at": 1778366374033,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "你知道长沙发生了什么吗？生了短沙发。"
+    "text": "男人相亲要带什么？蚊香，因为蚊香识女人（闻香识女人）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/10 05:39:59",
-    "updated_at": 1778362799612,
+    "updated": "2026/05/10 06:39:27",
+    "updated_at": 1778366367296,
     "trading_day": {
       "A": false,
       "HK": false,
