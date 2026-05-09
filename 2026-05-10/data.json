@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "updated": "2026/05/10 03:56:59",
-  "updated_at": 1778356619504,
+  "updated": "2026/05/10 04:44:22",
+  "updated_at": 1778359462347,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "为什么电动车没电了跑得更快？因为变成动车了。"
+    "text": "为什么e人和i人分手没分成？因为i不释手（爱不释手）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/10 03:56:53",
-    "updated_at": 1778356613503,
+    "updated": "2026/05/10 04:44:18",
+    "updated_at": 1778359458627,
     "trading_day": {
       "A": false,
       "HK": false,
