@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "updated": "2026/05/10 18:58:40",
-  "updated_at": 1778410720439,
+  "updated": "2026/05/10 19:56:27",
+  "updated_at": 1778414187383,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "哪个武林门派的教徒不会说谎？全真。"
+    "text": "麒麟飞到北极会变成什么？冰淇淋（冰麒麟）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/10 18:58:34",
-    "updated_at": 1778410714976,
+    "updated": "2026/05/10 19:56:21",
+    "updated_at": 1778414181481,
     "trading_day": {
       "A": false,
       "HK": false,
