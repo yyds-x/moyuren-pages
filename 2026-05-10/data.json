@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "updated": "2026/05/10 22:35:33",
-  "updated_at": 1778423733763,
+  "updated": "2026/05/10 23:51:00",
+  "updated_at": 1778428260002,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "为什么冷笑话要中午看？因为早晚会被冷死。"
+    "text": "约e人出来玩为什么要给出场费？因为见e四千（见异思迁）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/10 22:35:28",
-    "updated_at": 1778423728063,
+    "updated": "2026/05/10 23:50:54",
+    "updated_at": 1778428254459,
     "trading_day": {
       "A": false,
       "HK": false,
