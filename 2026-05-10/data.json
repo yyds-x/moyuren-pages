@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "updated": "2026/05/10 17:52:58",
-  "updated_at": 1778406778699,
+  "updated": "2026/05/10 18:58:40",
+  "updated_at": 1778410720439,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "茉莉花、太阳花、玫瑰花哪一朵花最没力？茉莉花，因为歌里唱“好一朵没力（美丽）的茉莉花”。"
+    "text": "哪个武林门派的教徒不会说谎？全真。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/10 17:52:53",
-    "updated_at": 1778406773323,
+    "updated": "2026/05/10 18:58:34",
+    "updated_at": 1778410714976,
     "trading_day": {
       "A": false,
       "HK": false,
