@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "updated": "2026/05/10 19:56:27",
-  "updated_at": 1778414187383,
+  "updated": "2026/05/10 21:16:17",
+  "updated_at": 1778418977129,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "麒麟飞到北极会变成什么？冰淇淋（冰麒麟）。"
+    "text": "怎样使麻雀安静下来？压它一下，因为鸦雀无声（压雀无声）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/10 19:56:21",
-    "updated_at": 1778414181481,
+    "updated": "2026/05/10 21:16:11",
+    "updated_at": 1778418971625,
     "trading_day": {
       "A": false,
       "HK": false,
