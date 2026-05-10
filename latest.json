@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "updated": "2026/05/10 07:43:45",
-  "updated_at": 1778370225330,
+  "updated": "2026/05/10 10:39:20",
+  "updated_at": 1778380760345,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "我是女的，这个饮料我不能喝，为什么？因为它难（男）喝。"
+    "text": "一天一个橙子路上碰见一个香菇，然后橙子就死了，为什么？因为菌要橙死，橙不得不死。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/10 07:43:39",
-    "updated_at": 1778370219877,
+    "updated": "2026/05/10 10:39:13",
+    "updated_at": 1778380753919,
     "trading_day": {
       "A": false,
       "HK": false,
