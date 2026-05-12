@@ -1,7 +1,7 @@
 {
   "date": "2026-05-13",
-  "updated": "2026/05/13 05:16:46",
-  "updated_at": 1778620606241,
+  "updated": "2026/05/13 06:40:09",
+  "updated_at": 1778625609720,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "风的孩子叫什么？水起（风生水起）。"
+    "text": "什么东西等到秋天会不见？蚯蚓。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,8 +219,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/13 05:16:42",
-    "updated_at": 1778620602423,
+    "updated": "2026/05/13 06:40:04",
+    "updated_at": 1778625604207,
     "trading_day": {
       "A": true,
       "HK": true,
