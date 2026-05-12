@@ -1,7 +1,7 @@
 {
   "date": "2026-05-13",
-  "updated": "2026/05/13 06:40:09",
-  "updated_at": 1778625609720,
+  "updated": "2026/05/13 07:57:03",
+  "updated_at": 1778630223439,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "什么东西等到秋天会不见？蚯蚓。"
+    "text": "母鸡可以卖鸡蛋，公鸡可以卖什么？鸡精。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,8 +219,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/13 06:40:04",
-    "updated_at": 1778625604207,
+    "updated": "2026/05/13 07:56:57",
+    "updated_at": 1778630217919,
     "trading_day": {
       "A": true,
       "HK": true,
