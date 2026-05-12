@@ -1,7 +1,7 @@
 {
   "date": "2026-05-13",
-  "updated": "2026/05/13 01:31:29",
-  "updated_at": 1778607089707,
+  "updated": "2026/05/13 03:46:18",
+  "updated_at": 1778615178731,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "哪个数字最懒哪个最勤快？一最懒，二最勤快，因为一不做二不休。"
+    "text": "大禹治水三过家门而不入，他的妻子就在家唱歌以表思念，请问唱的什么歌？那些年错过的大禹。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -211,16 +211,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49698.89,
-        "change": -5.58,
-        "change_pct": -0.01,
-        "trend": "down",
+        "price": 49779.11,
+        "change": 74.64,
+        "change_pct": 0.15,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/13 01:31:23",
-    "updated_at": 1778607083991,
+    "updated": "2026/05/13 03:46:12",
+    "updated_at": 1778615172824,
     "trading_day": {
       "A": true,
       "HK": true,
