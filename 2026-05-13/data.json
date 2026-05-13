@@ -1,7 +1,7 @@
 {
   "date": "2026-05-13",
-  "updated": "2026/05/13 17:42:46",
-  "updated_at": 1778665366845,
+  "updated": "2026/05/13 20:01:48",
+  "updated_at": 1778673708169,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "那年夏天，我捉住了一只蝉，我以为我捉住了整个夏天，没想到，那蝉对我说：不爱，请别揪蝉（纠缠）。"
+    "text": "晏子使楚，被人羞辱后离开，有大臣急忙去追：“晏子！晏子！你带我一起走吧！没有你我怎么活呀！”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,8 +219,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/13 17:42:41",
-    "updated_at": 1778665361198,
+    "updated": "2026/05/13 20:01:42",
+    "updated_at": 1778673702355,
     "trading_day": {
       "A": true,
       "HK": true,
