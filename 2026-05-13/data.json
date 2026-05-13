@@ -1,7 +1,7 @@
 {
   "date": "2026-05-13",
-  "updated": "2026/05/13 20:01:48",
-  "updated_at": 1778673708169,
+  "updated": "2026/05/13 23:23:35",
+  "updated_at": 1778685815000,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "晏子使楚，被人羞辱后离开，有大臣急忙去追：“晏子！晏子！你带我一起走吧！没有你我怎么活呀！”"
+    "text": "我在家闲得长出了蘑菇，煮了吃掉后中毒了，医生说我中的是好菇毒（好孤独）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -211,16 +211,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49760.56,
-        "change": 56.09,
-        "change_pct": 0.11,
-        "trend": "up",
+        "price": 49514.18,
+        "change": -246.38,
+        "change_pct": -0.5,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/13 20:01:42",
-    "updated_at": 1778673702355,
+    "updated": "2026/05/13 23:23:31",
+    "updated_at": 1778685811057,
     "trading_day": {
       "A": true,
       "HK": true,
