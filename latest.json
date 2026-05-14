@@ -1,7 +1,7 @@
 {
   "date": "2026-05-15",
-  "updated": "2026/05/15 05:07:25",
-  "updated_at": 1778792845058,
+  "updated": "2026/05/15 06:36:23",
+  "updated_at": 1778798183855,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "美杜莎石化了一位将军的妻子，将军怒道：敢石化贱内！美杜莎：恨…恨别鸟惊心。"
+    "text": "小孩想弹贝斯，但是贝斯太重了，怎么办？过年的时候弹，因为每逢佳节倍思亲（贝斯轻）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/15 05:07:20",
-    "updated_at": 1778792840576,
+    "updated": "2026/05/15 06:36:18",
+    "updated_at": 1778798178976,
     "trading_day": {
       "A": true,
       "HK": true,
