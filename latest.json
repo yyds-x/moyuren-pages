@@ -1,7 +1,7 @@
 {
   "date": "2026-05-14",
-  "updated": "2026/05/14 07:54:21",
-  "updated_at": 1778716461518,
+  "updated": "2026/05/14 10:49:00",
+  "updated_at": 1778726940540,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "如果你愿意，一层一层一层地剥开我的心，你会发现我缺心眼。"
+    "text": "不要轻易看不起谁，就算是杀马特，发量都比你多。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "车子千万不要外借！我真是吃了大亏了！朋友找我借车，碍于面子不好意思不借，结果昨天在路上遇见了，一点都不爱惜我的车，上坡还站起来蹬车，链子都掉了！气死我了！幸好今天是肯德基疯狂星期四，有人请我吃我感觉会好点",
+  "kfc_content": "[水滴筹] 很抱歉打扰大家，本人干 2024 年 12 月 19 日上午 9 点 11 分查出两眼昏花饥饿症，情况紧急\n所幸有个朋友的姥爷是中医，让我照着这个药方抓药:\n蛋挞 * 2、烤翅 * 3 对、鸡块 * 2、薯条 * 2、可乐 * 500ml、原味鸡 * 2，谁 v 我 50 去抓药\n周期性蛋白脂肪缺乏症 (学名 Insanus lovis) 是一种广泛存在的慢性病，易感人群多为中国大陆年轻群体，目前暂无有效的治愈方法，只能通过使用美国公司 Kentucky Fried Chicken (简称 KFC) 开发的生物制剂 Fried Animal Protein (FAP, 中文译名飞普) 经由食道对胃与小肠中受体进行靶向治疗缓解症状。今天是该公司降低药物售价的日子，资助 50 帮我治疗该慢性病",
   "date_info": {
     "year_month": "2026.05",
     "day": "14",
@@ -169,46 +169,46 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "车子千万不要外借！我真是吃了大亏了！朋友找我借车，碍于面子不好意思不借，结果昨天在路上遇见了，一点都不爱惜我的车，上坡还站起来蹬车，链子都掉了！气死我了！幸好今天是肯德基疯狂星期四，有人请我吃我感觉会好点"
+    "content": "[水滴筹] 很抱歉打扰大家，本人干 2024 年 12 月 19 日上午 9 点 11 分查出两眼昏花饥饿症，情况紧急\n所幸有个朋友的姥爷是中医，让我照着这个药方抓药:\n蛋挞 * 2、烤翅 * 3 对、鸡块 * 2、薯条 * 2、可乐 * 500ml、原味鸡 * 2，谁 v 我 50 去抓药\n周期性蛋白脂肪缺乏症 (学名 Insanus lovis) 是一种广泛存在的慢性病，易感人群多为中国大陆年轻群体，目前暂无有效的治愈方法，只能通过使用美国公司 Kentucky Fried Chicken (简称 KFC) 开发的生物制剂 Fried Animal Protein (FAP, 中文译名飞普) 经由食道对胃与小肠中受体进行靶向治疗缓解症状。今天是该公司降低药物售价的日子，资助 50 帮我治疗该慢性病"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4242.57,
-        "change": 28.08,
-        "change_pct": 0.67,
-        "trend": "up",
+        "price": 4212.25,
+        "change": -30.32,
+        "change_pct": -0.71,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 16089.75,
-        "change": 264.83,
-        "change_pct": 1.67,
-        "trend": "up",
+        "price": 15910.19,
+        "change": -179.56,
+        "change_pct": -1.12,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 4038.33,
-        "change": 103.45,
-        "change_pct": 2.63,
-        "trend": "up",
+        "price": 3982.95,
+        "change": -55.38,
+        "change_pct": -1.37,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 26388.44,
-        "change": 40.53,
-        "change_pct": 0.15,
+        "price": 26565.97,
+        "change": 177.53,
+        "change_pct": 0.67,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -224,8 +224,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/14 07:54:15",
-    "updated_at": 1778716455437,
+    "updated": "2026/05/14 10:48:54",
+    "updated_at": 1778726934993,
     "trading_day": {
       "A": true,
       "HK": true,
