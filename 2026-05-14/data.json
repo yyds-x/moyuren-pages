@@ -1,7 +1,7 @@
 {
   "date": "2026-05-14",
-  "updated": "2026/05/14 14:22:50",
-  "updated_at": 1778739770591,
+  "updated": "2026/05/14 17:14:06",
+  "updated_at": 1778750046749,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "仗义每从屠狗辈，负心多是读书人。"
+    "text": "我是深知欲速则不达，心急吃不了热豆腐的，你怎么能说我有拖延症？"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "我是理之律者 - 布洛妮娅・扎伊切克，听说吊销我驾照的老警官要被我的答辩朋友打败，V 我 50，助我穿上机甲，带着 30 万人，以真理之名去嘲笑凯文",
+  "kfc_content": "暗恋两年半的女孩发朋友圈官宣了\n兄弟，我哭了一整天了\n突然就不想活了\n听说酸奶和炸鸡一起吃会中毒\n酸奶我有了，你能不能帮我买一份炸鸡？\n对了，听说肯德基的炸鸡毒性最强",
   "date_info": {
     "year_month": "2026.05",
     "day": "14",
@@ -169,16 +169,16 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "我是理之律者 - 布洛妮娅・扎伊切克，听说吊销我驾照的老警官要被我的答辩朋友打败，V 我 50，助我穿上机甲，带着 30 万人，以真理之名去嘲笑凯文"
+    "content": "暗恋两年半的女孩发朋友圈官宣了\n兄弟，我哭了一整天了\n突然就不想活了\n听说酸奶和炸鸡一起吃会中毒\n酸奶我有了，你能不能帮我买一份炸鸡？\n对了，听说肯德基的炸鸡毒性最强"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4218.83,
-        "change": -23.74,
-        "change_pct": -0.56,
+        "price": 4177.92,
+        "change": -64.65,
+        "change_pct": -1.52,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -186,9 +186,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 15976.14,
-        "change": -113.61,
-        "change_pct": -0.71,
+        "price": 15745.74,
+        "change": -344.01,
+        "change_pct": -2.14,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -196,9 +196,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 4018.0,
-        "change": -20.33,
-        "change_pct": -0.5,
+        "price": 3951.14,
+        "change": -87.19,
+        "change_pct": -2.16,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -206,10 +206,10 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 26435.82,
-        "change": 47.38,
-        "change_pct": 0.18,
-        "trend": "up",
+        "price": 26389.04,
+        "change": 0.6,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "HK",
         "is_trading_day": true
       },
@@ -224,8 +224,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/14 14:22:44",
-    "updated_at": 1778739764603,
+    "updated": "2026/05/14 17:14:00",
+    "updated_at": 1778750040801,
     "trading_day": {
       "A": true,
       "HK": true,
