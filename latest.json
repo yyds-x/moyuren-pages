@@ -1,7 +1,7 @@
 {
   "date": "2026-05-14",
-  "updated": "2026/05/14 10:49:00",
-  "updated_at": 1778726940540,
+  "updated": "2026/05/14 14:22:50",
+  "updated_at": 1778739770591,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "不要轻易看不起谁，就算是杀马特，发量都比你多。"
+    "text": "仗义每从屠狗辈，负心多是读书人。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "[水滴筹] 很抱歉打扰大家，本人干 2024 年 12 月 19 日上午 9 点 11 分查出两眼昏花饥饿症，情况紧急\n所幸有个朋友的姥爷是中医，让我照着这个药方抓药:\n蛋挞 * 2、烤翅 * 3 对、鸡块 * 2、薯条 * 2、可乐 * 500ml、原味鸡 * 2，谁 v 我 50 去抓药\n周期性蛋白脂肪缺乏症 (学名 Insanus lovis) 是一种广泛存在的慢性病，易感人群多为中国大陆年轻群体，目前暂无有效的治愈方法，只能通过使用美国公司 Kentucky Fried Chicken (简称 KFC) 开发的生物制剂 Fried Animal Protein (FAP, 中文译名飞普) 经由食道对胃与小肠中受体进行靶向治疗缓解症状。今天是该公司降低药物售价的日子，资助 50 帮我治疗该慢性病",
+  "kfc_content": "我是理之律者 - 布洛妮娅・扎伊切克，听说吊销我驾照的老警官要被我的答辩朋友打败，V 我 50，助我穿上机甲，带着 30 万人，以真理之名去嘲笑凯文",
   "date_info": {
     "year_month": "2026.05",
     "day": "14",
@@ -169,16 +169,16 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "[水滴筹] 很抱歉打扰大家，本人干 2024 年 12 月 19 日上午 9 点 11 分查出两眼昏花饥饿症，情况紧急\n所幸有个朋友的姥爷是中医，让我照着这个药方抓药:\n蛋挞 * 2、烤翅 * 3 对、鸡块 * 2、薯条 * 2、可乐 * 500ml、原味鸡 * 2，谁 v 我 50 去抓药\n周期性蛋白脂肪缺乏症 (学名 Insanus lovis) 是一种广泛存在的慢性病，易感人群多为中国大陆年轻群体，目前暂无有效的治愈方法，只能通过使用美国公司 Kentucky Fried Chicken (简称 KFC) 开发的生物制剂 Fried Animal Protein (FAP, 中文译名飞普) 经由食道对胃与小肠中受体进行靶向治疗缓解症状。今天是该公司降低药物售价的日子，资助 50 帮我治疗该慢性病"
+    "content": "我是理之律者 - 布洛妮娅・扎伊切克，听说吊销我驾照的老警官要被我的答辩朋友打败，V 我 50，助我穿上机甲，带着 30 万人，以真理之名去嘲笑凯文"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4212.25,
-        "change": -30.32,
-        "change_pct": -0.71,
+        "price": 4218.83,
+        "change": -23.74,
+        "change_pct": -0.56,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -186,9 +186,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 15910.19,
-        "change": -179.56,
-        "change_pct": -1.12,
+        "price": 15976.14,
+        "change": -113.61,
+        "change_pct": -0.71,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -196,9 +196,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3982.95,
-        "change": -55.38,
-        "change_pct": -1.37,
+        "price": 4018.0,
+        "change": -20.33,
+        "change_pct": -0.5,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -206,9 +206,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 26565.97,
-        "change": 177.53,
-        "change_pct": 0.67,
+        "price": 26435.82,
+        "change": 47.38,
+        "change_pct": 0.18,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -224,8 +224,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/14 10:48:54",
-    "updated_at": 1778726934993,
+    "updated": "2026/05/14 14:22:44",
+    "updated_at": 1778739764603,
     "trading_day": {
       "A": true,
       "HK": true,
