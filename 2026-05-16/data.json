@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
-  "updated": "2026/05/16 06:29:28",
-  "updated_at": 1778884168612,
+  "updated": "2026/05/16 07:29:40",
+  "updated_at": 1778887780004,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "你为什么放屁这么大声？因为我穿了喇叭裤。"
+    "text": "一个糖在北极走着走着，觉得好冷，于是就变成了冰糖。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/16 06:29:23",
-    "updated_at": 1778884163307,
+    "updated": "2026/05/16 07:29:34",
+    "updated_at": 1778887774866,
     "trading_day": {
       "A": false,
       "HK": false,
