@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
-  "updated": "2026/05/16 02:00:50",
-  "updated_at": 1778868050719,
+  "updated": "2026/05/16 03:59:04",
+  "updated_at": 1778875144542,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "比天上的星星小一点的是什么？是鸿星。因为星八克，鸿星二克。"
+    "text": "一块姜被切成了四块它变成了什么？姜姜姜姜。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49648.26,
-        "change": -415.2,
-        "change_pct": -0.83,
+        "price": 49544.39,
+        "change": -519.07,
+        "change_pct": -1.04,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/16 02:00:45",
-    "updated_at": 1778868045244,
+    "updated": "2026/05/16 03:58:59",
+    "updated_at": 1778875139198,
     "trading_day": {
       "A": false,
       "HK": false,
