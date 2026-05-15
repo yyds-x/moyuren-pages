@@ -1,7 +1,7 @@
 {
   "date": "2026-05-15",
-  "updated": "2026/05/15 19:53:02",
-  "updated_at": 1778845982324,
+  "updated": "2026/05/15 21:59:30",
+  "updated_at": 1778853570408,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "吸血鬼喜欢吃辣吗？不喜欢，他们喜欢blood（不辣的）。"
+    "text": "你知道什么油最能鼓励人吗？加油。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 50063.46,
-        "change": 370.26,
-        "change_pct": 0.75,
-        "trend": "up",
+        "price": 49612.98,
+        "change": -450.48,
+        "change_pct": -0.9,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/15 19:52:57",
-    "updated_at": 1778845977156,
+    "updated": "2026/05/15 21:59:24",
+    "updated_at": 1778853564965,
     "trading_day": {
       "A": true,
       "HK": true,
