@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
-  "updated": "2026/05/16 05:12:56",
-  "updated_at": 1778879576459,
+  "updated": "2026/05/16 06:29:28",
+  "updated_at": 1778884168612,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "老虎叫什么名字？眈眈，因为虎视（是）眈眈。"
+    "text": "你为什么放屁这么大声？因为我穿了喇叭裤。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/16 05:12:51",
-    "updated_at": 1778879571602,
+    "updated": "2026/05/16 06:29:23",
+    "updated_at": 1778884163307,
     "trading_day": {
       "A": false,
       "HK": false,
