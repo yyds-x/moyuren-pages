@@ -1,7 +1,7 @@
 {
   "date": "2026-05-15",
-  "updated": "2026/05/15 17:45:13",
-  "updated_at": 1778838313209,
+  "updated": "2026/05/15 19:53:02",
+  "updated_at": 1778845982324,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "当你越久不洗澡，你就会越南文（越难闻）。"
+    "text": "吸血鬼喜欢吃辣吗？不喜欢，他们喜欢blood（不辣的）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/15 17:45:08",
-    "updated_at": 1778838308667,
+    "updated": "2026/05/15 19:52:57",
+    "updated_at": 1778845977156,
     "trading_day": {
       "A": true,
       "HK": true,
