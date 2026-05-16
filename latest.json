@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
-  "updated": "2026/05/17 04:04:41",
-  "updated_at": 1778961881306,
+  "updated": "2026/05/17 05:10:25",
+  "updated_at": 1778965825448,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "铁杵能磨成针，但木杵只能磨成牙签。材料不对再努力也没用。"
+    "text": "女生何必勾心斗角互相攀比，反正几十年后，都要一起跳广场舞的。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/17 04:04:35",
-    "updated_at": 1778961875931,
+    "updated": "2026/05/17 05:10:19",
+    "updated_at": 1778965819905,
     "trading_day": {
       "A": false,
       "HK": false,
