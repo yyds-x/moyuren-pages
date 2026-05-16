@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
-  "updated": "2026/05/16 21:15:20",
-  "updated_at": 1778937320402,
+  "updated": "2026/05/16 22:39:28",
+  "updated_at": 1778942368633,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "手机没电了去咖啡店问有没有电源，工作人员会说什么？我就是店员（电源）。"
+    "text": "有一根火柴在路上走，觉得头痒就挠，挠着挠着火就着了，最后灭了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/16 21:15:14",
-    "updated_at": 1778937314534,
+    "updated": "2026/05/16 22:39:23",
+    "updated_at": 1778942363478,
     "trading_day": {
       "A": false,
       "HK": false,
