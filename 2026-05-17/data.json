@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
-  "updated": "2026/05/17 00:56:34",
-  "updated_at": 1778950594989,
+  "updated": "2026/05/17 01:54:40",
+  "updated_at": 1778954080609,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "咸鱼翻身是为了晒得透彻，你翻身是因为手被压麻了。"
+    "text": "从小到大，唯一不变的，就是一颗不想念书的心。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/17 00:56:25",
-    "updated_at": 1778950585906,
+    "updated": "2026/05/17 01:54:34",
+    "updated_at": 1778954074589,
     "trading_day": {
       "A": false,
       "HK": false,
