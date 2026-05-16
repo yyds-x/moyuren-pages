@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
-  "updated": "2026/05/16 22:39:28",
-  "updated_at": 1778942368633,
+  "updated": "2026/05/16 23:55:47",
+  "updated_at": 1778946947706,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有一根火柴在路上走，觉得头痒就挠，挠着挠着火就着了，最后灭了。"
+    "text": "30万和十年脑血栓你选哪个？我选十年脑血栓，这样我就有三十年脑血栓了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/16 22:39:23",
-    "updated_at": 1778942363478,
+    "updated": "2026/05/16 23:55:40",
+    "updated_at": 1778946940225,
     "trading_day": {
       "A": false,
       "HK": false,
