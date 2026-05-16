@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
-  "updated": "2026/05/16 12:50:00",
-  "updated_at": 1778907000708,
+  "updated": "2026/05/16 15:12:18",
+  "updated_at": 1778915538518,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有个不识字的盲人，为什么他走着走着就识字了？因为他走到了十字路口。"
+    "text": "别人内卷怎么办？读书，因为读书破万卷。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/16 12:49:55",
-    "updated_at": 1778906995051,
+    "updated": "2026/05/16 15:12:14",
+    "updated_at": 1778915534591,
     "trading_day": {
       "A": false,
       "HK": false,
