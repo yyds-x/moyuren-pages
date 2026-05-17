@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
-  "updated": "2026/05/17 08:13:48",
-  "updated_at": 1778976828227,
+  "updated": "2026/05/17 12:38:15",
+  "updated_at": 1778992695983,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "往往那些不起眼的小餐馆，才能吃到真正的美味，而那些大酒店的我吃不起。"
+    "text": "白雪公主诠释了，七个小屌丝对她再好，也不及高富帅的一个吻。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/17 08:13:42",
-    "updated_at": 1778976822341,
+    "updated": "2026/05/17 12:38:11",
+    "updated_at": 1778992691710,
     "trading_day": {
       "A": false,
       "HK": false,
