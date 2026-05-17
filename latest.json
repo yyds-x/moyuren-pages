@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
-  "updated": "2026/05/17 20:11:01",
-  "updated_at": 1779019861995,
+  "updated": "2026/05/17 22:02:57",
+  "updated_at": 1779026577295,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "小时候最怕梦到自己找厕所，最最可怕的是，人没醒来厕所却找到了。"
+    "text": "你曾是我的太阳，是我的整个世界，现在想想也就是个球。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/17 20:10:58",
-    "updated_at": 1779019858160,
+    "updated": "2026/05/17 22:02:51",
+    "updated_at": 1779026571467,
     "trading_day": {
       "A": false,
       "HK": false,
