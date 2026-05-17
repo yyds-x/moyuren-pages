@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
-  "updated": "2026/05/17 22:02:57",
-  "updated_at": 1779026577295,
+  "updated": "2026/05/17 23:36:28",
+  "updated_at": 1779032188393,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你曾是我的太阳，是我的整个世界，现在想想也就是个球。"
+    "text": "我从来不会脑残地，在网上晒自己买的名牌，因为我买不起。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/17 22:02:51",
-    "updated_at": 1779026571467,
+    "updated": "2026/05/17 23:36:23",
+    "updated_at": 1779032183482,
     "trading_day": {
       "A": false,
       "HK": false,
