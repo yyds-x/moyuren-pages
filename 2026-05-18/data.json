@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
-  "updated": "2026/05/18 04:12:23",
-  "updated_at": 1779048743105,
+  "updated": "2026/05/18 05:14:35",
+  "updated_at": 1779052475841,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "少罗嗦，你还不如虫子呢！"
+    "text": "其实，朋友也许就是这个样子：未必要什么天长地久，也未必时时见面联系。在一些时候，可以彼此温暖，彼此慰藉，彼此鼓舞，那就足够了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/18 04:12:16",
-    "updated_at": 1779048736911,
+    "updated": "2026/05/18 05:14:29",
+    "updated_at": 1779052469897,
     "trading_day": {
       "A": true,
       "HK": true,
