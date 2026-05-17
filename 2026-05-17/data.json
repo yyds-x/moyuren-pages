@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
-  "updated": "2026/05/17 15:31:44",
-  "updated_at": 1779003104247,
+  "updated": "2026/05/17 17:44:36",
+  "updated_at": 1779011076165,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "把秋衣塞进秋裤，把秋裤塞进棉袜里，是对冬天最起码的尊重。"
+    "text": "有人存你号码是为了打给你，我不一样，我是为了不接。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/17 15:31:36",
-    "updated_at": 1779003096581,
+    "updated": "2026/05/17 17:44:30",
+    "updated_at": 1779011070524,
     "trading_day": {
       "A": false,
       "HK": false,
