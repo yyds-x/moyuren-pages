@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
-  "updated": "2026/05/18 00:54:47",
-  "updated_at": 1779036887104,
+  "updated": "2026/05/18 01:56:12",
+  "updated_at": 1779040572896,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "不管身在何方，我都不会忘记你们。并且，痛苦的回忆会成为明天的粮食，使我们变得坚强。人类拥有这种力量，坚强的迈出步伐，我也会坚定的继续前行。"
+    "text": "不管夜晚多么黑暗，黎明总是会到来。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/18 00:54:41",
-    "updated_at": 1779036881253,
+    "updated": "2026/05/18 01:56:07",
+    "updated_at": 1779040567608,
     "trading_day": {
       "A": true,
       "HK": true,
