@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
-  "updated": "2026/05/18 03:07:11",
-  "updated_at": 1779044831952,
+  "updated": "2026/05/18 04:12:23",
+  "updated_at": 1779048743105,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "万书皆下品，唯有萌最高！"
+    "text": "少罗嗦，你还不如虫子呢！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/18 03:07:06",
-    "updated_at": 1779044826564,
+    "updated": "2026/05/18 04:12:16",
+    "updated_at": 1779048736911,
     "trading_day": {
       "A": true,
       "HK": true,
