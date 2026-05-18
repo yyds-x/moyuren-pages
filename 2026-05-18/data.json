@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
-  "updated": "2026/05/18 13:48:06",
-  "updated_at": 1779083286698,
+  "updated": "2026/05/18 17:56:04",
+  "updated_at": 1779098164761,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "当一个人公平公正地去对待每个人的时候， 那便等同于他已经无法爱上任何人。"
+    "text": "愚昧总是会先压着真理。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4132.68,
-        "change": -2.71,
-        "change_pct": -0.07,
+        "price": 4131.53,
+        "change": -3.86,
+        "change_pct": -0.09,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -184,9 +184,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 15547.8,
-        "change": -13.57,
-        "change_pct": -0.09,
+        "price": 15530.23,
+        "change": -31.14,
+        "change_pct": -0.2,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3918.21,
-        "change": -10.85,
-        "change_pct": -0.28,
+        "price": 3914.88,
+        "change": -14.18,
+        "change_pct": -0.36,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25655.5,
-        "change": -307.23,
-        "change_pct": -1.18,
+        "price": 25675.18,
+        "change": -287.55,
+        "change_pct": -1.11,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/18 13:48:00",
-    "updated_at": 1779083280520,
+    "updated": "2026/05/18 17:56:01",
+    "updated_at": 1779098161070,
     "trading_day": {
       "A": true,
       "HK": true,
