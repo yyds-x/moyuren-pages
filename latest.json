@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
-  "updated": "2026/05/19 00:45:54",
-  "updated_at": 1779122754778,
+  "updated": "2026/05/19 02:29:23",
+  "updated_at": 1779128963471,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "狗急了会跳墙，那人急了呢？人急了上厕所。"
+    "text": "一个男生问女生：“你喜欢什么样的男生呀？” 女生说：“投缘的。” 男生说：“那头扁的行不行！”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49475.42,
-        "change": -50.75,
-        "change_pct": -0.1,
+        "price": 49407.05,
+        "change": -119.12,
+        "change_pct": -0.24,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/19 00:45:48",
-    "updated_at": 1779122748776,
+    "updated": "2026/05/19 02:29:18",
+    "updated_at": 1779128958671,
     "trading_day": {
       "A": true,
       "HK": true,
