@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
-  "updated": "2026/05/18 17:56:04",
-  "updated_at": 1779098164761,
+  "updated": "2026/05/18 21:43:30",
+  "updated_at": 1779111810166,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "愚昧总是会先压着真理。"
+    "text": "不需要什么明天，握住了的拳不要隐藏。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49526.17,
-        "change": -537.29,
-        "change_pct": -1.07,
-        "trend": "down",
+        "price": 49525.03,
+        "change": -1.14,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/18 17:56:01",
-    "updated_at": 1779098161070,
+    "updated": "2026/05/18 21:43:25",
+    "updated_at": 1779111805219,
     "trading_day": {
       "A": true,
       "HK": true,
