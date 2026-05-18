@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
-  "updated": "2026/05/19 05:45:47",
-  "updated_at": 1779140747862,
+  "updated": "2026/05/19 06:58:18",
+  "updated_at": 1779145098299,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一个糖在北极走着走着，觉得好冷，于是就变成了冰糖。"
+    "text": "小明理了个新发型，同学说像风筝，他委屈地哭了，哭着哭着就飞起来了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/19 05:45:42",
-    "updated_at": 1779140742746,
+    "updated": "2026/05/19 06:58:13",
+    "updated_at": 1779145093912,
     "trading_day": {
       "A": true,
       "HK": true,
