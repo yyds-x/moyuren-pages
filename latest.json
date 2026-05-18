@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
-  "updated": "2026/05/19 04:16:22",
-  "updated_at": 1779135382970,
+  "updated": "2026/05/19 05:45:47",
+  "updated_at": 1779140747862,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "研究发现整天戴AirPods会影响爱情，因为AirPods没有音源（姻缘）。"
+    "text": "一个糖在北极走着走着，觉得好冷，于是就变成了冰糖。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/19 04:16:17",
-    "updated_at": 1779135377243,
+    "updated": "2026/05/19 05:45:42",
+    "updated_at": 1779140742746,
     "trading_day": {
       "A": true,
       "HK": true,
