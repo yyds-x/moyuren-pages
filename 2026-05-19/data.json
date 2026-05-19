@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
-  "updated": "2026/05/19 06:58:18",
-  "updated_at": 1779145098299,
+  "updated": "2026/05/19 08:12:37",
+  "updated_at": 1779149557705,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小明理了个新发型，同学说像风筝，他委屈地哭了，哭着哭着就飞起来了。"
+    "text": "吃饺子时饺子馅冷了应该怎么办？播打热线（馅）电话。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/19 06:58:13",
-    "updated_at": 1779145093912,
+    "updated": "2026/05/19 08:12:32",
+    "updated_at": 1779149552127,
     "trading_day": {
       "A": true,
       "HK": true,
