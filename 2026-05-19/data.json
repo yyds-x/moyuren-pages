@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
-  "updated": "2026/05/19 16:24:58",
-  "updated_at": 1779179098221,
+  "updated": "2026/05/19 19:38:54",
+  "updated_at": 1779190734291,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "A和C谁比较矮？是A，因为ABCD（A比C低）。"
+    "text": "怎样使麻雀安静下来？压它一下，因为鸦雀无声（压雀无声）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/19 16:24:53",
-    "updated_at": 1779179093307,
+    "updated": "2026/05/19 19:38:49",
+    "updated_at": 1779190729062,
     "trading_day": {
       "A": true,
       "HK": true,
