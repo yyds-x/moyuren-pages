@@ -1,7 +1,7 @@
 {
   "date": "2026-05-20",
-  "updated": "2026/05/20 01:37:07",
-  "updated_at": 1779212227090,
+  "updated": "2026/05/20 03:48:56",
+  "updated_at": 1779220136835,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "如果你遇到了有点不可思议又让你困扰的事，不妨去探一探究竟。"
+    "text": "其实就在眼前，明明就在伸手可及的地方，但那距离却总让人觉得像是永远。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49559.66,
-        "change": -126.46,
-        "change_pct": -0.25,
+        "price": 49402.88,
+        "change": -283.24,
+        "change_pct": -0.57,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/20 01:37:01",
-    "updated_at": 1779212221545,
+    "updated": "2026/05/20 03:48:51",
+    "updated_at": 1779220131112,
     "trading_day": {
       "A": true,
       "HK": true,
