@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
-  "updated": "2026/05/19 19:38:54",
-  "updated_at": 1779190734291,
+  "updated": "2026/05/19 22:54:22",
+  "updated_at": 1779202462895,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "怎样使麻雀安静下来？压它一下，因为鸦雀无声（压雀无声）。"
+    "text": "你知道什么油最能鼓励人吗？加油。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49686.12,
-        "change": 159.95,
-        "change_pct": 0.32,
-        "trend": "up",
+        "price": 49438.05,
+        "change": -248.07,
+        "change_pct": -0.5,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/19 19:38:49",
-    "updated_at": 1779190729062,
+    "updated": "2026/05/19 22:54:17",
+    "updated_at": 1779202457641,
     "trading_day": {
       "A": true,
       "HK": true,
