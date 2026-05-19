@@ -1,7 +1,7 @@
 {
   "date": "2026-05-20",
-  "updated": "2026/05/20 05:16:51",
-  "updated_at": 1779225411106,
+  "updated": "2026/05/20 06:43:49",
+  "updated_at": 1779230629320,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "魔非魔，道非道，善恶在人心。欲非欲，情非情，姻缘由天定。"
+    "text": "或许人们所说的幸福 正是自己刚刚领悟的瞬间 用这份感动铭刻下自己崭新的一页。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/20 05:16:45",
-    "updated_at": 1779225405207,
+    "updated": "2026/05/20 06:43:42",
+    "updated_at": 1779230622786,
     "trading_day": {
       "A": true,
       "HK": true,
