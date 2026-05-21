@@ -1,7 +1,7 @@
 {
   "date": "2026-05-22",
-  "updated": "2026/05/22 01:11:51",
-  "updated_at": 1779383511289,
+  "updated": "2026/05/22 03:24:56",
+  "updated_at": 1779391496398,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "请珍惜对你好的人，否则错过了就不知道何时，才能再遇到另一个瞎了眼的。"
+    "text": "装逼只是瞬间，不要脸那才是永恒。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 50041.12,
-        "change": 31.77,
-        "change_pct": 0.06,
+        "price": 50277.66,
+        "change": 268.31,
+        "change_pct": 0.54,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/22 01:11:45",
-    "updated_at": 1779383505418,
+    "updated": "2026/05/22 03:24:50",
+    "updated_at": 1779391490724,
     "trading_day": {
       "A": true,
       "HK": true,
