@@ -1,7 +1,7 @@
 {
   "date": "2026-05-21",
-  "updated": "2026/05/21 07:47:25",
-  "updated_at": 1779320845684,
+  "updated": "2026/05/21 10:57:13",
+  "updated_at": 1779332233790,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "moyu_quote",
     "title": "🐟 摸鱼语录",
-    "text": "世界上有两种人：一种是在认真工作，一种是在摸鱼。前者为老板打工，后者为自己打工。"
+    "text": "别人上班赚工资，我上班只为摸鱼。我们不一样，不一样～"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "原神退游玩鸣潮了，号送给大家，谁都可以登，我已经对原神心死了，很厌烦每天像机器人一样，对这个游戏早已经没有了初心，比起原神里机械式地上班，我更想去寻找鸣潮中真正的快乐。把这个号当作公共号送给大家了，想玩的就直接上号吧，官服的。\n账号：KFCcrazy_Thursday\n密码：v_me50",
+  "kfc_content": "就算成功的概率为 1% 又如何呢，如太阳系般波澜壮阔，也只有 0.14% 产生了生命平凡的我们绝大多数也终将如整个太阳系的 99.86% 一般化作死寂。但这不重要朋友，今天是肯德基疯狂星期四，谁请我吃？",
   "date_info": {
     "year_month": "2026.05",
     "day": "21",
@@ -171,36 +171,36 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "原神退游玩鸣潮了，号送给大家，谁都可以登，我已经对原神心死了，很厌烦每天像机器人一样，对这个游戏早已经没有了初心，比起原神里机械式地上班，我更想去寻找鸣潮中真正的快乐。把这个号当作公共号送给大家了，想玩的就直接上号吧，官服的。\n账号：KFCcrazy_Thursday\n密码：v_me50"
+    "content": "就算成功的概率为 1% 又如何呢，如太阳系般波澜壮阔，也只有 0.14% 产生了生命平凡的我们绝大多数也终将如整个太阳系的 99.86% 一般化作死寂。但这不重要朋友，今天是肯德基疯狂星期四，谁请我吃？"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4162.18,
-        "change": -7.36,
-        "change_pct": -0.18,
-        "trend": "down",
+        "price": 4177.78,
+        "change": 15.6,
+        "change_pct": 0.37,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 15569.98,
-        "change": 0.07,
-        "change_pct": 0.0,
-        "trend": "flat",
+        "price": 15730.58,
+        "change": 160.6,
+        "change_pct": 1.03,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3921.79,
-        "change": 13.35,
-        "change_pct": 0.34,
+        "price": 3962.12,
+        "change": 40.33,
+        "change_pct": 1.03,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -208,9 +208,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25651.12,
-        "change": -146.73,
-        "change_pct": -0.57,
+        "price": 25640.66,
+        "change": -10.46,
+        "change_pct": -0.04,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/21 07:47:20",
-    "updated_at": 1779320840596,
+    "updated": "2026/05/21 10:57:08",
+    "updated_at": 1779332228406,
     "trading_day": {
       "A": true,
       "HK": true,
