@@ -1,7 +1,7 @@
 {
   "date": "2026-05-22",
-  "updated": "2026/05/22 18:54:12",
-  "updated_at": 1779447252263,
+  "updated": "2026/05/22 21:28:58",
+  "updated_at": 1779456538072,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "努力了这么久，但凡有点儿天赋，也该有些成功的迹象了。"
+    "text": "吃货的思路是，好吃你就多吃点，不好吃多少也要吃点。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/22 18:54:05",
-    "updated_at": 1779447245925,
+    "updated": "2026/05/22 21:28:53",
+    "updated_at": 1779456533095,
     "trading_day": {
       "A": true,
       "HK": true,
