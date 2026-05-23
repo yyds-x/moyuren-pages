@@ -1,7 +1,7 @@
 {
   "date": "2026-05-23",
-  "updated": "2026/05/23 06:55:16",
-  "updated_at": 1779490516326,
+  "updated": "2026/05/23 08:04:07",
+  "updated_at": 1779494647973,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "moyu_quote",
     "title": "🐟 摸鱼语录",
-    "text": "有的人为了工作而活着，有的人为了摸鱼而工作。我显然属于后者。"
+    "text": "摸鱼使我快乐，加班令我痛苦。人生在世，当然要追求快乐啊！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/23 06:55:12",
-    "updated_at": 1779490512320,
+    "updated": "2026/05/23 08:04:02",
+    "updated_at": 1779494642791,
     "trading_day": {
       "A": false,
       "HK": false,
