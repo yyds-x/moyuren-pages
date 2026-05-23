@@ -1,7 +1,7 @@
 {
   "date": "2026-05-24",
-  "updated": "2026/05/24 03:05:01",
-  "updated_at": 1779563101761,
+  "updated": "2026/05/24 04:13:34",
+  "updated_at": 1779567214063,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "皮卡丘站起来会变成什么？皮卡兵。"
+    "text": "我在家闲得长出了蘑菇，煮了吃掉后中毒了，医生说我中的是好菇毒（好孤独）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/24 03:04:57",
-    "updated_at": 1779563097683,
+    "updated": "2026/05/24 04:13:29",
+    "updated_at": 1779567209729,
     "trading_day": {
       "A": false,
       "HK": false,
