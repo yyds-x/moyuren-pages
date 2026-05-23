@@ -1,7 +1,7 @@
 {
   "date": "2026-05-24",
-  "updated": "2026/05/24 00:04:11",
-  "updated_at": 1779552251842,
+  "updated": "2026/05/24 01:33:19",
+  "updated_at": 1779557599523,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一山不容二虎，二山呢？二三得六。"
+    "text": "许仙给白娘子买了顶帽子，但是白娘子不敢戴，为什么？因为买的是压蛇（鸭舌）帽。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/24 00:04:06",
-    "updated_at": 1779552246599,
+    "updated": "2026/05/24 01:33:15",
+    "updated_at": 1779557595509,
     "trading_day": {
       "A": false,
       "HK": false,
