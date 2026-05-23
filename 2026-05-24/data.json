@@ -1,7 +1,7 @@
 {
   "date": "2026-05-24",
-  "updated": "2026/05/24 04:13:34",
-  "updated_at": 1779567214063,
+  "updated": "2026/05/24 05:25:02",
+  "updated_at": 1779571502312,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "我在家闲得长出了蘑菇，煮了吃掉后中毒了，医生说我中的是好菇毒（好孤独）。"
+    "text": "有一个人姓铁，他从小到大都不长头发，因为他得了“老铁没毛病”。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/24 04:13:29",
-    "updated_at": 1779567209729,
+    "updated": "2026/05/24 05:24:56",
+    "updated_at": 1779571496616,
     "trading_day": {
       "A": false,
       "HK": false,
