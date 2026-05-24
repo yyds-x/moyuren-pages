@@ -1,7 +1,7 @@
 {
   "date": "2026-05-25",
-  "updated": "2026/05/25 06:30:39",
-  "updated_at": 1779661839674,
+  "updated": "2026/05/25 07:57:31",
+  "updated_at": 1779667051738,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "众里寻她千百度，蓦然回首，那人依旧对我不屑一顾。"
+    "text": "我尝试着做一个有趣的人，后来却跑偏了，成了一个逗逼。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/25 06:30:34",
-    "updated_at": 1779661834173,
+    "updated": "2026/05/25 07:57:26",
+    "updated_at": 1779667046117,
     "trading_day": {
       "A": true,
       "HK": false,
