@@ -1,7 +1,7 @@
 {
   "date": "2026-05-24",
-  "updated": "2026/05/24 13:58:47",
-  "updated_at": 1779602327712,
+  "updated": "2026/05/24 16:37:10",
+  "updated_at": 1779611830900,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "比天上的星星小一点的是什么？是鸿星。因为星八克，鸿星二克。"
+    "text": "知道狐狸为啥站不起来嘛？因为他狡猾（脚滑）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/24 13:58:42",
-    "updated_at": 1779602322571,
+    "updated": "2026/05/24 16:37:05",
+    "updated_at": 1779611825514,
     "trading_day": {
       "A": false,
       "HK": false,
