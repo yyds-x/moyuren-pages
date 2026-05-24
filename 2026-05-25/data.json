@@ -1,7 +1,7 @@
 {
   "date": "2026-05-25",
-  "updated": "2026/05/25 02:35:41",
-  "updated_at": 1779647741362,
+  "updated": "2026/05/25 04:02:30",
+  "updated_at": 1779652950199,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "从小到大，唯一不变的，就是一颗不想念书的心。"
+    "text": "从今天开始，接受来自三大姑八大姨，灵魂的拷问。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/25 02:35:36",
-    "updated_at": 1779647736397,
+    "updated": "2026/05/25 04:02:25",
+    "updated_at": 1779652945233,
     "trading_day": {
       "A": true,
       "HK": false,
