@@ -1,7 +1,7 @@
 {
   "date": "2026-05-25",
-  "updated": "2026/05/25 04:02:30",
-  "updated_at": 1779652950199,
+  "updated": "2026/05/25 05:28:06",
+  "updated_at": 1779658086979,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "从今天开始，接受来自三大姑八大姨，灵魂的拷问。"
+    "text": "不要轻易向命运低头，因为，一低头就会看到赘肉。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/25 04:02:25",
-    "updated_at": 1779652945233,
+    "updated": "2026/05/25 05:28:01",
+    "updated_at": 1779658081541,
     "trading_day": {
       "A": true,
       "HK": false,
