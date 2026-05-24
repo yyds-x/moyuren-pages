@@ -1,7 +1,7 @@
 {
   "date": "2026-05-25",
-  "updated": "2026/05/25 05:28:06",
-  "updated_at": 1779658086979,
+  "updated": "2026/05/25 06:30:39",
+  "updated_at": 1779661839674,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "不要轻易向命运低头，因为，一低头就会看到赘肉。"
+    "text": "众里寻她千百度，蓦然回首，那人依旧对我不屑一顾。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/25 05:28:01",
-    "updated_at": 1779658081541,
+    "updated": "2026/05/25 06:30:34",
+    "updated_at": 1779661834173,
     "trading_day": {
       "A": true,
       "HK": false,
