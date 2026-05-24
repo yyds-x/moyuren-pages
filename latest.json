@@ -1,7 +1,7 @@
 {
   "date": "2026-05-24",
-  "updated": "2026/05/24 22:48:40",
-  "updated_at": 1779634120941,
+  "updated": "2026/05/24 23:59:25",
+  "updated_at": 1779638365609,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一只迷路的蚂蚁问另一只蚂蚁：“你都如何回蚁窝（回忆我）？”被问的蚂蚁：“带着笑或是很沉默？”"
+    "text": "有一根火柴在路上走，觉得头痒就挠，挠着挠着火就着了，最后灭了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/24 22:48:34",
-    "updated_at": 1779634114753,
+    "updated": "2026/05/24 23:59:20",
+    "updated_at": 1779638360415,
     "trading_day": {
       "A": false,
       "HK": false,
