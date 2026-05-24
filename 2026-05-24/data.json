@@ -1,16 +1,16 @@
 {
   "date": "2026-05-24",
-  "updated": "2026/05/24 19:49:42",
-  "updated_at": 1779623382940,
+  "updated": "2026/05/24 21:18:51",
+  "updated_at": 1779628731917,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期日",
   "lunar_date": "四月初八",
   "fun_content": {
-    "type": "dad_joke",
-    "title": "🤣 冷笑话",
-    "text": "美杜莎石化了一位将军的妻子，将军怒道：敢石化贱内！美杜莎：恨…恨别鸟惊心。"
+    "type": "moyu_quote",
+    "title": "🐟 摸鱼语录",
+    "text": "钱是老板的，命是自己的。工作做不完还有明天，命没了就真的没了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/24 19:49:38",
-    "updated_at": 1779623378601,
+    "updated": "2026/05/24 21:18:46",
+    "updated_at": 1779628726603,
     "trading_day": {
       "A": false,
       "HK": false,
