@@ -1,7 +1,7 @@
 {
   "date": "2026-05-25",
-  "updated": "2026/05/25 12:01:36",
-  "updated_at": 1779681696247,
+  "updated": "2026/05/25 16:44:29",
+  "updated_at": 1779698669994,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你怎么长得跟个二维码似的，不扫一下，都不知道你是什么东西！"
+    "text": "蠢萌的前提是萌，不是蠢。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -172,9 +172,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4136.25,
-        "change": 23.35,
-        "change_pct": 0.57,
+        "price": 4152.57,
+        "change": 39.67,
+        "change_pct": 0.96,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -182,9 +182,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 15732.86,
-        "change": 135.56,
-        "change_pct": 0.87,
+        "price": 15856.61,
+        "change": 259.31,
+        "change_pct": 1.66,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -192,9 +192,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3983.3,
-        "change": 44.8,
-        "change_pct": 1.14,
+        "price": 4021.16,
+        "change": 82.66,
+        "change_pct": 2.1,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/25 12:01:32",
-    "updated_at": 1779681692066,
+    "updated": "2026/05/25 16:44:24",
+    "updated_at": 1779698664521,
     "trading_day": {
       "A": true,
       "HK": false,
