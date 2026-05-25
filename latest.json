@@ -1,7 +1,7 @@
 {
   "date": "2026-05-25",
-  "updated": "2026/05/25 20:27:11",
-  "updated_at": 1779712031822,
+  "updated": "2026/05/25 23:36:49",
+  "updated_at": 1779723409145,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "作为失败的典型，你实在是太成功了。"
+    "text": "装逼只是瞬间，不要脸那才是永恒。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/25 20:27:08",
-    "updated_at": 1779712028302,
+    "updated": "2026/05/25 23:36:45",
+    "updated_at": 1779723405869,
     "trading_day": {
       "A": true,
       "HK": false,
