@@ -1,7 +1,7 @@
 {
   "date": "2026-05-26",
-  "updated": "2026/05/26 06:05:32",
-  "updated_at": 1779746732266,
+  "updated": "2026/05/26 07:38:05",
+  "updated_at": 1779752285726,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "哪里的人不需要用电？缅甸人。"
+    "text": "吃饺子时饺子馅冷了应该怎么办？播打热线（馅）电话。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/26 06:05:27",
-    "updated_at": 1779746727656,
+    "updated": "2026/05/26 07:37:56",
+    "updated_at": 1779752276938,
     "trading_day": {
       "A": true,
       "HK": true,
