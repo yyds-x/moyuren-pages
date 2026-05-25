@@ -1,7 +1,7 @@
 {
   "date": "2026-05-26",
-  "updated": "2026/05/26 01:40:45",
-  "updated_at": 1779730845653,
+  "updated": "2026/05/26 03:24:59",
+  "updated_at": 1779737099316,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "柯南一直惯着小兰，他可真是个惯兰（灌篮）高手。"
+    "text": "蝴蝶吃胖了会变成什么？发福蝶。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/26 01:40:40",
-    "updated_at": 1779730840210,
+    "updated": "2026/05/26 03:24:53",
+    "updated_at": 1779737093916,
     "trading_day": {
       "A": true,
       "HK": true,
