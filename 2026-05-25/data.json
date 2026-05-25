@@ -1,7 +1,7 @@
 {
   "date": "2026-05-25",
-  "updated": "2026/05/25 16:44:29",
-  "updated_at": 1779698669994,
+  "updated": "2026/05/25 20:27:11",
+  "updated_at": 1779712031822,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "蠢萌的前提是萌，不是蠢。"
+    "text": "作为失败的典型，你实在是太成功了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/25 16:44:24",
-    "updated_at": 1779698664521,
+    "updated": "2026/05/25 20:27:08",
+    "updated_at": 1779712028302,
     "trading_day": {
       "A": true,
       "HK": false,
