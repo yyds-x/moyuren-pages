@@ -1,7 +1,7 @@
 {
   "date": "2026-05-26",
-  "updated": "2026/05/26 04:48:36",
-  "updated_at": 1779742116589,
+  "updated": "2026/05/26 06:05:32",
+  "updated_at": 1779746732266,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "怎样使麻雀安静下来？压它一下，因为鸦雀无声（压雀无声）。"
+    "text": "哪里的人不需要用电？缅甸人。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/26 04:48:31",
-    "updated_at": 1779742111783,
+    "updated": "2026/05/26 06:05:27",
+    "updated_at": 1779746727656,
     "trading_day": {
       "A": true,
       "HK": true,
