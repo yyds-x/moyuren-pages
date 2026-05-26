@@ -1,7 +1,7 @@
 {
   "date": "2026-05-27",
-  "updated": "2026/05/27 03:33:06",
-  "updated_at": 1779823986571,
+  "updated": "2026/05/27 05:41:22",
+  "updated_at": 1779831682136,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "能像个笨蛋般尽情的欢笑，那是多大的快乐。"
+    "text": "树不修，长不直；人不学，没知识"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 50423.8,
-        "change": -155.9,
-        "change_pct": -0.31,
+        "price": 50461.68,
+        "change": -118.02,
+        "change_pct": -0.23,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/27 03:33:01",
-    "updated_at": 1779823981052,
+    "updated": "2026/05/27 05:41:16",
+    "updated_at": 1779831676915,
     "trading_day": {
       "A": true,
       "HK": true,
