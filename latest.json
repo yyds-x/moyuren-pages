@@ -1,7 +1,7 @@
 {
   "date": "2026-05-27",
-  "updated": "2026/05/27 18:36:42",
-  "updated_at": 1779878202356,
+  "updated": "2026/05/27 22:24:51",
+  "updated_at": 1779891891166,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我情愿在你的记忆里淡忘，也不愿你为我受伤。我情愿在你的记忆里淡忘，也不愿你为我受伤。"
+    "text": "如果死了尊严还有什么用。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 50461.68,
-        "change": -118.02,
-        "change_pct": -0.23,
-        "trend": "down",
+        "price": 50749.75,
+        "change": 288.07,
+        "change_pct": 0.57,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/27 18:36:36",
-    "updated_at": 1779878196457,
+    "updated": "2026/05/27 22:24:44",
+    "updated_at": 1779891884291,
     "trading_day": {
       "A": true,
       "HK": true,
