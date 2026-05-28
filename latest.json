@@ -1,7 +1,7 @@
 {
   "date": "2026-05-28",
-  "updated": "2026/05/28 10:49:08",
-  "updated_at": 1779936548335,
+  "updated": "2026/05/28 14:52:25",
+  "updated_at": 1779951145889,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "我能想到最浪漫的事，就是和你一起吃吃吃，然后你付钱。"
+    "text": "单身至今的原因是，熟人不好下手，生人不好开口。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "车子千万不要外借！我真是吃了大亏了！朋友找我借车，碍于面子不好意思不借，结果昨天在路上遇见了，一点都不爱惜我的车，上坡还站起来蹬车，链子都掉了！气死我了！幸好今天是肯德基疯狂星期四，有人请我吃我感觉会好点",
+  "kfc_content": "xray 有孩子这件事，我觉得和勾股定理是有关系的，热带雨林的蝴蝶煽动了翅膀导致了大气逆辐射的增加，这使得春天来临的速度加快，春天来的快就会让鸡交配更快，更快就意味着未来更多的鸡肉，这能使得肯德基持续采取疯狂星期 X 的计划，这个时候，由于厄尔尼诺的效应，产生了伽马射线，这样我们才能让 xray 生出更多的疯狂星期四，得出结论：V 我 50",
   "date_info": {
     "year_month": "2026.05",
     "day": "28",
@@ -170,17 +170,68 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "车子千万不要外借！我真是吃了大亏了！朋友找我借车，碍于面子不好意思不借，结果昨天在路上遇见了，一点都不爱惜我的车，上坡还站起来蹬车，链子都掉了！气死我了！幸好今天是肯德基疯狂星期四，有人请我吃我感觉会好点"
+    "content": "xray 有孩子这件事，我觉得和勾股定理是有关系的，热带雨林的蝴蝶煽动了翅膀导致了大气逆辐射的增加，这使得春天来临的速度加快，春天来的快就会让鸡交配更快，更快就意味着未来更多的鸡肉，这能使得肯德基持续采取疯狂星期 X 的计划，这个时候，由于厄尔尼诺的效应，产生了伽马射线，这样我们才能让 xray 生出更多的疯狂星期四，得出结论：V 我 50"
   },
   "stock_indices": {
-    "items": [],
-    "updated": "2026/05/28 10:48:59",
-    "updated_at": 1779936539287,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 4095.77,
+        "change": 2.04,
+        "change_pct": 0.05,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 15854.25,
+        "change": 117.78,
+        "change_pct": 0.75,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 4123.02,
+        "change": 77.25,
+        "change_pct": 1.91,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 24980.51,
+        "change": -347.72,
+        "change_pct": -1.37,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": true
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 50644.28,
+        "change": 182.6,
+        "change_pct": 0.36,
+        "trend": "up",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/05/28 14:52:21",
+    "updated_at": 1779951141544,
     "trading_day": {
-      "A": false,
-      "HK": false,
-      "US": false
+      "A": true,
+      "HK": true,
+      "US": true
     },
-    "is_stale": true
+    "is_stale": false
   }
 }
