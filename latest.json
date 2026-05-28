@@ -1,7 +1,7 @@
 {
   "date": "2026-05-29",
-  "updated": "2026/05/29 04:42:15",
-  "updated_at": 1780000935979,
+  "updated": "2026/05/29 06:40:03",
+  "updated_at": 1780008003382,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "不要轻易看不起谁，就算是杀马特，发量都比你多。"
+    "text": "比尔盖茨休学创业，成为世界首富，可是人家休得是哈佛大学。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/29 04:42:10",
-    "updated_at": 1780000930328,
+    "updated": "2026/05/29 06:39:59",
+    "updated_at": 1780007999252,
     "trading_day": {
       "A": true,
       "HK": true,
