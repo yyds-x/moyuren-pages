@@ -1,7 +1,7 @@
 {
   "date": "2026-05-30",
-  "updated": "2026/05/30 03:06:59",
-  "updated_at": 1780081619853,
+  "updated": "2026/05/30 05:21:10",
+  "updated_at": 1780089670574,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "孙悟空逃不出如来的手掌心，但他可以逃出耶稣的手掌心，为什么？因为耶稣被钉在十字架上，手里有个洞。"
+    "text": "小明走着走着突然脚酸了，为什么？因为他踩到柠檬了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 50984.35,
-        "change": 315.38,
-        "change_pct": 0.62,
+        "price": 51032.46,
+        "change": 363.49,
+        "change_pct": 0.72,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/30 03:06:53",
-    "updated_at": 1780081613482,
+    "updated": "2026/05/30 05:21:05",
+    "updated_at": 1780089665915,
     "trading_day": {
       "A": false,
       "HK": false,
