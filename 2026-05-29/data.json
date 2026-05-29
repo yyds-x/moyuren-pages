@@ -1,7 +1,7 @@
 {
   "date": "2026-05-29",
-  "updated": "2026/05/29 16:40:23",
-  "updated_at": 1780044023964,
+  "updated": "2026/05/29 20:13:10",
+  "updated_at": 1780056790203,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "世人笑我太疯癫，我笑世人这么快就看出来了。"
+    "text": "春节假期，从跳过早午餐开始。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/29 16:40:19",
-    "updated_at": 1780044019161,
+    "updated": "2026/05/29 20:13:04",
+    "updated_at": 1780056784284,
     "trading_day": {
       "A": true,
       "HK": true,
