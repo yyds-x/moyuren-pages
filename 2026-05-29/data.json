@@ -1,7 +1,7 @@
 {
   "date": "2026-05-29",
-  "updated": "2026/05/29 06:40:03",
-  "updated_at": 1780008003382,
+  "updated": "2026/05/29 08:08:26",
+  "updated_at": 1780013306382,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "比尔盖茨休学创业，成为世界首富，可是人家休得是哈佛大学。"
+    "text": "你以为你是灰姑娘吗？拜托别做梦了，她可是伯爵的女儿。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/29 06:39:59",
-    "updated_at": 1780007999252,
+    "updated": "2026/05/29 08:08:22",
+    "updated_at": 1780013302366,
     "trading_day": {
       "A": true,
       "HK": true,
