@@ -1,7 +1,7 @@
 {
   "date": "2026-05-30",
-  "updated": "2026/05/30 15:38:46",
-  "updated_at": 1780126726087,
+  "updated": "2026/05/30 17:57:00",
+  "updated_at": 1780135020331,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有一个人姓铁，他从小到大都不长头发，因为他得了“老铁没毛病”。"
+    "text": "有个人长得像洋葱，走着走着就哭了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/30 15:38:39",
-    "updated_at": 1780126719280,
+    "updated": "2026/05/30 17:56:54",
+    "updated_at": 1780135014918,
     "trading_day": {
       "A": false,
       "HK": false,
