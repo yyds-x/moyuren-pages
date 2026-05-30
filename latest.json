@@ -1,7 +1,7 @@
 {
   "date": "2026-05-30",
-  "updated": "2026/05/30 08:06:29",
-  "updated_at": 1780099589129,
+  "updated": "2026/05/30 12:33:07",
+  "updated_at": 1780115587913,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有一只老虎感冒了，要吃掉熊猫，为什么？因为感冒要吃白加黑。"
+    "text": "什么是规定？乌龟的屁股。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,15 +219,15 @@
         "change_pct": 0.72,
         "trend": "up",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/05/30 08:06:23",
-    "updated_at": 1780099583867,
+    "updated": "2026/05/30 12:33:02",
+    "updated_at": 1780115582140,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }
