@@ -1,7 +1,7 @@
 {
   "date": "2026-05-30",
-  "updated": "2026/05/30 22:26:45",
-  "updated_at": 1780151205929,
+  "updated": "2026/05/30 23:46:11",
+  "updated_at": 1780155971590,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "老虎叫什么名字？眈眈，因为虎视（是）眈眈。"
+    "text": "风的孩子叫什么？水起（风生水起）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/30 22:26:38",
-    "updated_at": 1780151198823,
+    "updated": "2026/05/30 23:46:07",
+    "updated_at": 1780155967464,
     "trading_day": {
       "A": false,
       "HK": false,
