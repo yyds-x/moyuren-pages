@@ -1,7 +1,7 @@
 {
   "date": "2026-05-31",
-  "updated": "2026/05/31 07:04:22",
-  "updated_at": 1780182262837,
+  "updated": "2026/05/31 09:34:09",
+  "updated_at": 1780191249558,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "moyu_quote",
     "title": "🐟 摸鱼语录",
-    "text": "工作再累，一天也是24小时；摸鱼再爽，一天也是24小时。既然都是24小时，为什么不选择爽呢？"
+    "text": "老板赚的是我们加班的钱，我摸的是老板的鱼。谁占便宜还不一定呢。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/31 07:04:17",
-    "updated_at": 1780182257341,
+    "updated": "2026/05/31 09:34:05",
+    "updated_at": 1780191245228,
     "trading_day": {
       "A": false,
       "HK": false,
