@@ -1,7 +1,7 @@
 {
   "date": "2026-06-02",
-  "updated": "2026/06/02 02:35:41",
-  "updated_at": 1780338941501,
+  "updated": "2026/06/02 05:58:27",
+  "updated_at": 1780351107458,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "狗急了会跳墙，那人急了呢？人急了上厕所。"
+    "text": "我在家闲得长出了蘑菇，煮了吃掉后中毒了，医生说我中的是好菇毒（好孤独）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -215,16 +215,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51035.52,
-        "change": 3.06,
-        "change_pct": 0.01,
+        "price": 51078.88,
+        "change": 46.42,
+        "change_pct": 0.09,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/02 02:35:32",
-    "updated_at": 1780338932944,
+    "updated": "2026/06/02 05:58:22",
+    "updated_at": 1780351102328,
     "trading_day": {
       "A": true,
       "HK": true,
