@@ -1,7 +1,7 @@
 {
   "date": "2026-06-03",
-  "updated": "2026/06/03 00:59:33",
-  "updated_at": 1780419573532,
+  "updated": "2026/06/03 04:10:03",
+  "updated_at": 1780431003419,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "如果我有什么，让你不喜欢的地方，麻烦你自己克服一下。"
+    "text": "别人都是为怎么挣钱而发愁，我却是为怎么花钱而发愁，二十块怎么能花到下月十号？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51229.66,
-        "change": 150.78,
-        "change_pct": 0.3,
+        "price": 51307.79,
+        "change": 228.91,
+        "change_pct": 0.45,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/03 00:59:27",
-    "updated_at": 1780419567993,
+    "updated": "2026/06/03 04:09:57",
+    "updated_at": 1780430997853,
     "trading_day": {
       "A": true,
       "HK": true,
