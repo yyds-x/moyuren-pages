@@ -1,7 +1,7 @@
 {
   "date": "2026-06-02",
-  "updated": "2026/06/02 16:25:55",
-  "updated_at": 1780388755698,
+  "updated": "2026/06/02 20:24:39",
+  "updated_at": 1780403079155,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "吃饺子时饺子馅冷了应该怎么办？播打热线（馅）电话。"
+    "text": "猫会喵喵喵，狗会汪汪汪，鸭会嘎嘎嘎，鸡会什么？鸡会留给有准备的人。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/02 16:25:50",
-    "updated_at": 1780388750043,
+    "updated": "2026/06/02 20:24:32",
+    "updated_at": 1780403072922,
     "trading_day": {
       "A": true,
       "HK": true,
