@@ -1,7 +1,7 @@
 {
   "date": "2026-06-03",
-  "updated": "2026/06/03 06:32:53",
-  "updated_at": 1780439573666,
+  "updated": "2026/06/03 08:25:34",
+  "updated_at": 1780446334884,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "天生我才必有用，前提是，你得是“天”生的。"
+    "text": "我不想读书，主要是因为家里牛啊，猪啊羊啊都没人喂。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/03 06:32:48",
-    "updated_at": 1780439568342,
+    "updated": "2026/06/03 08:25:30",
+    "updated_at": 1780446330926,
     "trading_day": {
       "A": true,
       "HK": true,
