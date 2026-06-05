@@ -1,7 +1,7 @@
 {
   "date": "2026-06-05",
-  "updated": "2026/06/05 15:51:10",
-  "updated_at": 1780645870630,
+  "updated": "2026/06/05 19:24:32",
+  "updated_at": 1780658672933,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "别说自己是单身狗，狗还可以三妻四妾。"
+    "text": "考试真是so easy，哪里不会考哪里！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -202,9 +202,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24959.53,
-        "change": -293.87,
-        "change_pct": -1.16,
+        "price": 24961.95,
+        "change": -291.45,
+        "change_pct": -1.15,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/05 15:51:05",
-    "updated_at": 1780645865083,
+    "updated": "2026/06/05 19:24:28",
+    "updated_at": 1780658668924,
     "trading_day": {
       "A": true,
       "HK": true,
