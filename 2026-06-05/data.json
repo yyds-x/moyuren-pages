@@ -1,7 +1,7 @@
 {
   "date": "2026-06-05",
-  "updated": "2026/06/05 19:24:32",
-  "updated_at": 1780658672933,
+  "updated": "2026/06/05 22:05:49",
+  "updated_at": 1780668349081,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "考试真是so easy，哪里不会考哪里！"
+    "text": "时间就是金钱，我在浪费时间？不～我只是在炫富！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51561.93,
-        "change": 874.86,
-        "change_pct": 1.73,
-        "trend": "up",
+        "price": 51500.69,
+        "change": -61.24,
+        "change_pct": -0.12,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/05 19:24:28",
-    "updated_at": 1780658668924,
+    "updated": "2026/06/05 22:05:40",
+    "updated_at": 1780668340549,
     "trading_day": {
       "A": true,
       "HK": true,
