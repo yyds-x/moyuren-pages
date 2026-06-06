@@ -1,7 +1,7 @@
 {
   "date": "2026-06-06",
-  "updated": "2026/06/06 19:03:36",
-  "updated_at": 1780743816674,
+  "updated": "2026/06/06 20:50:46",
+  "updated_at": 1780750246381,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "我有个朋友停止了抱怨，开始努力奋斗，几年过去了还是这个鸟样。"
+    "text": "别人都是为怎么挣钱而发愁，我却是为怎么花钱而发愁，二十块怎么能花到下月十号？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/06/06 19:03:32",
-    "updated_at": 1780743812709,
+    "updated": "2026/06/06 20:50:40",
+    "updated_at": 1780750240373,
     "trading_day": {
       "A": false,
       "HK": false,
