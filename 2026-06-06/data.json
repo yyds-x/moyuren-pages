@@ -1,7 +1,7 @@
 {
   "date": "2026-06-06",
-  "updated": "2026/06/06 10:49:03",
-  "updated_at": 1780714143915,
+  "updated": "2026/06/06 14:28:40",
+  "updated_at": 1780727320269,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "什么都在涨价，就是人越来越贱。"
+    "text": "暗恋的人没有，想暗杀的倒有一堆。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,15 +219,15 @@
         "change_pct": -1.35,
         "trend": "down",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/06/06 10:48:59",
-    "updated_at": 1780714139986,
+    "updated": "2026/06/06 14:28:33",
+    "updated_at": 1780727313724,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }
