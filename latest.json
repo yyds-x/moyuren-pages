@@ -1,7 +1,7 @@
 {
   "date": "2026-06-07",
-  "updated": "2026/06/07 13:05:47",
-  "updated_at": 1780808747066,
+  "updated": "2026/06/07 16:34:20",
+  "updated_at": 1780821260201,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我情愿在你的记忆里淡忘，也不愿你为我受伤。我情愿在你的记忆里淡忘，也不愿你为我受伤。"
+    "text": "与你的生命等价的东西，这个世界上根本没有。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -218,8 +218,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/06/07 13:05:39",
-    "updated_at": 1780808739927,
+    "updated": "2026/06/07 16:34:12",
+    "updated_at": 1780821252440,
     "trading_day": {
       "A": false,
       "HK": false,
